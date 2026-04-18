@@ -1,2 +1,2 @@
 :HL["/school-explorer/_next/static/css/27bf2d2979895339.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"mhS4Gc2k6EPiOwCCGxinN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"cDUAl0NOzEqloAs9uT1Db"}
