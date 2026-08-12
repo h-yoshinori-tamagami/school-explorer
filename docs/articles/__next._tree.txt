@@ -1,0 +1,3 @@
+:HL["/_next/static/css/1a663e7bbc1ea2ea.css","style"]
+:HL["/images/chuju-ai-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"articles","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WaKWJ2JDLcCqIH4IFC0_v"}

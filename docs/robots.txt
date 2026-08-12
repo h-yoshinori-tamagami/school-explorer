@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://chuju-ai.jp/sitemap.xml
