@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fareas\u002F[area]","\u002Farticles\u002F[slug]","\u002Fdeviation-ranges\u002F[range]","\u002Fschool-types\u002F[type]","\u002Fschools\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

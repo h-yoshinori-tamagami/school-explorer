@@ -1,0 +1,2 @@
+:HL["/_next/static/css/e5541e66d00590eb.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"deviation-ranges","param":null,"prefetchHints":0,"slots":{"children":{"name":"range","param":{"type":"d","key":"40-49","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"EuMMdhNj5ETyTy9Rm-P1f"}
