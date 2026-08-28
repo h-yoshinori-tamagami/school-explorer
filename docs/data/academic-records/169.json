@@ -1,0 +1,63 @@
+{
+  "school_id": 169,
+  "academic_records": [
+    {
+      "id": 1046,
+      "school_id": 169,
+      "academic_year": 2026,
+      "institution_name": "同志社大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kansai/school/B28P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に同志社大学 1名と掲載。"
+    },
+    {
+      "id": 8493,
+      "school_id": 169,
+      "academic_year": 2026,
+      "institution_name": "岐阜薬科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kansai/school/B28P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に岐阜薬科大学 1名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 442,
+      "school_id": 169,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B28P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 443,
+      "school_id": 169,
+      "academic_year": 2025,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B28P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 444,
+      "school_id": 169,
+      "academic_year": 2024,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B28P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

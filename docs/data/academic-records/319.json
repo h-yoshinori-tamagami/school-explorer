@@ -1,0 +1,76 @@
+{
+  "school_id": 319,
+  "academic_records": [
+    {
+      "id": 471,
+      "school_id": 319,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.hoshino.ac.jp/images/lower_page/03_career_guidance/pass_record/2026_goukaku4.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026年度の早稲田大学合格者数は10名."
+    },
+    {
+      "id": 470,
+      "school_id": 319,
+      "academic_year": 2025,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.hoshino.ac.jp/images/lower_page/03_career_guidance/pass_record/2026_goukaku4.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025年度の早稲田大学合格者数は5名。"
+    },
+    {
+      "id": 469,
+      "school_id": 319,
+      "academic_year": 2024,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 14,
+      "source_url": "https://www.hoshino.ac.jp/images/lower_page/03_career_guidance/pass_record/2026_goukaku4.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024年度の早稲田大学合格者数は14名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 883,
+      "school_id": 319,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.hoshino.ac.jp/images/lower_page/03_career_guidance/pass_record/2026_goukaku4.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 884,
+      "school_id": 319,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.hoshino.ac.jp/images/lower_page/03_career_guidance/pass_record/2026_goukaku4.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 885,
+      "school_id": 319,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.hoshino.ac.jp/images/lower_page/03_career_guidance/pass_record/2026_goukaku4.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

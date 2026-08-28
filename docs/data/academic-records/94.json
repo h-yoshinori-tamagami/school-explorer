@@ -1,0 +1,76 @@
+{
+  "school_id": 94,
+  "academic_records": [
+    {
+      "id": 180,
+      "school_id": 94,
+      "academic_year": 2024,
+      "institution_name": "東京女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 14,
+      "source_url": "https://js.jumonji-u.ac.jp/0622_jumonji_DB2025_55.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式学校案内掲載の2024年度実績で、東京女子大学14名。"
+    },
+    {
+      "id": 181,
+      "school_id": 94,
+      "academic_year": 2023,
+      "institution_name": "東京女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 14,
+      "source_url": "https://js.jumonji-u.ac.jp/0622_jumonji_DB2025_55.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式学校案内掲載の2023年度実績で、東京女子大学14名。"
+    },
+    {
+      "id": 182,
+      "school_id": 94,
+      "academic_year": 2022,
+      "institution_name": "東京女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 14,
+      "source_url": "https://js.jumonji-u.ac.jp/0622_jumonji_DB2025_55.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式学校案内掲載の2022年度実績で、東京女子大学14名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 217,
+      "school_id": 94,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://js.jumonji-u.ac.jp/0622_jumonji_DB2025_55.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、東京女子大学の2024年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 218,
+      "school_id": 94,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://js.jumonji-u.ac.jp/0622_jumonji_DB2025_55.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、東京女子大学の2023年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 219,
+      "school_id": 94,
+      "academic_year": 2022,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://js.jumonji-u.ac.jp/0622_jumonji_DB2025_55.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、東京女子大学の2022年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

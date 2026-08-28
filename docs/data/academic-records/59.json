@@ -1,0 +1,76 @@
+{
+  "school_id": 59,
+  "academic_records": [
+    {
+      "id": 108,
+      "school_id": 59,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.inter-edu.com/univ/2026/schools/1833/jisseki/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年の東京大学合格者数は1名。"
+    },
+    {
+      "id": 109,
+      "school_id": 59,
+      "academic_year": 2025,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.minkou.jp/hischool/school/university/88860/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度の東京大学合格者数は1名。"
+    },
+    {
+      "id": 110,
+      "school_id": 59,
+      "academic_year": 2024,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.minkou.jp/hischool/school/university/88860/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度の東京大学合格者数は3名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 112,
+      "school_id": 59,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.inter-edu.com/univ/2026/schools/1833/jisseki/",
+      "verified_at": "2026-08-17",
+      "reason": "公立中等教育学校の2026年速報で東京大学1名を確認し、構造化して登録。"
+    },
+    {
+      "id": 113,
+      "school_id": 59,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.minkou.jp/hischool/school/university/88860/",
+      "verified_at": "2026-08-17",
+      "reason": "進学実績ページで東京大学1名を確認し、構造化して登録。"
+    },
+    {
+      "id": 114,
+      "school_id": 59,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.minkou.jp/hischool/school/university/88860/",
+      "verified_at": "2026-08-17",
+      "reason": "進学実績ページで東京大学3名を確認し、構造化して登録。"
+    }
+  ]
+}

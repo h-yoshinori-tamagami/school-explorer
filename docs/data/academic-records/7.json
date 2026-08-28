@@ -1,0 +1,30 @@
+{
+  "school_id": 7,
+  "academic_records": [
+    {
+      "id": 42,
+      "school_id": 7,
+      "academic_year": 2025,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 11,
+      "source_url": "https://www.caritas.ed.jp/career/achievement/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度卒業生の進路状況（2026年5月8日把握分）で、慶應義塾大学11名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 43,
+      "school_id": 7,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.caritas.ed.jp/career/achievement/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の年度別大学合格状況を確認し、構造化実績を登録。"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "school_id": 302,
+  "academic_records": [
+    {
+      "id": 452,
+      "school_id": 302,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "study1",
+      "count": 472,
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026年3月卒業生の早稲田大学進学学部内訳は計472名。"
+    },
+    {
+      "id": 14564,
+      "school_id": 302,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 472,
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に早稲田大学 472名と掲載。"
+    },
+    {
+      "id": 451,
+      "school_id": 302,
+      "academic_year": 2025,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "study1",
+      "count": 470,
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025年3月卒業生の早稲田大学進学者数は470名。"
+    },
+    {
+      "id": 450,
+      "school_id": 302,
+      "academic_year": 2024,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "study1",
+      "count": 454,
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024年3月卒業生の早稲田大学進学学部内訳は計454名。"
+    },
+    {
+      "id": 14565,
+      "school_id": 302,
+      "academic_year": 2024,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 454,
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に早稲田大学 454名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 838,
+      "school_id": 302,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 839,
+      "school_id": 302,
+      "academic_year": 2025,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 840,
+      "school_id": 302,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

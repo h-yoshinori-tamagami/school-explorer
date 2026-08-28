@@ -1,0 +1,89 @@
+{
+  "school_id": 519,
+  "academic_records": [
+    {
+      "id": 28138,
+      "school_id": 519,
+      "academic_year": 2026,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 384,
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 384名と掲載。"
+    },
+    {
+      "id": 818,
+      "school_id": 519,
+      "academic_year": 2026,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 338,
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に立命館大学 338名と掲載。"
+    },
+    {
+      "id": 817,
+      "school_id": 519,
+      "academic_year": 2025,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 340,
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に立命館大学 340名と掲載。"
+    },
+    {
+      "id": 816,
+      "school_id": 519,
+      "academic_year": 2024,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 369,
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に立命館大学 369名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 1474,
+      "school_id": 519,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1475,
+      "school_id": 519,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1476,
+      "school_id": 519,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B27P023/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

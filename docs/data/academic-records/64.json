@@ -1,0 +1,76 @@
+{
+  "school_id": 64,
+  "academic_records": [
+    {
+      "id": 117,
+      "school_id": 64,
+      "academic_year": 2026,
+      "institution_name": "佐賀大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 49,
+      "source_url": "https://www.education.saga.jp/hp/chienkankoukou/wp-content/uploads/sites/262/2019/11/R6%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%AE%9F%E7%B8%BE%EF%BC%88%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0%EF%BC%89%E5%9B%BD%E5%85%AC%E7%AB%8B.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の国公立大学実績で、佐賀大学49名。"
+    },
+    {
+      "id": 118,
+      "school_id": 64,
+      "academic_year": 2025,
+      "institution_name": "佐賀大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 46,
+      "source_url": "https://www.education.saga.jp/hp/chienkankoukou/wp-content/uploads/sites/262/2019/11/R6%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%AE%9F%E7%B8%BE%EF%BC%88%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0%EF%BC%89%E5%9B%BD%E5%85%AC%E7%AB%8B.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度の国公立大学実績で、佐賀大学46名。"
+    },
+    {
+      "id": 119,
+      "school_id": 64,
+      "academic_year": 2024,
+      "institution_name": "佐賀大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 38,
+      "source_url": "https://www.education.saga.jp/hp/chienkankoukou/wp-content/uploads/sites/262/2019/11/R4-%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%AE%9F%E7%B8%BE%EF%BC%88%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0%EF%BC%89%E5%9B%BD%E5%85%AC%E7%AB%8B.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度の国公立大学実績で、佐賀大学38名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 130,
+      "school_id": 64,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.education.saga.jp/hp/chienkankoukou/wp-content/uploads/sites/262/2019/11/R6%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%AE%9F%E7%B8%BE%EF%BC%88%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0%EF%BC%89%E5%9B%BD%E5%85%AC%E7%AB%8B.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの国公立大学実績で、佐賀大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 131,
+      "school_id": 64,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.education.saga.jp/hp/chienkankoukou/wp-content/uploads/sites/262/2019/11/R6%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%AE%9F%E7%B8%BE%EF%BC%88%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0%EF%BC%89%E5%9B%BD%E5%85%AC%E7%AB%8B.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの国公立大学実績で、佐賀大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 132,
+      "school_id": 64,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.education.saga.jp/hp/chienkankoukou/wp-content/uploads/sites/262/2019/11/R4-%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%AE%9F%E7%B8%BE%EF%BC%88%E5%90%88%E6%A0%BC%E8%80%85%E6%95%B0%EF%BC%89%E5%9B%BD%E5%85%AC%E7%AB%8B.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの国公立大学実績で、佐賀大学の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

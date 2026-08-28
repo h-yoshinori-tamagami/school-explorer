@@ -1,0 +1,76 @@
+{
+  "school_id": 314,
+  "academic_records": [
+    {
+      "id": 462,
+      "school_id": 314,
+      "academic_year": 2026,
+      "institution_name": "電気通信大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.myojogakuen.ed.jp/career/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026年度の電気通信大学合格者数は1名。"
+    },
+    {
+      "id": 461,
+      "school_id": 314,
+      "academic_year": 2025,
+      "institution_name": "宇都宮大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.myojogakuen.ed.jp/career/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025年度の宇都宮大学合格者数は1名。"
+    },
+    {
+      "id": 460,
+      "school_id": 314,
+      "academic_year": 2024,
+      "institution_name": "東京学芸大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.myojogakuen.ed.jp/career/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024年度の東京学芸大学の進路先数は2名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 868,
+      "school_id": 314,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.myojogakuen.ed.jp/career/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 869,
+      "school_id": 314,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.myojogakuen.ed.jp/career/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 870,
+      "school_id": 314,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.myojogakuen.ed.jp/career/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

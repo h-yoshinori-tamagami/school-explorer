@@ -1,0 +1,76 @@
+{
+  "school_id": 316,
+  "academic_records": [
+    {
+      "id": 465,
+      "school_id": 316,
+      "academic_year": 2026,
+      "institution_name": "明治学院大学",
+      "faculty_name": "英文学科",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.meijigakuin-higashi.ed.jp/shinro/sinro/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "26年の明治学院大学文学部英文学科への推薦入学者数は8名。"
+    },
+    {
+      "id": 464,
+      "school_id": 316,
+      "academic_year": 2025,
+      "institution_name": "明治学院大学",
+      "faculty_name": "英文学科",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.meijigakuin-higashi.ed.jp/shinro/sinro/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "25年の明治学院大学文学部英文学科への推薦入学者数は2名。"
+    },
+    {
+      "id": 463,
+      "school_id": 316,
+      "academic_year": 2024,
+      "institution_name": "明治学院大学",
+      "faculty_name": "英文学科",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.meijigakuin-higashi.ed.jp/shinro/sinro/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "24年の明治学院大学文学部英文学科への推薦入学者数は6名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 874,
+      "school_id": 316,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.meijigakuin-higashi.ed.jp/shinro/sinro/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 875,
+      "school_id": 316,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.meijigakuin-higashi.ed.jp/shinro/sinro/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 876,
+      "school_id": 316,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.meijigakuin-higashi.ed.jp/shinro/sinro/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

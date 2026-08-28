@@ -1,0 +1,76 @@
+{
+  "school_id": 217,
+  "academic_records": [
+    {
+      "id": 328,
+      "school_id": 217,
+      "academic_year": 2026,
+      "institution_name": "岡山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.gakugeikan.ed.jp/seishu/guidance/achievement.html",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2026年度実績で、岡山大学3名。"
+    },
+    {
+      "id": 329,
+      "school_id": 217,
+      "academic_year": 2025,
+      "institution_name": "岡山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.gakugeikan.ed.jp/seishu/guidance/achievement.html",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2025年度実績で、岡山大学2名。"
+    },
+    {
+      "id": 330,
+      "school_id": 217,
+      "academic_year": 2024,
+      "institution_name": "岡山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.gakugeikan.ed.jp/seishu/guidance/achievement.html",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2024年度実績で、岡山大学4名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 586,
+      "school_id": 217,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.gakugeikan.ed.jp/seishu/guidance/achievement.html",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、岡山大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 587,
+      "school_id": 217,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.gakugeikan.ed.jp/seishu/guidance/achievement.html",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、岡山大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 588,
+      "school_id": 217,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.gakugeikan.ed.jp/seishu/guidance/achievement.html",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、岡山大学の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

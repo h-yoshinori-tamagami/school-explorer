@@ -1,0 +1,141 @@
+{
+  "school_id": 179,
+  "academic_records": [
+    {
+      "id": 9281,
+      "school_id": 179,
+      "academic_year": 2026,
+      "institution_name": "上智大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に上智大学 1名と掲載。"
+    },
+    {
+      "id": 1069,
+      "school_id": 179,
+      "academic_year": 2026,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 3,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 3名と掲載。"
+    },
+    {
+      "id": 9283,
+      "school_id": 179,
+      "academic_year": 2026,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に明治大学 1名と掲載。"
+    },
+    {
+      "id": 9282,
+      "school_id": 179,
+      "academic_year": 2026,
+      "institution_name": "東洋大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に東洋大学 1名と掲載。"
+    },
+    {
+      "id": 1068,
+      "school_id": 179,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績表に青山学院大学 1名と掲載。"
+    },
+    {
+      "id": 1067,
+      "school_id": 179,
+      "academic_year": 2024,
+      "institution_name": "日本大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に日本大学 1名と掲載。"
+    },
+    {
+      "id": 9285,
+      "school_id": 179,
+      "academic_year": 2024,
+      "institution_name": "東京芸術大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に東京芸術大学 1名と掲載。"
+    },
+    {
+      "id": 9284,
+      "school_id": 179,
+      "academic_year": 2024,
+      "institution_name": "立教大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に立教大学 1名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 472,
+      "school_id": 179,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 473,
+      "school_id": 179,
+      "academic_year": 2025,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 474,
+      "school_id": 179,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P063/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

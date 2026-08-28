@@ -1,0 +1,112 @@
+{
+  "school_id": 632,
+  "academic_records": [
+    {
+      "id": 974,
+      "school_id": 632,
+      "academic_year": 2025,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 372,
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に関西学院大学 372名と掲載。"
+    },
+    {
+      "id": 36080,
+      "school_id": 632,
+      "academic_year": 2024,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 383,
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 383名と掲載。"
+    },
+    {
+      "id": 973,
+      "school_id": 632,
+      "academic_year": 2024,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 378,
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に関西学院大学 378名と掲載。"
+    },
+    {
+      "id": 36081,
+      "school_id": 632,
+      "academic_year": 2023,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 382,
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2023年度大学合格実績に卒業生数 382名と掲載。"
+    },
+    {
+      "id": 36079,
+      "school_id": 632,
+      "academic_year": 2023,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 361,
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2023年度大学合格実績に関西学院大学 361名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 1801,
+      "school_id": 632,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1802,
+      "school_id": 632,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1803,
+      "school_id": 632,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-21",
+      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+    },
+    {
+      "id": 2050,
+      "school_id": 632,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P004/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

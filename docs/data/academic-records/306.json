@@ -1,0 +1,36 @@
+{
+  "school_id": 306,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 844,
+      "school_id": 306,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の進路実績は過去3年合計のみで年度別人数を確認できず、Study1検索でも対象年度の人数を確定できなかったため再確認する。"
+    },
+    {
+      "id": 845,
+      "school_id": 306,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の進路実績は過去3年合計のみで年度別人数を確認できず、Study1検索でも対象年度の人数を確定できなかったため再確認する。"
+    },
+    {
+      "id": 846,
+      "school_id": 306,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の進路実績は過去3年合計のみで年度別人数を確認できず、Study1検索でも対象年度の人数を確定できなかったため再確認する。"
+    }
+  ]
+}

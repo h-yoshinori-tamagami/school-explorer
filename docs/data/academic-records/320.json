@@ -1,0 +1,50 @@
+{
+  "school_id": 320,
+  "academic_records": [
+    {
+      "id": 487,
+      "school_id": 320,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://starhill.ed.jp/hs/post-graduation/results-a/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "令和8年度大学入試の国公立大学合格実績で、東京大学は1名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 886,
+      "school_id": 320,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の大学合格実績は令和8年度入試のみを掲載し、2024年度の大学別人数を確認できなかった。Study1関東校検索でも静岡県の当該校の学校別大学合格実績ページを確認できず、人数未確定のため再確認する。"
+    },
+    {
+      "id": 887,
+      "school_id": 320,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の大学合格実績は令和8年度入試のみを掲載し、2025年度の大学別人数を確認できなかった。Study1関東校検索でも静岡県の当該校の学校別大学合格実績ページを確認できず、人数未確定のため再確認する。"
+    },
+    {
+      "id": 888,
+      "school_id": 320,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://starhill.ed.jp/hs/post-graduation/results-a/",
+      "verified_at": "2026-08-21",
+      "reason": "公式の令和8年度大学入試合格実績で人数を確認し、構造化レコードを登録。"
+    }
+  ]
+}

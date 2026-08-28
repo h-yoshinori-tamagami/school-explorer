@@ -1,0 +1,76 @@
+{
+  "school_id": 70,
+  "academic_records": [
+    {
+      "id": 132,
+      "school_id": 70,
+      "academic_year": 2026,
+      "institution_name": "上智大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 17,
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=215",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年の私立大学合格実績で、上智大学17名。"
+    },
+    {
+      "id": 133,
+      "school_id": 70,
+      "academic_year": 2025,
+      "institution_name": "上智大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 15,
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=215",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年の私立大学合格実績で、上智大学15名。"
+    },
+    {
+      "id": 134,
+      "school_id": 70,
+      "academic_year": 2024,
+      "institution_name": "上智大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=215",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年の私立大学合格実績で、上智大学10名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 145,
+      "school_id": 70,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=215",
+      "verified_at": "2026-08-17",
+      "reason": "Nichinokenの進路情報で、上智大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 146,
+      "school_id": 70,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=215",
+      "verified_at": "2026-08-17",
+      "reason": "Nichinokenの進路情報で、上智大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 147,
+      "school_id": 70,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=215",
+      "verified_at": "2026-08-17",
+      "reason": "Nichinokenの進路情報で、上智大学の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

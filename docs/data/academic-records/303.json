@@ -1,0 +1,76 @@
+{
+  "school_id": 303,
+  "academic_records": [
+    {
+      "id": 25,
+      "school_id": 303,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 254,
+      "source_url": "https://www.waseda-h.ed.jp/wp/wp-content/uploads/2026/04/97967b8f07d15de42f8728a4d2418ab1.pdf",
+      "verified_at": "2026-08-15",
+      "source_excerpt": "2026年の早稲田大学合格者数は254名。"
+    },
+    {
+      "id": 26,
+      "school_id": 303,
+      "academic_year": 2025,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 251,
+      "source_url": "https://www.waseda-h.ed.jp/wp/wp-content/uploads/2026/04/97967b8f07d15de42f8728a4d2418ab1.pdf",
+      "verified_at": "2026-08-15",
+      "source_excerpt": "2025年の早稲田大学合格者数は251名。"
+    },
+    {
+      "id": 27,
+      "school_id": 303,
+      "academic_year": 2024,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 293,
+      "source_url": "https://www.waseda-h.ed.jp/wp/wp-content/uploads/2026/04/97967b8f07d15de42f8728a4d2418ab1.pdf",
+      "verified_at": "2026-08-15",
+      "source_excerpt": "2024年の早稲田大学合格者数は293名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 4,
+      "school_id": 303,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.waseda-h.ed.jp/wp/wp-content/uploads/2026/04/97967b8f07d15de42f8728a4d2418ab1.pdf",
+      "verified_at": "2026-08-15",
+      "reason": "既存の承認済み進学実績レコードから移行"
+    },
+    {
+      "id": 5,
+      "school_id": 303,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.waseda-h.ed.jp/wp/wp-content/uploads/2026/04/97967b8f07d15de42f8728a4d2418ab1.pdf",
+      "verified_at": "2026-08-15",
+      "reason": "既存の承認済み進学実績レコードから移行"
+    },
+    {
+      "id": 6,
+      "school_id": 303,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.waseda-h.ed.jp/wp/wp-content/uploads/2026/04/97967b8f07d15de42f8728a4d2418ab1.pdf",
+      "verified_at": "2026-08-15",
+      "reason": "既存の承認済み進学実績レコードから移行"
+    }
+  ]
+}

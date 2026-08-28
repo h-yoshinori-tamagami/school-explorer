@@ -1,0 +1,46 @@
+{
+  "school_id": 340,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 946,
+      "school_id": 340,
+      "academic_year": 2024,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13N007/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 947,
+      "school_id": 340,
+      "academic_year": 2025,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13N007/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 948,
+      "school_id": 340,
+      "academic_year": 2026,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13N007/univ_pass/",
+      "verified_at": "2026-08-21",
+      "reason": "公式サイトで対象年度の大学別人数を確認できず、Study1の大学合格実績も「ただいま準備中」であり、人数は未公表。"
+    },
+    {
+      "id": 2012,
+      "school_id": 340,
+      "academic_year": 2023,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13N007/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

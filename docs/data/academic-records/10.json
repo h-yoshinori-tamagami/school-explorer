@@ -1,0 +1,30 @@
+{
+  "school_id": 10,
+  "academic_records": [
+    {
+      "id": 43,
+      "school_id": 10,
+      "academic_year": 2025,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 7,
+      "source_url": "https://www.salesio-gakuin.ed.jp/request/2026.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度進学実績の国公立大学一覧で、東京大学の合格者数7名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 46,
+      "school_id": 10,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.salesio-gakuin.ed.jp/request/2026.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの年度別進学実績を確認し、構造化実績を登録。"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "school_id": 105,
+  "academic_records": [
+    {
+      "id": 201,
+      "school_id": 105,
+      "academic_year": 2025,
+      "institution_name": "同志社大学推薦",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 222,
+      "source_url": "https://www.girls.doshisha.ac.jp/course/aftergraduation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2025年度実績で、同志社大学推薦222名。"
+    },
+    {
+      "id": 202,
+      "school_id": 105,
+      "academic_year": 2024,
+      "institution_name": "同志社大学推薦",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 213,
+      "source_url": "https://www.girls.doshisha.ac.jp/course/aftergraduation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2024年度実績で、同志社大学推薦213名。"
+    },
+    {
+      "id": 203,
+      "school_id": 105,
+      "academic_year": 2023,
+      "institution_name": "同志社大学推薦",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 216,
+      "source_url": "https://www.girls.doshisha.ac.jp/course/aftergraduation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2023年度実績で、同志社大学推薦216名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 250,
+      "school_id": 105,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.girls.doshisha.ac.jp/course/aftergraduation/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、同志社大学推薦の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 251,
+      "school_id": 105,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.girls.doshisha.ac.jp/course/aftergraduation/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、同志社大学推薦の2024年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 252,
+      "school_id": 105,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.girls.doshisha.ac.jp/course/aftergraduation/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、同志社大学推薦の2023年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

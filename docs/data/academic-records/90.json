@@ -1,0 +1,76 @@
+{
+  "school_id": 90,
+  "academic_records": [
+    {
+      "id": 171,
+      "school_id": 90,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://koryo.main.jp/hs/wp-content/uploads/2026/05/%E5%90%88%E6%A0%BC%E6%95%B0%E9%9B%86%E8%A8%882026-3.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度合格実績で、東京大学は文科二類1名・理科一類2名の合計3名。"
+    },
+    {
+      "id": 172,
+      "school_id": 90,
+      "academic_year": 2025,
+      "institution_name": "京都大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://koryo.main.jp/hs/wp-content/uploads/2025/04/%E5%90%88%E6%A0%BC%E6%95%B0%E9%9B%86%E8%A8%882025-1.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度合格実績で、京都大学理学部1名。"
+    },
+    {
+      "id": 173,
+      "school_id": 90,
+      "academic_year": 2024,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://koryo.main.jp/hs/wp-content/uploads/2025/01/%E5%90%88%E6%A0%BC%E6%95%B0%E9%9B%86%E8%A8%882024.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度合格実績で、東京大学理科二類1名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 205,
+      "school_id": 90,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://koryo.main.jp/hs/wp-content/uploads/2026/05/%E5%90%88%E6%A0%BC%E6%95%B0%E9%9B%86%E8%A8%882026-3.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、東京大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 206,
+      "school_id": 90,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://koryo.main.jp/hs/wp-content/uploads/2025/04/%E5%90%88%E6%A0%BC%E6%95%B0%E9%9B%86%E8%A8%882025-1.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、京都大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 207,
+      "school_id": 90,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://koryo.main.jp/hs/wp-content/uploads/2025/01/%E5%90%88%E6%A0%BC%E6%95%B0%E9%9B%86%E8%A8%882024.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、東京大学の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

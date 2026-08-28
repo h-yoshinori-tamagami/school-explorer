@@ -1,0 +1,30 @@
+{
+  "school_id": 9,
+  "academic_records": [
+    {
+      "id": 62,
+      "school_id": 9,
+      "academic_year": 2025,
+      "institution_name": "上智大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 9,
+      "source_url": "https://www.study1.jp/kanto/school/B13P073/school_special/7/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年5月公開のスタディ記事で、この3月の卒業生の上智大学合格者9名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 45,
+      "school_id": 9,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P073/school_special/7/",
+      "verified_at": "2026-08-17",
+      "reason": "公式ページの数値確認後にStudy1を補完確認し、2025年卒業生の大学別合格実績を構造化して登録。"
+    }
+  ]
+}

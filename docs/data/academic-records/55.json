@@ -1,0 +1,76 @@
+{
+  "school_id": 55,
+  "academic_records": [
+    {
+      "id": 99,
+      "school_id": 55,
+      "academic_year": 2026,
+      "institution_name": "国公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 15,
+      "source_url": "https://k-seika.ed.jp/feature/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年の進学実績で、国公立大学15名。"
+    },
+    {
+      "id": 100,
+      "school_id": 55,
+      "academic_year": 2025,
+      "institution_name": "京都産業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 26,
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=625",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年の大学合格実績で、京都産業大学26名。"
+    },
+    {
+      "id": 101,
+      "school_id": 55,
+      "academic_year": 2024,
+      "institution_name": "京都産業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 39,
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=625",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年の大学合格実績で、京都産業大学39名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 100,
+      "school_id": 55,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://k-seika.ed.jp/feature/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の特色ページで2026年の国公立大学合格者数を確認し、国公立大学15名を構造化して登録。"
+    },
+    {
+      "id": 101,
+      "school_id": 55,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=625",
+      "verified_at": "2026-08-17",
+      "reason": "Nichinokenの学校詳細で2025年の大学合格実績を確認し、京都産業大学26名を構造化して登録。"
+    },
+    {
+      "id": 102,
+      "school_id": 55,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.nichinoken.co.jp/np5/schoolinfo/sw/crs.php?shl_code=625",
+      "verified_at": "2026-08-17",
+      "reason": "Nichinokenの学校詳細で2024年の大学合格実績を確認し、京都産業大学39名を構造化して登録。"
+    }
+  ]
+}

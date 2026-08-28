@@ -1,0 +1,30 @@
+{
+  "school_id": 1,
+  "academic_records": [
+    {
+      "id": 34,
+      "school_id": 1,
+      "academic_year": 2025,
+      "institution_name": "お茶の水女子大学附属高等学校",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 58,
+      "source_url": "https://www.fz.ocha.ac.jp/ft/menu/ao/d001947_d/fil/2025shingaku.pdf",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "2025年度卒業生の高等学校進学状況として、お茶の水女子大学附属高等学校への女子の進学者数58名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 34,
+      "school_id": 1,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.fz.ocha.ac.jp/ft/menu/ao/d001947_d/fil/2025shingaku.pdf",
+      "verified_at": "2026-08-16",
+      "reason": "公式PDFの年度別高等学校進学状況を確認し、構造化実績を登録。"
+    }
+  ]
+}

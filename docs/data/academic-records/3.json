@@ -1,0 +1,30 @@
+{
+  "school_id": 3,
+  "academic_records": [
+    {
+      "id": 38,
+      "school_id": 3,
+      "academic_year": 2024,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ohmiyakokusai-h.city-saitama.ed.jp/wp-content/uploads/2025/09/%E5%A4%A7%E5%AE%AE%E5%9B%BD%E9%9A%9B%E4%B8%AD%E5%AD%A6%E5%AD%A6%E6%A0%A1%E6%A1%88%E5%86%85_2026.pdf",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "2024年度卒業生の進路実績・合格校一覧で、東京大学の合格数は1名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 38,
+      "school_id": 3,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.ohmiyakokusai-h.city-saitama.ed.jp/wp-content/uploads/2025/09/%E5%A4%A7%E5%AE%AE%E5%9B%BD%E9%9A%9B%E4%B8%AD%E5%AD%A6%E5%AD%A6%E6%A0%A1%E6%A1%88%E5%86%85_2026.pdf",
+      "verified_at": "2026-08-16",
+      "reason": "公式学校案内の2024年度卒業生・進路実績を確認し、構造化実績を登録。"
+    }
+  ]
+}

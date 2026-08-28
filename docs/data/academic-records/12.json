@@ -1,0 +1,30 @@
+{
+  "school_id": 12,
+  "academic_records": [
+    {
+      "id": 44,
+      "school_id": 12,
+      "academic_year": 2026,
+      "institution_name": "中央大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://tokiwamatsu.ac.jp/course/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年6月時点の卒業生進路実績で、中央大学の各学部（文学部・法学部政治学科・法学部国際企業関係法学科）を各1名、計3名掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 48,
+      "school_id": 12,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://tokiwamatsu.ac.jp/course/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の卒業生進路実績から大学別の人数を構造化して登録。"
+    }
+  ]
+}

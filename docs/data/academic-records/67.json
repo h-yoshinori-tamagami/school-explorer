@@ -1,0 +1,76 @@
+{
+  "school_id": 67,
+  "academic_records": [
+    {
+      "id": 123,
+      "school_id": 67,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.studyh.jp/kanto/school/C13P031/univ_pass/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の早稲田大学合格者数は4名。"
+    },
+    {
+      "id": 124,
+      "school_id": 67,
+      "academic_year": 2025,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 15,
+      "source_url": "https://www.studyh.jp/kanto/school/C13P031/univ_pass/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度の早稲田大学合格者数は15名。"
+    },
+    {
+      "id": 125,
+      "school_id": 67,
+      "academic_year": 2024,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 18,
+      "source_url": "https://www.studyh.jp/kanto/school/C13P031/univ_pass/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度の早稲田大学合格者数は18名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 136,
+      "school_id": 67,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.studyh.jp/kanto/school/C13P031/univ_pass/",
+      "verified_at": "2026-08-17",
+      "reason": "Study1高校受験版で、早稲田大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 137,
+      "school_id": 67,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.studyh.jp/kanto/school/C13P031/univ_pass/",
+      "verified_at": "2026-08-17",
+      "reason": "Study1高校受験版で、早稲田大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 138,
+      "school_id": 67,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.studyh.jp/kanto/school/C13P031/univ_pass/",
+      "verified_at": "2026-08-17",
+      "reason": "Study1高校受験版で、早稲田大学の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

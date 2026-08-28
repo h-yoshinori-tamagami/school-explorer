@@ -1,0 +1,76 @@
+{
+  "school_id": 325,
+  "academic_records": [
+    {
+      "id": 475,
+      "school_id": 325,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://jhs.kokagakuen.ac.jp/diproma/performance/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026年の東京大学合格者数は1名。"
+    },
+    {
+      "id": 474,
+      "school_id": 325,
+      "academic_year": 2025,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://jhs.kokagakuen.ac.jp/diproma/performance/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025年の東京大学合格者数は1名。"
+    },
+    {
+      "id": 473,
+      "school_id": 325,
+      "academic_year": 2024,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://jhs.kokagakuen.ac.jp/diproma/performance/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024年の東京大学合格者数は3名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 901,
+      "school_id": 325,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://jhs.kokagakuen.ac.jp/diproma/performance/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 902,
+      "school_id": 325,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://jhs.kokagakuen.ac.jp/diproma/performance/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 903,
+      "school_id": 325,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://jhs.kokagakuen.ac.jp/diproma/performance/",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

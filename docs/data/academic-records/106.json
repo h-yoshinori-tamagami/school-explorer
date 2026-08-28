@@ -1,0 +1,76 @@
+{
+  "school_id": 106,
+  "academic_records": [
+    {
+      "id": 204,
+      "school_id": 106,
+      "academic_year": 2026,
+      "institution_name": "同志社大学推薦",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 283,
+      "source_url": "https://www.kori.doshisha.ac.jp/dk/career/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2026年度実績で、同志社大学推薦283名。"
+    },
+    {
+      "id": 205,
+      "school_id": 106,
+      "academic_year": 2025,
+      "institution_name": "同志社大学推薦",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 279,
+      "source_url": "https://www.kori.doshisha.ac.jp/dk/career/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2025年度実績で、同志社大学推薦279名。"
+    },
+    {
+      "id": 206,
+      "school_id": 106,
+      "academic_year": 2024,
+      "institution_name": "同志社大学推薦",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 278,
+      "source_url": "https://www.kori.doshisha.ac.jp/dk/career/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2024年度実績で、同志社大学推薦278名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 253,
+      "school_id": 106,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.kori.doshisha.ac.jp/dk/career/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、同志社大学推薦の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 254,
+      "school_id": 106,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.kori.doshisha.ac.jp/dk/career/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、同志社大学推薦の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 255,
+      "school_id": 106,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.kori.doshisha.ac.jp/dk/career/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、同志社大学推薦の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

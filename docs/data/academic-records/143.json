@@ -1,0 +1,50 @@
+{
+  "school_id": 143,
+  "academic_records": [
+    {
+      "id": 261,
+      "school_id": 143,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.tajiminishi.ed.jp/high/wp-content/uploads/2026/03/shinrokekka20260326.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2026年度実績で、東京大学1名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 364,
+      "school_id": 143,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.tajiminishi.ed.jp/high/wp-content/uploads/2026/03/shinrokekka20260326.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、東京大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 365,
+      "school_id": 143,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは該当年度の学校別人数を確定できず、Study1関東校検索でも該当校の登録可能な年度別人数を確認できなかったため再確認する。"
+    },
+    {
+      "id": 366,
+      "school_id": 143,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは該当年度の学校別人数を確定できず、Study1関東校検索でも該当校の登録可能な年度別人数を確認できなかったため再確認する。"
+    }
+  ]
+}

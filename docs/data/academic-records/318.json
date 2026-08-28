@@ -1,0 +1,50 @@
+{
+  "school_id": 318,
+  "academic_records": [
+    {
+      "id": 486,
+      "school_id": 318,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.seiryo-hs.jp/user_data/doc/times202605.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "星稜高等学校2026年度大学入試合格状況で、早稲田大学2名合格。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 880,
+      "school_id": 318,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の進路情報で2024年度資料の公開を確認したが、大学別人数を判読できず構造化できなかった。Study1関東校検索では石川県の当該校の学校別大学合格実績ページを確認できず、人数未確定のため再確認する。"
+    },
+    {
+      "id": 881,
+      "school_id": 318,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の進路情報・2026年度資料で2025年度実績の掲載を確認したが、大学別人数を安全に対応付けられず構造化できなかった。Study1関東校検索では石川県の当該校の学校別大学合格実績ページを確認できず、人数未確定のため再確認する。"
+    },
+    {
+      "id": 882,
+      "school_id": 318,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.seiryo-hs.jp/user_data/doc/times202605.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式の2026年度大学入試合格状況で人数を確認し、構造化レコードを登録。"
+    }
+  ]
+}

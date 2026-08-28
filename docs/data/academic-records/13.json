@@ -1,0 +1,30 @@
+{
+  "school_id": 13,
+  "academic_records": [
+    {
+      "id": 45,
+      "school_id": 13,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": "理科一類",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.daltontokyo.ed.jp/wp/wp-content/themes/dalton/assets/PDF/result2026.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度入試結果（2025年度卒業生79名）で、東京大学理科一類の現役合格数1名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 49,
+      "school_id": 13,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.daltontokyo.ed.jp/wp/wp-content/themes/dalton/assets/PDF/result2026.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの2026年度入試結果から実績を構造化して登録。"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "school_id": 402,
+  "academic_records": [
+    {
+      "id": 21208,
+      "school_id": 402,
+      "academic_year": 2025,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 243,
+      "source_url": "https://www.study1.jp/kansai/school/B29P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 243名と掲載。"
+    },
+    {
+      "id": 21209,
+      "school_id": 402,
+      "academic_year": 2023,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 258,
+      "source_url": "https://www.study1.jp/kansai/school/B29P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2023年度大学合格実績に卒業生数 258名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 1129,
+      "school_id": 402,
+      "academic_year": 2024,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1130,
+      "school_id": 402,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1131,
+      "school_id": 402,
+      "academic_year": 2026,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P031/univ_pass/",
+      "verified_at": "2026-08-21",
+      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページに対象年度の確定値が掲載されていない。"
+    },
+    {
+      "id": 2028,
+      "school_id": 402,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B29P031/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

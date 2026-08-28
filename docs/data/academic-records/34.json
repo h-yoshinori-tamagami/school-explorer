@@ -1,0 +1,82 @@
+{
+  "school_id": 34,
+  "academic_records": [
+    {
+      "id": 54,
+      "school_id": 34,
+      "academic_year": 2023,
+      "institution_name": "中村学園大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 88,
+      "source_url": "https://www.nakamura-njh.ed.jp/njh-info/wp-content/uploads/2024/04/%E9%80%B2%E5%AD%A6%E5%AE%9F%E7%B8%BE%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和5年度進学実績で、併設校の中村学園大学88名を掲載。"
+    },
+    {
+      "id": 51,
+      "school_id": 34,
+      "academic_year": 2023,
+      "institution_name": "九州大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.nakamura-njh.ed.jp/njh-info/wp-content/uploads/2024/04/%E9%80%B2%E5%AD%A6%E5%AE%9F%E7%B8%BE%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和5年度進学実績で、九州大学3名を掲載。"
+    },
+    {
+      "id": 50,
+      "school_id": 34,
+      "academic_year": 2023,
+      "institution_name": "大阪大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.nakamura-njh.ed.jp/njh-info/wp-content/uploads/2024/04/%E9%80%B2%E5%AD%A6%E5%AE%9F%E7%B8%BE%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和5年度進学実績で、大阪大学2名を掲載。"
+    },
+    {
+      "id": 53,
+      "school_id": 34,
+      "academic_year": 2023,
+      "institution_name": "福岡大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 179,
+      "source_url": "https://www.nakamura-njh.ed.jp/njh-info/wp-content/uploads/2024/04/%E9%80%B2%E5%AD%A6%E5%AE%9F%E7%B8%BE%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和5年度進学実績で、福岡大学179名を掲載。"
+    },
+    {
+      "id": 52,
+      "school_id": 34,
+      "academic_year": 2023,
+      "institution_name": "福岡教育大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.nakamura-njh.ed.jp/njh-info/wp-content/uploads/2024/04/%E9%80%B2%E5%AD%A6%E5%AE%9F%E7%B8%BE%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和5年度進学実績で、福岡教育大学9名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 70,
+      "school_id": 34,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.nakamura-njh.ed.jp/njh-info/wp-content/uploads/2024/04/%E9%80%B2%E5%AD%A6%E5%AE%9F%E7%B8%BE%E3%83%81%E3%83%A9%E3%82%B7.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの令和5年度進学実績を構造化して登録。"
+    }
+  ]
+}

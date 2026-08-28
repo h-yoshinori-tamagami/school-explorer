@@ -1,0 +1,56 @@
+{
+  "school_id": 43,
+  "academic_records": [
+    {
+      "id": 57,
+      "school_id": 43,
+      "academic_year": 2025,
+      "institution_name": "日本女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.keika-g.ed.jp/career/result/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度入試の現役合格者実績で、日本女子大学9名を掲載。"
+    },
+    {
+      "id": 55,
+      "school_id": 43,
+      "academic_year": 2025,
+      "institution_name": "東洋大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 32,
+      "source_url": "https://www.keika-g.ed.jp/career/result/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度入試の現役合格者実績で、東洋大学32名を掲載。"
+    },
+    {
+      "id": 56,
+      "school_id": 43,
+      "academic_year": 2025,
+      "institution_name": "法政大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.keika-g.ed.jp/career/result/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度入試の現役合格者実績で、法政大学9名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 79,
+      "school_id": 43,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.keika-g.ed.jp/career/result/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の2025年度入試現役合格実績を構造化して登録。"
+    }
+  ]
+}

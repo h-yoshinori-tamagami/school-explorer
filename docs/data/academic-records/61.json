@@ -1,0 +1,36 @@
+{
+  "school_id": 61,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 118,
+      "school_id": 61,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.fuchu.pd.saga-u.ac.jp/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトは学校紹介中心で、Nichinokenでも2024〜2026年の進路状況・大学合格実績が調査中のため再確認する。"
+    },
+    {
+      "id": 119,
+      "school_id": 61,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.fuchu.pd.saga-u.ac.jp/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトは学校紹介中心で、Nichinokenでも2024〜2026年の進路状況・大学合格実績が調査中のため再確認する。"
+    },
+    {
+      "id": 120,
+      "school_id": 61,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.fuchu.pd.saga-u.ac.jp/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトは学校紹介中心で、Nichinokenでも2024〜2026年の進路状況・大学合格実績が調査中のため再確認する。"
+    }
+  ]
+}

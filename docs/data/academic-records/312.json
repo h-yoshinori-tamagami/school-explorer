@@ -1,0 +1,115 @@
+{
+  "school_id": 312,
+  "academic_records": [
+    {
+      "id": 14872,
+      "school_id": 312,
+      "academic_year": 2026,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 265,
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 265名と掲載。"
+    },
+    {
+      "id": 485,
+      "school_id": 312,
+      "academic_year": 2026,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 241,
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に明治大学 241名と掲載。"
+    },
+    {
+      "id": 14873,
+      "school_id": 312,
+      "academic_year": 2025,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 279,
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 279名と掲載。"
+    },
+    {
+      "id": 484,
+      "school_id": 312,
+      "academic_year": 2025,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 258,
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に明治大学 258名と掲載。"
+    },
+    {
+      "id": 14874,
+      "school_id": 312,
+      "academic_year": 2024,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 252,
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 252名と掲載。"
+    },
+    {
+      "id": 483,
+      "school_id": 312,
+      "academic_year": 2024,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 216,
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に明治大学 216名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 862,
+      "school_id": 312,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 863,
+      "school_id": 312,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 864,
+      "school_id": 312,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://study1.jp/kanto/school/B14P041/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

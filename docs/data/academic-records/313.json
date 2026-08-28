@@ -1,0 +1,76 @@
+{
+  "school_id": 313,
+  "academic_records": [
+    {
+      "id": 459,
+      "school_id": 313,
+      "academic_year": 2026,
+      "institution_name": "全大学合計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 924,
+      "source_url": "https://www.meisei.ed.jp/assets/2026/04/2026Singaku_2.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026年度大学入試の合格者数一覧表で、合計は924名。"
+    },
+    {
+      "id": 458,
+      "school_id": 313,
+      "academic_year": 2025,
+      "institution_name": "全大学合計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 944,
+      "source_url": "https://www.meisei.ed.jp/assets/2025/05/2025shingaku.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025年度大学入試の合格者数一覧表で、合計は944名。"
+    },
+    {
+      "id": 457,
+      "school_id": 313,
+      "academic_year": 2024,
+      "institution_name": "全大学合計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 939,
+      "source_url": "https://www.meisei.ed.jp/assets/2024/06/2024_gokakushasu.ve2.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024年度大学入試の合格者数一覧表で、合計は939名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 865,
+      "school_id": 313,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.meisei.ed.jp/assets/2024/06/2024_gokakushasu.ve2.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 866,
+      "school_id": 313,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.meisei.ed.jp/assets/2025/05/2025shingaku.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 867,
+      "school_id": 313,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.meisei.ed.jp/assets/2026/04/2026Singaku_2.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

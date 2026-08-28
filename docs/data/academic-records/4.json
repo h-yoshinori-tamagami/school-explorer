@@ -1,0 +1,76 @@
+{
+  "school_id": 4,
+  "academic_records": [
+    {
+      "id": 37,
+      "school_id": 4,
+      "academic_year": 2025,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.m-urawa.ed.jp/index.cfm/1%2C3332%2Cc%2Chtml/3332/20260513-163820.pdf",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "浦和中学校出身の内進生卒業生の大学等合格実績（R7欄）として、東京大学3名（浪人合格者1名を含む）を掲載。"
+    },
+    {
+      "id": 36,
+      "school_id": 4,
+      "academic_year": 2024,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.m-urawa.ed.jp/index.cfm/1%2C3332%2Cc%2Chtml/3332/20260513-163820.pdf",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "浦和中学校出身の内進生卒業生の大学等合格実績（R6欄）として、東京大学3名を掲載。"
+    },
+    {
+      "id": 35,
+      "school_id": 4,
+      "academic_year": 2023,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.m-urawa.ed.jp/index.cfm/1%2C3332%2Cc%2Chtml/3332/20260513-163820.pdf",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "浦和中学校出身の内進生卒業生の大学等合格実績（R5欄）として、東京大学3名（浪人合格者1名を含む）を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 35,
+      "school_id": 4,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.m-urawa.ed.jp/index.cfm/1%2C3332%2Cc%2Chtml/3332/20260513-163820.pdf",
+      "verified_at": "2026-08-16",
+      "reason": "公式PDFの内進生向け年度別大学等合格実績を確認し、構造化実績を登録。"
+    },
+    {
+      "id": 36,
+      "school_id": 4,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.m-urawa.ed.jp/index.cfm/1%2C3332%2Cc%2Chtml/3332/20260513-163820.pdf",
+      "verified_at": "2026-08-16",
+      "reason": "公式PDFの内進生向け年度別大学等合格実績を確認し、構造化実績を登録。"
+    },
+    {
+      "id": 37,
+      "school_id": 4,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.m-urawa.ed.jp/index.cfm/1%2C3332%2Cc%2Chtml/3332/20260513-163820.pdf",
+      "verified_at": "2026-08-16",
+      "reason": "公式PDFの内進生向け年度別大学等合格実績を確認し、構造化実績を登録。"
+    }
+  ]
+}

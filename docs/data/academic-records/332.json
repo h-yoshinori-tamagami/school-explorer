@@ -1,0 +1,76 @@
+{
+  "school_id": 332,
+  "academic_records": [
+    {
+      "id": 510,
+      "school_id": 332,
+      "academic_year": 2026,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://m-asahijuku.ed.jp/course/achievement/12.html",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "令和8年度大学入試合格実績で、明治大学は1名。"
+    },
+    {
+      "id": 509,
+      "school_id": 332,
+      "academic_year": 2025,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://m-asahijuku.ed.jp/course/achievement/11.html",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "令和7年度大学入試合格実績で、明治大学は2名。"
+    },
+    {
+      "id": 508,
+      "school_id": 332,
+      "academic_year": 2024,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://m-asahijuku.ed.jp/course/achievement/10.html",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "令和6年度大学入試合格実績で、明治大学は2名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 922,
+      "school_id": 332,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://m-asahijuku.ed.jp/course/achievement/10.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の年度別大学入試合格実績で人数を確認し、構造化レコードを登録。Study1関東校検索は対象地域外のため該当校ページを確認できなかった。"
+    },
+    {
+      "id": 923,
+      "school_id": 332,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://m-asahijuku.ed.jp/course/achievement/11.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の年度別大学入試合格実績で人数を確認し、構造化レコードを登録。Study1関東校検索は対象地域外のため該当校ページを確認できなかった。"
+    },
+    {
+      "id": 924,
+      "school_id": 332,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://m-asahijuku.ed.jp/course/achievement/12.html",
+      "verified_at": "2026-08-21",
+      "reason": "公式の年度別大学入試合格実績で人数を確認し、構造化レコードを登録。Study1関東校検索は対象地域外のため該当校ページを確認できなかった。"
+    }
+  ]
+}

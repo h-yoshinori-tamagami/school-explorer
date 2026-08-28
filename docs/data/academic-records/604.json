@@ -1,0 +1,115 @@
+{
+  "school_id": 604,
+  "academic_records": [
+    {
+      "id": 34085,
+      "school_id": 604,
+      "academic_year": 2026,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 146,
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 146名と掲載。"
+    },
+    {
+      "id": 34083,
+      "school_id": 604,
+      "academic_year": 2026,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 2,
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に立命館大学 2名と掲載。"
+    },
+    {
+      "id": 34086,
+      "school_id": 604,
+      "academic_year": 2026,
+      "institution_name": "筑波大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に筑波大学 1名と掲載。"
+    },
+    {
+      "id": 1141,
+      "school_id": 604,
+      "academic_year": 2026,
+      "institution_name": "近畿大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 4,
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に近畿大学 4名と掲載。"
+    },
+    {
+      "id": 34084,
+      "school_id": 604,
+      "academic_year": 2026,
+      "institution_name": "龍谷大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に龍谷大学 1名と掲載。"
+    },
+    {
+      "id": 1140,
+      "school_id": 604,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 7,
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績表に関西大学 7名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 1720,
+      "school_id": 604,
+      "academic_year": 2024,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1721,
+      "school_id": 604,
+      "academic_year": 2025,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 1722,
+      "school_id": 604,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kansai/school/B28P025/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

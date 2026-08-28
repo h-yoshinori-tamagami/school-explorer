@@ -1,0 +1,50 @@
+{
+  "school_id": 83,
+  "academic_records": [
+    {
+      "id": 159,
+      "school_id": 83,
+      "academic_year": 2025,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 21,
+      "source_url": "https://www.hyogo-c.ed.jp/~ashiyai-ss/pdf/R7-18kiseishinrokekka.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和7年度の進路結果で、立命館大学は現役20名・既卒1名の合計21名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 184,
+      "school_id": 83,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.hyogo-c.ed.jp/~ashiyai-ss/pdf/R7-18kiseishinrokekka.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、立命館大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 185,
+      "school_id": 83,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトの年度別PDFは確認できたが対象大学の人数を確定できず、Study1でも学校別の年次数値を確認できなかったため再確認する。"
+    },
+    {
+      "id": 186,
+      "school_id": 83,
+      "academic_year": 2023,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトの年度別PDFは確認できたが対象大学の人数を確定できず、Study1でも学校別の年次数値を確認できなかったため再確認する。"
+    }
+  ]
+}

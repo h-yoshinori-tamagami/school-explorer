@@ -1,0 +1,76 @@
+{
+  "school_id": 6,
+  "academic_records": [
+    {
+      "id": 41,
+      "school_id": 6,
+      "academic_year": 2025,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 21,
+      "source_url": "https://www.assumption.ed.jp/jsh/decide/situation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "主な大学合格状況の2025年度卒欄で、関西学院大学21名を掲載。"
+    },
+    {
+      "id": 40,
+      "school_id": 6,
+      "academic_year": 2024,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 17,
+      "source_url": "https://www.assumption.ed.jp/jsh/decide/situation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "主な大学合格状況の2024年度卒欄で、関西学院大学17名を掲載。"
+    },
+    {
+      "id": 39,
+      "school_id": 6,
+      "academic_year": 2023,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 16,
+      "source_url": "https://www.assumption.ed.jp/jsh/decide/situation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "主な大学合格状況の2023年度卒欄で、関西学院大学16名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 40,
+      "school_id": 6,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.assumption.ed.jp/jsh/decide/situation/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の主な大学合格状況を確認し、構造化実績を登録。"
+    },
+    {
+      "id": 41,
+      "school_id": 6,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.assumption.ed.jp/jsh/decide/situation/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の主な大学合格状況を確認し、構造化実績を登録。"
+    },
+    {
+      "id": 42,
+      "school_id": 6,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.assumption.ed.jp/jsh/decide/situation/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の主な大学合格状況を確認し、構造化実績を登録。"
+    }
+  ]
+}

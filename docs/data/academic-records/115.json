@@ -1,0 +1,76 @@
+{
+  "school_id": 115,
+  "academic_records": [
+    {
+      "id": 216,
+      "school_id": 115,
+      "academic_year": 2025,
+      "institution_name": "大妻女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.wayokonodai.ed.jp/education/course/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2025年度実績で、大妻女子大学10名。"
+    },
+    {
+      "id": 217,
+      "school_id": 115,
+      "academic_year": 2024,
+      "institution_name": "大妻女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.wayokonodai.ed.jp/education/course/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2024年度実績で、大妻女子大学4名。"
+    },
+    {
+      "id": 218,
+      "school_id": 115,
+      "academic_year": 2023,
+      "institution_name": "大妻女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.wayokonodai.ed.jp/education/course/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2023年度実績で、大妻女子大学10名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 280,
+      "school_id": 115,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.wayokonodai.ed.jp/education/course/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、大妻女子大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 281,
+      "school_id": 115,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.wayokonodai.ed.jp/education/course/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、大妻女子大学の2024年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 282,
+      "school_id": 115,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.wayokonodai.ed.jp/education/course/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、大妻女子大学の2023年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

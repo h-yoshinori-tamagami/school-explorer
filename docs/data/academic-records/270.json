@@ -1,0 +1,154 @@
+{
+  "school_id": 270,
+  "academic_records": [
+    {
+      "id": 12808,
+      "school_id": 270,
+      "academic_year": 2026,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 705,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 705名と掲載。"
+    },
+    {
+      "id": 19,
+      "school_id": 270,
+      "academic_year": 2026,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 691,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 691名と掲載。"
+    },
+    {
+      "id": 12811,
+      "school_id": 270,
+      "academic_year": 2026,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": "医学部",
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 22,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 22名と掲載。"
+    },
+    {
+      "id": 12809,
+      "school_id": 270,
+      "academic_year": 2025,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 735,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 735名と掲載。"
+    },
+    {
+      "id": 20,
+      "school_id": 270,
+      "academic_year": 2025,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 726,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に慶應義塾大学 726名と掲載。"
+    },
+    {
+      "id": 12812,
+      "school_id": 270,
+      "academic_year": 2025,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": "医学部",
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 22,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に慶應義塾大学 22名と掲載。"
+    },
+    {
+      "id": 12810,
+      "school_id": 270,
+      "academic_year": 2024,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 670,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 670名と掲載。"
+    },
+    {
+      "id": 21,
+      "school_id": 270,
+      "academic_year": 2024,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 656,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に慶應義塾大学 656名と掲載。"
+    },
+    {
+      "id": 12813,
+      "school_id": 270,
+      "academic_year": 2024,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": "医学部",
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 22,
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2024年度大学合格実績に慶應義塾大学 22名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 1,
+      "school_id": 270,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 2,
+      "school_id": 270,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 3,
+      "school_id": 270,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P027/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

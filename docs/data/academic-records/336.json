@@ -1,0 +1,76 @@
+{
+  "school_id": 336,
+  "academic_records": [
+    {
+      "id": 519,
+      "school_id": 336,
+      "academic_year": 2026,
+      "institution_name": "北海道大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.sapporokosei.ac.jp/common/img/content/content_20260526_093625.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026大学合格実績で、北海道大学は9名。"
+    },
+    {
+      "id": 518,
+      "school_id": 336,
+      "academic_year": 2025,
+      "institution_name": "北海道大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 14,
+      "source_url": "https://www.sapporokosei.ac.jp/common/img/content/content_20250826_093154.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025大学合格実績で、北海道大学は14名。"
+    },
+    {
+      "id": 517,
+      "school_id": 336,
+      "academic_year": 2024,
+      "institution_name": "北海道大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 25,
+      "source_url": "https://www.sapporokosei.ac.jp/common/img/content/content_20241024_084501.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024大学合格実績で、北海道大学は25名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 934,
+      "school_id": 336,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.sapporokosei.ac.jp/common/img/content/content_20241024_084501.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式の年度別大学合格実績で人数を確認し、構造化レコードを登録。Study1関東校検索は対象地域外のため該当校ページを確認できなかった。"
+    },
+    {
+      "id": 935,
+      "school_id": 336,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.sapporokosei.ac.jp/common/img/content/content_20250826_093154.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式の年度別大学合格実績で人数を確認し、構造化レコードを登録。Study1関東校検索は対象地域外のため該当校ページを確認できなかった。"
+    },
+    {
+      "id": 936,
+      "school_id": 336,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.sapporokosei.ac.jp/common/img/content/content_20260526_093625.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式の年度別大学合格実績で人数を確認し、構造化レコードを登録。Study1関東校検索は対象地域外のため該当校ページを確認できなかった。"
+    }
+  ]
+}

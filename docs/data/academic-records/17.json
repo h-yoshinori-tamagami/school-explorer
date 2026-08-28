@@ -1,0 +1,30 @@
+{
+  "school_id": 17,
+  "academic_records": [
+    {
+      "id": 47,
+      "school_id": 17,
+      "academic_year": 2025,
+      "institution_name": "関関同立（関西大学・関西学院大学・同志社大学・立命館大学）",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 24,
+      "source_url": "https://poole.ed.jp/career/graduation/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "進路実績2025年の合格大学一覧で、関関同立の合格数24名を掲載（大学別の内訳は同ページの公開範囲では確認できない）。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 53,
+      "school_id": 17,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://poole.ed.jp/career/graduation/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の2025年進路実績で公開されている大学群別合格数を構造化して登録。"
+    }
+  ]
+}

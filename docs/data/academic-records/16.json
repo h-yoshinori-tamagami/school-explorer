@@ -1,0 +1,30 @@
+{
+  "school_id": 16,
+  "academic_records": [
+    {
+      "id": 46,
+      "school_id": 16,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 7,
+      "source_url": "https://www.ferris.ed.jp/course/pdf/guidance/gokaku.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年3月卒業生の大学合格実績で、東京大学7名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 52,
+      "school_id": 16,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.ferris.ed.jp/course/pdf/guidance/gokaku.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公式PDFの2026年3月卒業生合格実績を構造化して登録。"
+    }
+  ]
+}

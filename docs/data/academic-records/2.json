@@ -1,0 +1,76 @@
+{
+  "school_id": 2,
+  "academic_records": [
+    {
+      "id": 33,
+      "school_id": 2,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 26,
+      "source_url": "https://www.ariake.kaetsu.ac.jp/career/university-results/",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "2026年大学合格情報の私立大学合格者数として、早稲田大学26名を掲載。"
+    },
+    {
+      "id": 32,
+      "school_id": 2,
+      "academic_year": 2025,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ariake.kaetsu.ac.jp/news/57568/",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "2025年度大学入試（2025年4月3日時点）の国公立大学合格者数として、東京大学1名を掲載。"
+    },
+    {
+      "id": 31,
+      "school_id": 2,
+      "academic_year": 2024,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ariake.kaetsu.ac.jp/news/53725/",
+      "verified_at": "2026-08-16",
+      "source_excerpt": "2024年度大学入試の国公立大学合格状況として、東京大学1名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 31,
+      "school_id": 2,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.ariake.kaetsu.ac.jp/news/53725/",
+      "verified_at": "2026-08-16",
+      "reason": "公式の年度別大学入試合格状況を確認し、構造化実績を登録。"
+    },
+    {
+      "id": 32,
+      "school_id": 2,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.ariake.kaetsu.ac.jp/news/57568/",
+      "verified_at": "2026-08-16",
+      "reason": "公式の年度別大学入試合格状況を確認し、構造化実績を登録。"
+    },
+    {
+      "id": 33,
+      "school_id": 2,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.ariake.kaetsu.ac.jp/career/university-results/",
+      "verified_at": "2026-08-16",
+      "reason": "公式の年度別大学合格情報を確認し、構造化実績を登録。"
+    }
+  ]
+}

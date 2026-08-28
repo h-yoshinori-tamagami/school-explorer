@@ -1,0 +1,56 @@
+{
+  "school_id": 44,
+  "academic_records": [
+    {
+      "id": 60,
+      "school_id": 44,
+      "academic_year": 2026,
+      "institution_name": "京都先端科学大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 177,
+      "source_url": "https://www.js.kuas.ac.jp/shs/blog/2026/04/17/2026%E5%B9%B4%E5%BA%A6/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の大学合格実績で、京都先端科学大学の合計177名（内部進学49名を含む）を掲載。"
+    },
+    {
+      "id": 59,
+      "school_id": 44,
+      "academic_year": 2026,
+      "institution_name": "京都産業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 55,
+      "source_url": "https://www.js.kuas.ac.jp/shs/blog/2026/04/17/2026%E5%B9%B4%E5%BA%A6/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の大学合格実績で、京都産業大学55名を掲載。"
+    },
+    {
+      "id": 58,
+      "school_id": 44,
+      "academic_year": 2026,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 65,
+      "source_url": "https://www.js.kuas.ac.jp/shs/blog/2026/04/17/2026%E5%B9%B4%E5%BA%A6/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の大学合格実績で、立命館大学65名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 80,
+      "school_id": 44,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.js.kuas.ac.jp/shs/blog/2026/04/17/2026%E5%B9%B4%E5%BA%A6/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の2026年度大学合格実績を構造化して登録。"
+    }
+  ]
+}

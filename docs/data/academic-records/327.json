@@ -1,0 +1,76 @@
+{
+  "school_id": 327,
+  "academic_records": [
+    {
+      "id": 479,
+      "school_id": 327,
+      "academic_year": 2026,
+      "institution_name": "和歌山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.chiben.ac.jp/gojo/results",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2026年の和歌山大学合格者数は1名。"
+    },
+    {
+      "id": 478,
+      "school_id": 327,
+      "academic_year": 2025,
+      "institution_name": "和歌山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.chiben.ac.jp/gojo/results",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2025年の和歌山大学合格者数は5名。"
+    },
+    {
+      "id": 477,
+      "school_id": 327,
+      "academic_year": 2024,
+      "institution_name": "和歌山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.chiben.ac.jp/gojo/results",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "2024年の和歌山大学合格者数は1名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 907,
+      "school_id": 327,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.chiben.ac.jp/gojo/results",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 908,
+      "school_id": 327,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.chiben.ac.jp/gojo/results",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 909,
+      "school_id": 327,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.chiben.ac.jp/gojo/results",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

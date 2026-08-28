@@ -1,0 +1,36 @@
+{
+  "school_id": 63,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 121,
+      "school_id": 63,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.education.saga.jp/hp/takeoseiryouchuugakkou/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトと学校説明会資料は確認できたが、大学合格実績の年次数値を学校単位で確定できなかったため再確認する。"
+    },
+    {
+      "id": 122,
+      "school_id": 63,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.education.saga.jp/hp/takeoseiryouchuugakkou/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトと学校説明会資料は確認できたが、大学合格実績の年次数値を学校単位で確定できなかったため再確認する。"
+    },
+    {
+      "id": 123,
+      "school_id": 63,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.education.saga.jp/hp/takeoseiryouchuugakkou/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトと学校説明会資料は確認できたが、大学合格実績の年次数値を学校単位で確定できなかったため再確認する。"
+    }
+  ]
+}

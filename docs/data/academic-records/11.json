@@ -1,0 +1,16 @@
+{
+  "school_id": 11,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 47,
+      "school_id": 11,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.study1.jp/",
+      "verified_at": "2026-08-17",
+      "reason": "公式で年度・人数を確定できず、Study1の学校検索も確認したが、該当校の年度別大学合格実績ページを確認できないため再確認する。"
+    }
+  ]
+}

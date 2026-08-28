@@ -1,0 +1,76 @@
+{
+  "school_id": 66,
+  "academic_records": [
+    {
+      "id": 120,
+      "school_id": 66,
+      "academic_year": 2026,
+      "institution_name": "日本大学合計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 377,
+      "source_url": "https://high.sano-nichidai.jp/achievement/shinro/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の日本大学学部別合格者数の合計は377名。"
+    },
+    {
+      "id": 121,
+      "school_id": 66,
+      "academic_year": 2025,
+      "institution_name": "日本大学合計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 364,
+      "source_url": "https://high.sano-nichidai.jp/achievement/shinro/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度の日本大学学部別合格者数の合計は364名。"
+    },
+    {
+      "id": 122,
+      "school_id": 66,
+      "academic_year": 2024,
+      "institution_name": "日本大学合計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 425,
+      "source_url": "https://high.sano-nichidai.jp/achievement/shinro/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度の日本大学学部別合格者数の合計は425名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 133,
+      "school_id": 66,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://high.sano-nichidai.jp/achievement/shinro/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の大学合格状況で、日本大学合計の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 134,
+      "school_id": 66,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://high.sano-nichidai.jp/achievement/shinro/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の大学合格状況で、日本大学合計の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 135,
+      "school_id": 66,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://high.sano-nichidai.jp/achievement/shinro/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の大学合格状況で、日本大学合計の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

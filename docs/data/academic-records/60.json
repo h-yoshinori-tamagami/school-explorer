@@ -1,0 +1,76 @@
+{
+  "school_id": 60,
+  "academic_records": [
+    {
+      "id": 111,
+      "school_id": 60,
+      "academic_year": 2026,
+      "institution_name": "信州大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://sakuchosei.ed.jp/hs/hs-achieve/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年度の信州大学合格者数は8名。"
+    },
+    {
+      "id": 112,
+      "school_id": 60,
+      "academic_year": 2025,
+      "institution_name": "信州大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 14,
+      "source_url": "https://sakuchosei.ed.jp/hs/hs-achieve/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度の信州大学合格者数は14名。"
+    },
+    {
+      "id": 113,
+      "school_id": 60,
+      "academic_year": 2024,
+      "institution_name": "信州大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 12,
+      "source_url": "https://sakuchosei.ed.jp/hs/hs-achieve/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度の信州大学合格者数は12名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 115,
+      "school_id": 60,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://sakuchosei.ed.jp/hs/hs-achieve/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の大学入試合格実績ページで信州大学8名を確認し、構造化して登録。"
+    },
+    {
+      "id": 116,
+      "school_id": 60,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://sakuchosei.ed.jp/hs/hs-achieve/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の大学入試合格実績ページで信州大学14名を確認し、構造化して登録。"
+    },
+    {
+      "id": 117,
+      "school_id": 60,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://sakuchosei.ed.jp/hs/hs-achieve/",
+      "verified_at": "2026-08-17",
+      "reason": "公式の大学入試合格実績ページで信州大学12名を確認し、構造化して登録。"
+    }
+  ]
+}

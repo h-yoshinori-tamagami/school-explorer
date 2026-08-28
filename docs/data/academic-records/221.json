@@ -1,0 +1,76 @@
+{
+  "school_id": 221,
+  "academic_records": [
+    {
+      "id": 347,
+      "school_id": 221,
+      "academic_year": 2026,
+      "institution_name": "岡山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 22,
+      "source_url": "https://www.daianji-ss.okayama-c.ed.jp/wordpress/wp-content/uploads/2026/07/22c380d69e13a83a047029da150cd3b5.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2026年度実績で、岡山大学22名。"
+    },
+    {
+      "id": 348,
+      "school_id": 221,
+      "academic_year": 2025,
+      "institution_name": "岡山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 18,
+      "source_url": "https://www.daianji-ss.okayama-c.ed.jp/wordpress/wp-content/uploads/2025/11/ff86bee8ab56fa4de12e1bb6e056f6de.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2025年度実績で、岡山大学18名。"
+    },
+    {
+      "id": 349,
+      "school_id": 221,
+      "academic_year": 2024,
+      "institution_name": "岡山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 25,
+      "source_url": "https://www.daianji-ss.okayama-c.ed.jp/wordpress/wp-content/uploads/2024/04/e7d55bb8d52c8145eeffa6a2cf089048.pdf",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2024年度実績で、岡山大学25名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 598,
+      "school_id": 221,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.daianji-ss.okayama-c.ed.jp/wordpress/wp-content/uploads/2026/07/22c380d69e13a83a047029da150cd3b5.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、岡山大学の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 599,
+      "school_id": 221,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.daianji-ss.okayama-c.ed.jp/wordpress/wp-content/uploads/2025/11/ff86bee8ab56fa4de12e1bb6e056f6de.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、岡山大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 600,
+      "school_id": 221,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.daianji-ss.okayama-c.ed.jp/wordpress/wp-content/uploads/2024/04/e7d55bb8d52c8145eeffa6a2cf089048.pdf",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、岡山大学の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "school_id": 52,
+  "academic_records": [
+    {
+      "id": 90,
+      "school_id": 52,
+      "academic_year": 2025,
+      "institution_name": "京都産業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 57,
+      "source_url": "https://www.kbu.ac.jp/kbghs/about/future/index.html",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2025年度の主な合格実績で、京都産業大学57名。"
+    },
+    {
+      "id": 91,
+      "school_id": 52,
+      "academic_year": 2024,
+      "institution_name": "京都産業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 36,
+      "source_url": "https://www.kbu.ac.jp/kbghs/about/future/index.html",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2024年度の主な合格実績で、京都産業大学36名。"
+    },
+    {
+      "id": 92,
+      "school_id": 52,
+      "academic_year": 2023,
+      "institution_name": "京都産業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 30,
+      "source_url": "https://www.kbu.ac.jp/kbghs/about/future/index.html",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2023年度の主な合格実績で、京都産業大学30名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 91,
+      "school_id": 52,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.kbu.ac.jp/kbghs/about/future/index.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式の主な合格実績を確認し、京都産業大学の2025年度人数を構造化して登録。"
+    },
+    {
+      "id": 92,
+      "school_id": 52,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.kbu.ac.jp/kbghs/about/future/index.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式の主な合格実績を確認し、京都産業大学の2024年度人数を構造化して登録。"
+    },
+    {
+      "id": 93,
+      "school_id": 52,
+      "academic_year": 2023,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.kbu.ac.jp/kbghs/about/future/index.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式の主な合格実績を確認し、京都産業大学の2023年度人数を構造化して登録。"
+    }
+  ]
+}

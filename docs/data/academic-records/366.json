@@ -1,0 +1,80 @@
+{
+  "school_id": 366,
+  "academic_records": [
+    {
+      "id": 18095,
+      "school_id": 366,
+      "academic_year": 2021,
+      "institution_name": "卒業生数",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 460,
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2021年度大学合格実績に卒業生数 460名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 1024,
+      "school_id": 366,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-21",
+      "reason": "公式サイトの進路情報を確認したが対象年度の大学別人数を特定できず、Study1の大学合格実績ページ／学校検索でも対象年度の確定値を確認できなかった。"
+    },
+    {
+      "id": 1025,
+      "school_id": 366,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-21",
+      "reason": "公式サイトの進路情報を確認したが対象年度の大学別人数を特定できず、Study1の大学合格実績ページ／学校検索でも対象年度の確定値を確認できなかった。"
+    },
+    {
+      "id": 1026,
+      "school_id": 366,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-21",
+      "reason": "公式サイトの進路情報を確認したが対象年度の大学別人数を特定できず、Study1の大学合格実績ページ／学校検索でも対象年度の確定値を確認できなかった。"
+    },
+    {
+      "id": 2022,
+      "school_id": 366,
+      "academic_year": 2021,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 2023,
+      "school_id": 366,
+      "academic_year": 2020,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 2024,
+      "school_id": 366,
+      "academic_year": 2019,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P086/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

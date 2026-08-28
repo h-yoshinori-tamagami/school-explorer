@@ -1,0 +1,50 @@
+{
+  "school_id": 73,
+  "academic_records": [
+    {
+      "id": 141,
+      "school_id": 73,
+      "academic_year": 2025,
+      "institution_name": "九州大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.yamegakuin.ac.jp/achievement/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "令和7年度の大学合格実績で、九州大学4名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 154,
+      "school_id": 73,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは2025年度の人数のみ確認でき、Study1でも2026年度の学校別人数を確認できなかったため再確認する。"
+    },
+    {
+      "id": 155,
+      "school_id": 73,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.yamegakuin.ac.jp/achievement/",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、九州大学の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 156,
+      "school_id": 73,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは2025年度の人数のみ確認でき、Study1でも2024年度の学校別人数を確認できなかったため再確認する。"
+    }
+  ]
+}

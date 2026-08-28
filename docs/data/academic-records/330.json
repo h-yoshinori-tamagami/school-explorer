@@ -1,0 +1,76 @@
+{
+  "school_id": 330,
+  "academic_records": [
+    {
+      "id": 504,
+      "school_id": 330,
+      "academic_year": 2026,
+      "institution_name": "三重大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.akatsuki.ed.jp/akatsuki-jh/results/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "公式の過去3年合格実績で、2026年度の三重大学合格者数は1名。"
+    },
+    {
+      "id": 503,
+      "school_id": 330,
+      "academic_year": 2025,
+      "institution_name": "三重大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.akatsuki.ed.jp/akatsuki-jh/results/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "公式の過去3年合格実績で、2025年度の三重大学合格者数は2名。"
+    },
+    {
+      "id": 502,
+      "school_id": 330,
+      "academic_year": 2024,
+      "institution_name": "三重大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.akatsuki.ed.jp/akatsuki-jh/results/",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "公式の過去3年合格実績で、2024年度の三重大学合格者数は2名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 916,
+      "school_id": 330,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.akatsuki.ed.jp/akatsuki-jh/results/",
+      "verified_at": "2026-08-21",
+      "reason": "公式の過去3年大学合格実績で人数を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 917,
+      "school_id": 330,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.akatsuki.ed.jp/akatsuki-jh/results/",
+      "verified_at": "2026-08-21",
+      "reason": "公式の過去3年大学合格実績で人数を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 918,
+      "school_id": 330,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.akatsuki.ed.jp/akatsuki-jh/results/",
+      "verified_at": "2026-08-21",
+      "reason": "公式の過去3年大学合格実績で人数を確認し、構造化レコードを登録。"
+    }
+  ]
+}

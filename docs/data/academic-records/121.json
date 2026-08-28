@@ -1,0 +1,76 @@
+{
+  "school_id": 121,
+  "academic_records": [
+    {
+      "id": 228,
+      "school_id": 121,
+      "academic_year": 2026,
+      "institution_name": "国公立大学計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 11,
+      "source_url": "https://www.shitennojigakuen.ed.jp/higashi/highs/destination/index.php",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2026年度実績で、国公立大学計11名。"
+    },
+    {
+      "id": 229,
+      "school_id": 121,
+      "academic_year": 2025,
+      "institution_name": "国公立大学計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 16,
+      "source_url": "https://www.shitennojigakuen.ed.jp/higashi/highs/destination/index.php",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2025年度実績で、国公立大学計16名。"
+    },
+    {
+      "id": 230,
+      "school_id": 121,
+      "academic_year": 2024,
+      "institution_name": "国公立大学計",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.shitennojigakuen.ed.jp/higashi/highs/destination/index.php",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "公式資料掲載の2024年度実績で、国公立大学計10名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 298,
+      "school_id": 121,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.shitennojigakuen.ed.jp/higashi/highs/destination/index.php",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、国公立大学計の2026年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 299,
+      "school_id": 121,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.shitennojigakuen.ed.jp/higashi/highs/destination/index.php",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、国公立大学計の2025年度人数を確認し、構造化して登録。"
+    },
+    {
+      "id": 300,
+      "school_id": 121,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.shitennojigakuen.ed.jp/higashi/highs/destination/index.php",
+      "verified_at": "2026-08-17",
+      "reason": "公開された進学実績で、国公立大学計の2024年度人数を確認し、構造化して登録。"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "school_id": 288,
+  "academic_records": [
+    {
+      "id": 13946,
+      "school_id": 288,
+      "academic_year": 2025,
+      "institution_name": "中央大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に中央大学 1名と掲載。"
+    },
+    {
+      "id": 13944,
+      "school_id": 288,
+      "academic_year": 2025,
+      "institution_name": "学習院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に学習院大学 1名と掲載。"
+    },
+    {
+      "id": 13945,
+      "school_id": 288,
+      "academic_year": 2025,
+      "institution_name": "成蹊大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に成蹊大学 1名と掲載。"
+    },
+    {
+      "id": 422,
+      "school_id": 288,
+      "academic_year": 2025,
+      "institution_name": "日本大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 5,
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に日本大学 5名と掲載。"
+    },
+    {
+      "id": 13947,
+      "school_id": 288,
+      "academic_year": 2025,
+      "institution_name": "日本女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に日本女子大学 1名と掲載。"
+    },
+    {
+      "id": 13948,
+      "school_id": 288,
+      "academic_year": 2025,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "source_excerpt": "Study1の2025年度大学合格実績に明治大学 1名と掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 796,
+      "school_id": 288,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 797,
+      "school_id": 288,
+      "academic_year": 2024,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    },
+    {
+      "id": 798,
+      "school_id": 288,
+      "academic_year": 2023,
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/school/B13P104/univ_pass/",
+      "verified_at": "2026-08-27",
+      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+    }
+  ]
+}

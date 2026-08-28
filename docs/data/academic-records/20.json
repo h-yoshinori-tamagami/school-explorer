@@ -1,0 +1,43 @@
+{
+  "school_id": 20,
+  "academic_records": [
+    {
+      "id": 48,
+      "school_id": 20,
+      "academic_year": 2026,
+      "institution_name": "University of Melbourne",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.mita-is.ed.jp/news/1825/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年1月現在の主な海外大学合格実績で、University of Melbourne 3名を掲載。"
+    },
+    {
+      "id": 49,
+      "school_id": 20,
+      "academic_year": 2026,
+      "institution_name": "University of New South Wales",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.mita-is.ed.jp/news/1825/",
+      "verified_at": "2026-08-17",
+      "source_excerpt": "2026年1月現在の主な海外大学合格実績で、University of New South Wales 2名を掲載。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 56,
+      "school_id": 20,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.mita-is.ed.jp/news/1825/",
+      "verified_at": "2026-08-17",
+      "reason": "公式記事の2026年1月時点の海外大学合格実績を構造化して登録。"
+    }
+  ]
+}

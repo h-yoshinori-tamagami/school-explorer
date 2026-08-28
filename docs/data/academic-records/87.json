@@ -1,0 +1,36 @@
+{
+  "school_id": 87,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 196,
+      "school_id": 87,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式の進路資料は画像中心で人数を確実に読み取れず、Study1でも学校別の年次数値を確認できなかったため再確認する。"
+    },
+    {
+      "id": 197,
+      "school_id": 87,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式の進路資料は画像中心で人数を確実に読み取れず、Study1でも学校別の年次数値を確認できなかったため再確認する。"
+    },
+    {
+      "id": 198,
+      "school_id": 87,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-08-17",
+      "reason": "公式の進路資料は画像中心で人数を確実に読み取れず、Study1でも学校別の年次数値を確認できなかったため再確認する。"
+    }
+  ]
+}

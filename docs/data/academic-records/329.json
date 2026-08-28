@@ -1,0 +1,76 @@
+{
+  "school_id": 329,
+  "academic_records": [
+    {
+      "id": 480,
+      "school_id": 329,
+      "academic_year": 2026,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 25,
+      "source_url": "https://www.chiben.ac.jp/naracollege-el/wp-content/uploads/sites/7/2026/04/6efb6616297ff2fabfe468784780f2d9.pdf",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "令和8年度卒業生の関西大学合格者数は25名。"
+    },
+    {
+      "id": 501,
+      "school_id": 329,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 18,
+      "source_url": "https://www.chiben.ac.jp/naracollege/results",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "公式の大学合格状況で、2025年の関西大学合格者数は18名。"
+    },
+    {
+      "id": 500,
+      "school_id": 329,
+      "academic_year": 2024,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 20,
+      "source_url": "https://www.chiben.ac.jp/naracollege/results",
+      "verified_at": "2026-08-21",
+      "source_excerpt": "公式の大学合格状況で、2024年の関西大学合格者数は20名。"
+    }
+  ],
+  "academic_collection_statuses": [
+    {
+      "id": 913,
+      "school_id": 329,
+      "academic_year": 2024,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.chiben.ac.jp/naracollege/results",
+      "verified_at": "2026-08-21",
+      "reason": "公式の大学合格状況で人数を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 914,
+      "school_id": 329,
+      "academic_year": 2025,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.chiben.ac.jp/naracollege/results",
+      "verified_at": "2026-08-21",
+      "reason": "公式の大学合格状況で人数を確認し、構造化レコードを登録。"
+    },
+    {
+      "id": 915,
+      "school_id": 329,
+      "academic_year": 2026,
+      "collection_status": "collected",
+      "approval_status": "approved",
+      "source_url": "https://www.chiben.ac.jp/naracollege-el/wp-content/uploads/sites/7/2026/04/6efb6616297ff2fabfe468784780f2d9.pdf",
+      "verified_at": "2026-08-21",
+      "reason": "公式またはStudy1の年度別実績を確認し、構造化レコードを登録。"
+    }
+  ]
+}

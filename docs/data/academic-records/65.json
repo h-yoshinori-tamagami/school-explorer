@@ -1,0 +1,36 @@
+{
+  "school_id": 65,
+  "academic_records": [],
+  "academic_collection_statuses": [
+    {
+      "id": 124,
+      "school_id": 65,
+      "academic_year": 2026,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.education.saga.jp/hp/kounanchuugakkou/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは鳥栖高校の大学合格状況への導線のみで、Nichinokenでも2024〜2026年の大学合格実績が調査中のため再確認する。"
+    },
+    {
+      "id": 125,
+      "school_id": 65,
+      "academic_year": 2025,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.education.saga.jp/hp/kounanchuugakkou/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは鳥栖高校の大学合格状況への導線のみで、Nichinokenでも2024〜2026年の大学合格実績が調査中のため再確認する。"
+    },
+    {
+      "id": 126,
+      "school_id": 65,
+      "academic_year": 2024,
+      "collection_status": "recheck",
+      "approval_status": "pending",
+      "source_url": "https://www.education.saga.jp/hp/kounanchuugakkou/",
+      "verified_at": "2026-08-17",
+      "reason": "公式サイトでは鳥栖高校の大学合格状況への導線のみで、Nichinokenでも2024〜2026年の大学合格実績が調査中のため再確認する。"
+    }
+  ]
+}
