@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[4788,["197","static/chunks/app/autumn-events/page-dda092e118c9f1fe.js"],"AutumnEventsPage"]
+3:I[1091,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZGO12Tt65QEWEOPB6EQjj"}
+5:null
