@@ -16,6 +16,12 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://chuju-ai.jp/autumn-events</loc>
+<lastmod>2026-08-30</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://chuju-ai.jp/schools</loc>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
@@ -32,6 +38,12 @@
 </url>
 <url>
 <loc>https://chuju-ai.jp/articles/commute-time-admission-requirements</loc>
+<lastmod>2026-08-30</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://chuju-ai.jp/articles/last-chance-school-visits</loc>
 <lastmod>2026-08-30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
