@@ -1155,7 +1155,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ａ午後",
           "target_gender": null,
           "capacity": null,
@@ -1468,26 +1468,26 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回",
           "target_gender": "女子",
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 44,
           "yotsuya_score": 51,
-          "nichinoken_score": null,
+          "nichinoken_score": 52,
           "id": 16,
           "school_id": 7
         },
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３回",
           "target_gender": "女子",
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 43,
           "yotsuya_score": 51,
-          "nichinoken_score": null,
+          "nichinoken_score": 53,
           "id": 17,
           "school_id": 7
         },
@@ -1502,32 +1502,6 @@
           "yotsuya_score": 48,
           "nichinoken_score": 49,
           "id": 18,
-          "school_id": 7
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-01",
-          "exam_time_period": "PM",
-          "exam_type": "２回",
-          "target_gender": "女子",
-          "capacity": null,
-          "sapix_score": 44,
-          "yotsuya_score": 51,
-          "nichinoken_score": 52,
-          "id": 2331,
-          "school_id": 7
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-02",
-          "exam_time_period": "PM",
-          "exam_type": "３回",
-          "target_gender": "女子",
-          "capacity": null,
-          "sapix_score": 43,
-          "yotsuya_score": 51,
-          "nichinoken_score": 53,
-          "id": 2332,
           "school_id": 7
         }
       ],
@@ -6438,7 +6412,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": "女子",
           "capacity": null,
@@ -7318,7 +7292,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１次午後特進",
           "target_gender": null,
           "capacity": null,
@@ -7782,7 +7756,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後",
           "target_gender": null,
           "capacity": null,
@@ -9696,7 +9670,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "特待２・４科・１日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -9722,7 +9696,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "特待２・４科・２日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -12496,7 +12470,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "特選午後",
           "target_gender": "男子",
           "capacity": null,
@@ -12755,7 +12729,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": "女子",
           "capacity": null,
@@ -18426,7 +18400,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後S特待",
           "target_gender": "女子",
           "capacity": null,
@@ -18452,7 +18426,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２日午後S特待",
           "target_gender": "女子",
           "capacity": null,
@@ -18478,7 +18452,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３日午後S特待",
           "target_gender": "女子",
           "capacity": null,
@@ -18491,7 +18465,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３日午後国語１科",
           "target_gender": "女子",
           "capacity": null,
@@ -18517,7 +18491,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-04",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "４日午後S特待",
           "target_gender": "女子",
           "capacity": null,
@@ -19203,7 +19177,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -20385,7 +20359,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後東大",
           "target_gender": null,
           "capacity": null,
@@ -20411,7 +20385,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２日午後東大",
           "target_gender": null,
           "capacity": null,
@@ -22068,7 +22042,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３日午後合科型",
           "target_gender": "女子",
           "capacity": null,
@@ -31556,7 +31530,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ａ午後･医進",
           "target_gender": "女子",
           "capacity": null,
@@ -31569,7 +31543,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ａ午後･特進",
           "target_gender": "女子",
           "capacity": null,
@@ -33410,7 +33384,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": null,
           "capacity": null,
@@ -33423,7 +33397,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後",
           "target_gender": null,
           "capacity": null,
@@ -38188,7 +38162,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": null,
           "capacity": null,
@@ -40205,7 +40179,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "午後Ⅱ進",
           "target_gender": "男子",
           "capacity": null,
@@ -44769,7 +44743,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪･Ｂ凛花午後",
           "target_gender": "女子",
           "capacity": null,
@@ -44782,7 +44756,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪･Ｂ医進午後",
           "target_gender": "女子",
           "capacity": null,
@@ -44795,7 +44769,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪･Ｂ特進午後",
           "target_gender": "女子",
           "capacity": null,
@@ -44808,7 +44782,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪･Ｃ凛花午後",
           "target_gender": "女子",
           "capacity": null,
@@ -44821,7 +44795,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪･Ｃ医進午後",
           "target_gender": "女子",
           "capacity": null,
@@ -44834,7 +44808,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪･Ｃ特進午後",
           "target_gender": "女子",
           "capacity": null,
@@ -56136,7 +56110,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -56175,7 +56149,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -56188,7 +56162,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -64132,7 +64106,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "午後",
           "target_gender": null,
           "capacity": null,
@@ -64158,7 +64132,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後",
           "target_gender": null,
           "capacity": null,
@@ -86498,7 +86472,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪・前期午後特進",
           "target_gender": "男子",
           "capacity": null,
@@ -86511,7 +86485,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "大阪・前期午後特進Ｓ",
           "target_gender": "男子",
           "capacity": null,
@@ -87745,7 +87719,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後特待",
           "target_gender": null,
           "capacity": null,
@@ -87771,7 +87745,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後特待",
           "target_gender": null,
           "capacity": null,
@@ -89230,7 +89204,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-10",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": null,
           "capacity": null,
@@ -89282,7 +89256,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-13",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３回午後",
           "target_gender": null,
           "capacity": null,
@@ -90322,7 +90296,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-21",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "午後特別",
           "target_gender": null,
           "capacity": null,
@@ -95561,7 +95535,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -95587,7 +95561,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -95613,7 +95587,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-05",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "６日午後",
           "target_gender": "女子",
           "capacity": null,
@@ -112932,7 +112906,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-10",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": null,
           "capacity": null,
@@ -114979,7 +114953,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後",
           "target_gender": "男女",
           "capacity": null,
@@ -122238,7 +122212,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-10",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回特待午後",
           "target_gender": null,
           "capacity": null,
@@ -122264,7 +122238,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-12",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回特待午後",
           "target_gender": null,
           "capacity": null,
@@ -130182,7 +130156,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "前期午後・ミライ探究",
           "target_gender": "男子",
           "capacity": null,
@@ -130195,7 +130169,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "前期午後・医進",
           "target_gender": null,
           "capacity": null,
@@ -130208,7 +130182,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "前期午後・ＳＧ",
           "target_gender": null,
           "capacity": null,
@@ -135387,7 +135361,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ⅰ期午後Ｆ",
           "target_gender": "男子",
           "capacity": null,
@@ -135400,7 +135374,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ⅰ期午後Ｍ",
           "target_gender": "男子",
           "capacity": null,
@@ -136396,7 +136370,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": "女子",
           "capacity": null,
@@ -136422,7 +136396,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後",
           "target_gender": "女子",
           "capacity": null,
@@ -136448,7 +136422,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-04",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３回午後",
           "target_gender": "女子",
           "capacity": null,
@@ -136487,7 +136461,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-10",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "５回午後",
           "target_gender": "女子",
           "capacity": null,
@@ -141338,7 +141312,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ａ午後",
           "target_gender": "女子",
           "capacity": null,
@@ -151473,7 +151447,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": null,
           "capacity": null,
@@ -153092,7 +153066,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "A午後",
           "target_gender": null,
           "capacity": null,
@@ -153131,7 +153105,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "（A午後理数探究S）",
           "target_gender": null,
           "capacity": null,
@@ -153144,7 +153118,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "（A午後理数探究）",
           "target_gender": null,
           "capacity": null,
@@ -153183,7 +153157,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "（B午後理数探究S）",
           "target_gender": null,
           "capacity": null,
@@ -153196,7 +153170,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "（B午後理数探究）",
           "target_gender": null,
           "capacity": null,
@@ -153222,7 +153196,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ｂ午後",
           "target_gender": null,
           "capacity": null,
@@ -153940,7 +153914,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "（１回午後）",
           "target_gender": null,
           "capacity": null,
@@ -153953,7 +153927,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "（２回午後）",
           "target_gender": null,
           "capacity": null,
@@ -158621,7 +158595,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後",
           "target_gender": null,
           "capacity": null,
@@ -158647,7 +158621,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "４回午後",
           "target_gender": null,
           "capacity": null,
@@ -167250,7 +167224,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "午後数理",
           "target_gender": null,
           "capacity": null,
@@ -167263,7 +167237,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "午後Ｓ数理",
           "target_gender": null,
           "capacity": null,
@@ -172247,7 +172221,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後K",
           "target_gender": null,
           "capacity": null,
@@ -172273,7 +172247,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２日午後K",
           "target_gender": null,
           "capacity": null,
@@ -175187,11 +175161,11 @@
         {
           "exam_year": 2027,
           "exam_date": "01-11",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "算数特待",
           "target_gender": null,
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 52,
           "yotsuya_score": 55,
           "nichinoken_score": null,
           "id": 2116,
@@ -175286,19 +175260,6 @@
           "yotsuya_score": 50,
           "nichinoken_score": null,
           "id": 2123,
-          "school_id": 620
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "01-11",
-          "exam_time_period": "PM",
-          "exam_type": "算数特待",
-          "target_gender": null,
-          "capacity": null,
-          "sapix_score": 52,
-          "yotsuya_score": 55,
-          "nichinoken_score": null,
-          "id": 2306,
           "school_id": 620
         }
       ],
@@ -178753,7 +178714,7 @@
         {
           "exam_year": 2027,
           "exam_date": "01-17",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "Ａ午後",
           "target_gender": null,
           "capacity": null,
@@ -180086,11 +180047,11 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回Ｂ",
           "target_gender": null,
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 48,
           "yotsuya_score": 57,
           "nichinoken_score": null,
           "id": 2185,
@@ -180112,32 +180073,6 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
-          "exam_type": "２回Ｂ",
-          "target_gender": null,
-          "capacity": null,
-          "sapix_score": 0,
-          "yotsuya_score": 58,
-          "nichinoken_score": null,
-          "id": 2187,
-          "school_id": 639
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-01",
-          "exam_time_period": "PM",
-          "exam_type": "１回Ｂ",
-          "target_gender": null,
-          "capacity": null,
-          "sapix_score": 48,
-          "yotsuya_score": 57,
-          "nichinoken_score": null,
-          "id": 2323,
-          "school_id": 639
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-02",
           "exam_time_period": "PM",
           "exam_type": "２回Ｂ",
           "target_gender": null,
@@ -180145,7 +180080,7 @@
           "sapix_score": 45,
           "yotsuya_score": 58,
           "nichinoken_score": null,
-          "id": 2324,
+          "id": 2187,
           "school_id": 639
         }
       ],
@@ -184874,7 +184809,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後スカラシップ",
           "target_gender": "女子",
           "capacity": null,
@@ -184913,7 +184848,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後スカラシップ",
           "target_gender": "女子",
           "capacity": null,
@@ -190534,7 +190469,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後特待",
           "target_gender": "女子",
           "capacity": null,
@@ -190560,7 +190495,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２日午後特待",
           "target_gender": "女子",
           "capacity": null,
@@ -191529,7 +191464,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "適性検査午後",
           "target_gender": null,
           "capacity": null,
@@ -191555,7 +191490,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１回午後",
           "target_gender": null,
           "capacity": null,
@@ -191581,7 +191516,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２回午後",
           "target_gender": null,
           "capacity": null,
@@ -191607,7 +191542,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-05",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３回午後",
           "target_gender": null,
           "capacity": null,
