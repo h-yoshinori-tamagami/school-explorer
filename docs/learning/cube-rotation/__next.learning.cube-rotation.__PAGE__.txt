@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","240","static/chunks/app/learning/cube-rotation/page-a63a45d90a470341.js"],"ArticleHeader"]
-3:I[789,["831","static/chunks/831-a22e380da7cbf14b.js","240","static/chunks/app/learning/cube-rotation/page-a63a45d90a470341.js"],"CubeRotationLesson"]
+2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","240","static/chunks/app/learning/cube-rotation/page-ded744885ff90de8.js"],"ArticleHeader"]
+3:I[789,["831","static/chunks/831-a22e380da7cbf14b.js","240","static/chunks/app/learning/cube-rotation/page-ded744885ff90de8.js"],"CubeRotationLesson"]
 4:I[1091,[],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RQmqB6N8YkpaaRIBqOML8"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KpQtys_Iis1QTRx3U-ToH"}
 6:null
