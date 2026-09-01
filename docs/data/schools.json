@@ -32706,7 +32706,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "算数",
           "target_gender": "女子",
           "capacity": null,
@@ -59351,7 +59351,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "理数探究",
           "target_gender": "女子",
           "capacity": null,
@@ -90814,11 +90814,11 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "１日午後算数",
           "target_gender": "女子",
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 46,
           "yotsuya_score": 56,
           "nichinoken_score": null,
           "id": 1100,
@@ -90827,11 +90827,11 @@
         {
           "exam_year": 2027,
           "exam_date": "02-02",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "２日午後２科",
           "target_gender": "女子",
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 47,
           "yotsuya_score": 56,
           "nichinoken_score": null,
           "id": 1101,
@@ -90848,32 +90848,6 @@
           "yotsuya_score": 52,
           "nichinoken_score": null,
           "id": 1102,
-          "school_id": 326
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-02",
-          "exam_time_period": "PM",
-          "exam_type": "２日午後２科",
-          "target_gender": "女子",
-          "capacity": null,
-          "sapix_score": 47,
-          "yotsuya_score": 56,
-          "nichinoken_score": null,
-          "id": 2337,
-          "school_id": 326
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-01",
-          "exam_time_period": "PM",
-          "exam_type": "１日午後算数",
-          "target_gender": "女子",
-          "capacity": null,
-          "sapix_score": 46,
-          "yotsuya_score": 56,
-          "nichinoken_score": null,
-          "id": 2338,
           "school_id": 326
         }
       ],
@@ -135055,11 +135029,11 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "午後",
           "target_gender": "女子",
           "capacity": null,
-          "sapix_score": 0,
+          "sapix_score": 50,
           "yotsuya_score": 58,
           "nichinoken_score": null,
           "id": 1593,
@@ -135089,19 +135063,6 @@
           "yotsuya_score": 52,
           "nichinoken_score": 54,
           "id": 1595,
-          "school_id": 465
-        },
-        {
-          "exam_year": 2027,
-          "exam_date": "02-01",
-          "exam_time_period": "PM",
-          "exam_type": "午後",
-          "target_gender": "女子",
-          "capacity": null,
-          "sapix_score": 50,
-          "yotsuya_score": 58,
-          "nichinoken_score": null,
-          "id": 2340,
           "school_id": 465
         }
       ],
