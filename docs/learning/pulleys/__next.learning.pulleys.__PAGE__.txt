@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","236","static/chunks/app/learning/pulleys/page-0c95872f933ed653.js"],"ArticleHeader"]
-3:I[4117,["831","static/chunks/831-a22e380da7cbf14b.js","236","static/chunks/app/learning/pulleys/page-0c95872f933ed653.js"],"PulleyLesson"]
+2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","236","static/chunks/app/learning/pulleys/page-197f41c0375c638a.js"],"ArticleHeader"]
+3:I[6914,["831","static/chunks/831-a22e380da7cbf14b.js","236","static/chunks/app/learning/pulleys/page-197f41c0375c638a.js"],"PulleyLesson"]
 4:I[1091,[],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9OSF7iWIIsgjOMLaA5i9T"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jXMmHNjd3TG0ZrUbOuAL3"}
 6:null
