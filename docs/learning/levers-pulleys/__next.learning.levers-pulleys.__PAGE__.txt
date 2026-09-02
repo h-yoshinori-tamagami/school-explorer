@@ -1,7 +1,0 @@
-1:"$Sreact.fragment"
-2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","644","static/chunks/app/learning/levers-pulleys/page-79452202e7faa1c2.js"],"ArticleHeader"]
-3:I[4601,["831","static/chunks/831-a22e380da7cbf14b.js","644","static/chunks/app/learning/levers-pulleys/page-79452202e7faa1c2.js"],"LeversPulleysLesson"]
-4:I[1091,[],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HwcXrZKZPQCIxMA8HmYMu"}
-6:null
