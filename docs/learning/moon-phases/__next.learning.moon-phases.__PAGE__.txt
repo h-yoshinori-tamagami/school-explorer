@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","50","static/chunks/app/learning/moon-phases/page-f79592bd58adb94c.js"],"ArticleHeader"]
-3:I[5721,["831","static/chunks/831-a22e380da7cbf14b.js","50","static/chunks/app/learning/moon-phases/page-f79592bd58adb94c.js"],"MoonPhasesLesson"]
+2:I[5799,["831","static/chunks/831-a22e380da7cbf14b.js","50","static/chunks/app/learning/moon-phases/page-cb9eb75696b5b0a7.js"],"ArticleHeader"]
+3:I[2781,["831","static/chunks/831-a22e380da7cbf14b.js","50","static/chunks/app/learning/moon-phases/page-cb9eb75696b5b0a7.js"],"MoonPhasesLesson"]
 4:I[1091,[],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ssFgHrZPTjxPwGjuPKIL8"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"taCdzf07mTEVDMJHaI_ej"}
 6:null
