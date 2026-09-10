@@ -2,5 +2,5 @@
 2:I[2739,["6831","static/chunks/6831-99d0df76fc2e141a.js","5197","static/chunks/app/autumn-events/page-d7d3bb8340785c0d.js"],"AutumnEventsPage"]
 3:I[1091,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zqAceZk1EF9HJj5-ypomU"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QOE3bqoRCzmbCZ3LVvPN5"}
 5:null
