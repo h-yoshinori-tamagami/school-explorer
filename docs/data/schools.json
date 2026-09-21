@@ -302435,7 +302435,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "特待算数",
           "target_gender": null,
           "capacity": null,
@@ -302446,13 +302446,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
-          "exam_time_note": null,
+          "source_url": "https://kng.ed.jp/faq/exam-j/",
+          "verified_at": "2026-09-22",
+          "exam_time_note": "現行公式Q&Aに「2/1午後の特待生入試」と記載。2027年度一般入試要項は未掲載のため、集合時刻・試験開始時刻は未補完。",
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-01",
+          "official_exam_key": "kng-2027-special-math",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -302460,14 +302460,33 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://kng.ed.jp/wp-content/uploads/2025/10/26%E4%B8%80%E8%88%AC%E5%85%A5%E8%A9%A6%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85-1.pdf",
+                "locator": "PDF 4ページ目（印刷p.1）「募集要項」表の「特待生入試」行（4科選択／算数単科選択）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://kng.ed.jp/faq/exam-j/",
+                "locator": "HTML Q&A「帰国生入試でも特待合格はありますか」回答の「2/1午後の特待生入試」"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://kng.ed.jp/faq/exam-j/",
+                "locator": "HTML Q&A「帰国生入試でも特待合格はありますか」回答の「2/1午後の特待生入試」"
+              }
+            },
+            "identity_match_note": "既存ID2131は同校・2027年度・2月1日・特待算数の行として一意に対応する。旧値AMを、公式Q&Aの「2/1午後」と公式募集要項の特待生入試（算数単科選択）に合わせてPMへ訂正。"
+          },
           "id": 2131,
           "school_id": 622
         },
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "特待４科",
           "target_gender": null,
           "capacity": null,
@@ -302478,13 +302497,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
-          "exam_time_note": null,
+          "source_url": "https://kng.ed.jp/faq/exam-j/",
+          "verified_at": "2026-09-22",
+          "exam_time_note": "現行公式Q&Aに「2/1午後の特待生入試」と記載。2027年度一般入試要項は未掲載のため、集合時刻・試験開始時刻は未補完。",
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-01",
+          "official_exam_key": "kng-2027-special-four-subject",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -302492,7 +302511,26 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://kng.ed.jp/wp-content/uploads/2025/10/26%E4%B8%80%E8%88%AC%E5%85%A5%E8%A9%A6%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85-1.pdf",
+                "locator": "PDF 4ページ目（印刷p.1）「募集要項」表の「特待生入試」行（4科選択／算数単科選択）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://kng.ed.jp/faq/exam-j/",
+                "locator": "HTML Q&A「帰国生入試でも特待合格はありますか」回答の「2/1午後の特待生入試」"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://kng.ed.jp/faq/exam-j/",
+                "locator": "HTML Q&A「帰国生入試でも特待合格はありますか」回答の「2/1午後の特待生入試」"
+              }
+            },
+            "identity_match_note": "既存ID2132は同校・2027年度・2月1日・特待4科の行として一意に対応する。旧値AMを、公式Q&Aの「2/1午後」と公式募集要項の特待生入試（4科選択）に合わせてPMへ訂正。"
+          },
           "id": 2132,
           "school_id": 622
         },
