@@ -119652,7 +119652,7 @@
         {
           "exam_year": 2027,
           "exam_date": "02-01",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "ＩＳＧ２回",
           "target_gender": "男女",
           "capacity": null,
@@ -119663,13 +119663,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-01",
+          "official_exam_key": "international-sg-round-2",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -119677,14 +119677,33 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第2回（本科／インターナショナルSG）行"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第2回（2月1日）行"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第2回の集合時間15:30"
+              }
+            },
+            "identity_match_note": "既存ID 853（同校・2027年度・ISG2回）を維持し、一般入試第2回と同一の本科／インターナショナルSG試験枠として午前から午後へ訂正。"
+          },
           "id": 853,
           "school_id": 244
         },
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "３回",
           "target_gender": "男女",
           "capacity": null,
@@ -119695,13 +119714,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-03",
+          "official_exam_key": "general-round-3",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -119709,14 +119728,33 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第3回（本科／インターナショナルSG）行"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第3回（2月3日）行"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第3回の集合時間15:30"
+              }
+            },
+            "identity_match_note": "既存ID 854（同校・2027年度・第3回）を維持し、公式記載の2月3日15:30集合に合わせて午前から午後へ訂正。"
+          },
           "id": 854,
           "school_id": 244
         },
         {
           "exam_year": 2027,
           "exam_date": "02-03",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "ＩＳＧ３回",
           "target_gender": "男女",
           "capacity": null,
@@ -119727,13 +119765,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-03",
+          "official_exam_key": "international-sg-round-3",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -119741,14 +119779,33 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第3回（本科／インターナショナルSG）行"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第3回（2月3日）行"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第3回の集合時間15:30"
+              }
+            },
+            "identity_match_note": "既存ID 855（同校・2027年度・ISG3回）を維持し、第3回のインターナショナルSG枠として午前から午後へ訂正。"
+          },
           "id": 855,
           "school_id": 244
         },
         {
           "exam_year": 2027,
           "exam_date": "02-06",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "４回",
           "target_gender": "男女",
           "capacity": null,
@@ -119759,13 +119816,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-06",
+          "official_exam_key": "general-round-4",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -119773,14 +119830,33 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第4回（本科／インターナショナルSG）行"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第4回（2月6日）行"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第4回の集合時間15:30"
+              }
+            },
+            "identity_match_note": "既存ID 856（同校・2027年度・第4回）を維持し、公式記載の2月6日15:30集合に合わせて午前から午後へ訂正。"
+          },
           "id": 856,
           "school_id": 244
         },
         {
           "exam_year": 2027,
           "exam_date": "02-06",
-          "exam_time_period": "AM",
+          "exam_time_period": "PM",
           "exam_type": "ＩＳＧ４回",
           "target_gender": "男女",
           "capacity": null,
@@ -119791,13 +119867,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-02-06",
+          "official_exam_key": "international-sg-round-4",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -119805,7 +119881,26 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第4回（本科／インターナショナルSG）行"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第4回（2月6日）行"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://hiroo-koishikawa.ed.jp/dp/2027/application-requirements/pageindices/index4.html",
+                "locator": "公式デジタル募集要項 p.4 一般入試第4回の集合時間15:30"
+              }
+            },
+            "identity_match_note": "既存ID 857（同校・2027年度・ISG4回）を維持し、第4回のインターナショナルSG枠として午前から午後へ訂正。"
+          },
           "id": 857,
           "school_id": 244
         }
