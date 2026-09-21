@@ -22219,7 +22219,7 @@
       "exam_schedules": [
         {
           "exam_year": 2027,
-          "exam_date": "01-24",
+          "exam_date": "01-23",
           "exam_time_period": "AM",
           "exam_type": "一般",
           "target_gender": null,
@@ -22231,12 +22231,12 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
-          "exam_time_note": null,
+          "source_url": "https://e-shinro.meclib.jp/library/books/DP_12358_FUSETSU/book/index.html",
+          "verified_at": "2026-09-22",
+          "exam_time_note": "2027年度学校案内は試験日1月23日のみ記載。AM/PMは未記載のため正式募集要項公開後に再確認。",
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
+          "actual_exam_date": "2027-01-23",
           "official_exam_key": null,
           "application_start_at": null,
           "application_deadline_at": null,
@@ -22245,7 +22245,16 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "identity_match_note": "公式の2027年度学校案内は中学校の入学試験日を1月23日と示す。既存ID 136を維持して日付のみ訂正し、AM/PMは正式募集要項公開後に再確認する。",
+            "field_evidence": {
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://e-shinro.meclib.jp/library/books/DP_12358_FUSETSU/book/index.html",
+                "locator": "viewer p.16（紙面p.15）『入学試験要項・学校説明会等予定』表の中学校列・入学試験日『令和9年1月23日（土）』"
+              }
+            }
+          },
           "id": 136,
           "school_id": 37
         }
@@ -280239,8 +280248,8 @@
       "exam_schedules": [
         {
           "exam_year": 2027,
-          "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_date": "01-17",
+          "exam_time_period": "PM",
           "exam_type": "本校３科女子",
           "target_gender": "女子",
           "capacity": null,
@@ -280251,13 +280260,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-01-17",
+          "official_exam_key": "nishiyamato-main-general-female-2027",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -280265,14 +280274,38 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "identity_match_note": "公式は男女共通の本校4科・3科枠として掲載しているが、既存ID 1928は女子向けの偏差値を持つ本校3科カタログ行であり、同じ実施枠の女子分割行としてIDを維持する。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『本校で実施する入学試験』の『4科・3科』枠（既存カタログの女子分割行）"
+              },
+              "target_gender": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『募集定員 男子約180名・女子約40名』"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『試験日 1月17日（日）』"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『4科・3科 15:00開始』"
+              }
+            }
+          },
           "id": 1928,
           "school_id": 580
         },
         {
           "exam_year": 2027,
-          "exam_date": "01-18",
-          "exam_time_period": "AM",
+          "exam_date": "01-17",
+          "exam_time_period": "PM",
           "exam_type": "本校３科男子",
           "target_gender": "男子",
           "capacity": null,
@@ -280283,13 +280316,13 @@
           "exam_end_at": null,
           "result_announced_at": null,
           "enrollment_deadline_at": null,
-          "source_url": null,
-          "verified_at": null,
+          "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+          "verified_at": "2026-09-22",
           "exam_time_note": null,
           "result_announcement_note": null,
           "enrollment_deadline_note": null,
-          "actual_exam_date": null,
-          "official_exam_key": null,
+          "actual_exam_date": "2027-01-17",
+          "official_exam_key": "nishiyamato-main-general-male-2027",
           "application_start_at": null,
           "application_deadline_at": null,
           "assembly_at": null,
@@ -280297,7 +280330,31 @@
           "venues": null,
           "eligibility_note": null,
           "application_note": null,
-          "official_details": null,
+          "official_details": {
+            "identity_match_note": "公式は男女共通の本校4科・3科枠として掲載しているが、既存ID 1929は男子向けの偏差値を持つ本校3科カタログ行であり、同じ実施枠の男子分割行としてIDを維持する。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『本校で実施する入学試験』の『4科・3科』枠（既存カタログの男子分割行）"
+              },
+              "target_gender": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『募集定員 男子約180名・女子約40名』"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『試験日 1月17日（日）』"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.nishiyamato.ed.jp/assets/pdf/admission/ee2026/jh_honkou.pdf?ver=2026",
+                "locator": "PDF p.1『4科・3科 15:00開始』"
+              }
+            }
+          },
           "id": 1929,
           "school_id": 580
         },
