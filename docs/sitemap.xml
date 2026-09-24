@@ -26,6 +26,11 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://chuju-ai.jp/learning/cube-cross-sections</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://chuju-ai.jp/learning/cube-rotation</loc>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
