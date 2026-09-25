@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[5799,["6831","static/chunks/6831-99d0df76fc2e141a.js","4551","static/chunks/app/learning/levers/page-7f2603114d6c7d0d.js"],"ArticleHeader"]
-3:I[8258,["6831","static/chunks/6831-99d0df76fc2e141a.js","4551","static/chunks/app/learning/levers/page-7f2603114d6c7d0d.js"],"LeverBalanceLesson"]
+2:I[5799,["6831","static/chunks/6831-99d0df76fc2e141a.js","4551","static/chunks/app/learning/levers/page-1bc169be014cd179.js"],"ArticleHeader"]
+3:I[8258,["6831","static/chunks/6831-99d0df76fc2e141a.js","4551","static/chunks/app/learning/levers/page-1bc169be014cd179.js"],"LeverBalanceLesson"]
 4:I[1091,[],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7GPle0H7jI-_r-fdP7san"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NZALctMVq6xPWTaWnL3Ih"}
 6:null

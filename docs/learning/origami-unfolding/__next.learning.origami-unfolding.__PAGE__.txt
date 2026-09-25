@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[5799,["6831","static/chunks/6831-99d0df76fc2e141a.js","4753","static/chunks/app/learning/origami-unfolding/page-7eee5e86cbbdf066.js"],"ArticleHeader"]
-3:I[5868,["6831","static/chunks/6831-99d0df76fc2e141a.js","4753","static/chunks/app/learning/origami-unfolding/page-7eee5e86cbbdf066.js"],"OrigamiUnfoldingLesson"]
+2:I[5799,["6831","static/chunks/6831-99d0df76fc2e141a.js","6441","static/chunks/6441-60211cb2c923470f.js","4753","static/chunks/app/learning/origami-unfolding/page-23612d13642bb35c.js"],"ArticleHeader"]
+3:I[5868,["6831","static/chunks/6831-99d0df76fc2e141a.js","6441","static/chunks/6441-60211cb2c923470f.js","4753","static/chunks/app/learning/origami-unfolding/page-23612d13642bb35c.js"],"OrigamiUnfoldingLesson"]
 4:I[1091,[],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7GPle0H7jI-_r-fdP7san"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NZALctMVq6xPWTaWnL3Ih"}
 6:null
