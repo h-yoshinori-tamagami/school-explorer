@@ -275,17 +275,17 @@
       "source_excerpt": "学校公式の2026年大学別合格者数（2026年7月31日時点、現役・既卒合計）: 国際医療福祉大学 3人。"
     },
     {
-      "id": 28776,
+      "id": 38669,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "国際医療福祉大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に国際医療福祉大学 3名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 国際医療福祉大学 医学部 合格者数（新卒・既卒合計）3人。"
     },
     {
       "id": 38613,
@@ -299,19 +299,6 @@
       "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
       "verified_at": "2026-11-13",
       "source_excerpt": "学校公式の2026年大学別合格者数（2026年7月31日時点、現役・既卒合計）: 国際基督教大学 1人。"
-    },
-    {
-      "id": 28724,
-      "school_id": 528,
-      "academic_year": 2026,
-      "institution_name": "国際基督教大学(ICU)",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に国際基督教大学(ICU) 1名と掲載。"
     },
     {
       "id": 38621,
@@ -366,17 +353,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 大阪大学 1人。"
     },
     {
-      "id": 28760,
+      "id": 38662,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "大阪大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に大阪大学 1名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 大阪大学 医学部 合格者数（新卒・既卒合計）1人。"
+    },
+    {
+      "id": 38663,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "大阪大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 大阪大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38573,
@@ -405,17 +405,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 山梨大学 1人。"
     },
     {
-      "id": 28766,
+      "id": 38654,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "山梨大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に山梨大学 1名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 山梨大学 医学部 合格者数（新卒・既卒合計）1人。"
+    },
+    {
+      "id": 38655,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "山梨大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 山梨大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38590,
@@ -444,17 +457,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 広島大学 1人。"
     },
     {
-      "id": 28763,
+      "id": 38664,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "広島大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に広島大学 1名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 広島大学 医学部 合格者数（新卒・既卒合計）1人。"
+    },
+    {
+      "id": 38665,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "広島大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 広島大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38611,
@@ -483,17 +509,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 慶應義塾大学 8人。"
     },
     {
-      "id": 28768,
+      "id": 38670,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "慶應義塾大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 5名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 慶應義塾大学 医学部 合格者数（新卒・既卒合計）5人。"
+    },
+    {
+      "id": 38671,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 慶應義塾大学 医学部 進学者数（新卒・既卒合計）2人。"
     },
     {
       "id": 38637,
@@ -522,17 +561,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 日本医科大学 1人。"
     },
     {
-      "id": 28771,
+      "id": 38681,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "日本医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に日本医科大学 5名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 日本医科大学 医学部 合格者数（新卒・既卒合計）5人。"
+    },
+    {
+      "id": 38682,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "日本医科大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 日本医科大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38635,
@@ -626,17 +678,17 @@
       "source_excerpt": "学校公式の2026年大学別合格者数（2026年7月31日時点、現役・既卒合計）: 昭和医科大学 2人。"
     },
     {
-      "id": 28772,
+      "id": 38674,
       "school_id": 528,
       "academic_year": 2026,
-      "institution_name": "昭和大学",
+      "institution_name": "昭和医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に昭和大学 2名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 昭和医科大学 医学部 合格者数（新卒・既卒合計）2人。"
     },
     {
       "id": 38625,
@@ -665,30 +717,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東京医科大学 1人。"
     },
     {
-      "id": 28773,
+      "id": 38675,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "東京医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京医科大学 2名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京医科大学 医学部 合格者数（新卒・既卒合計）2人。"
     },
     {
-      "id": 28761,
+      "id": 38676,
       "school_id": 528,
       "academic_year": 2026,
-      "institution_name": "東京医科歯科大学",
+      "institution_name": "東京医科大学",
       "faculty_name": "医学部",
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京医科歯科大学 2名と掲載。"
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京医科大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 1,
@@ -717,17 +769,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東京大学 88人。"
     },
     {
-      "id": 28759,
+      "id": 38658,
       "school_id": 528,
       "academic_year": 2026,
-      "institution_name": "東京大学(理科三類)",
-      "faculty_name": null,
+      "institution_name": "東京大学",
+      "faculty_name": "理科三類",
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京大学(理科三類) 1名と掲載。"
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京大学 理科三類 合格者数（新卒・既卒合計）9人。"
+    },
+    {
+      "id": 38659,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": "理科三類",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京大学 理科三類 進学者数（新卒・既卒合計）9人。"
     },
     {
       "id": 38580,
@@ -782,17 +847,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東京慈恵会医科大学 2人。"
     },
     {
-      "id": 28769,
+      "id": 38677,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "東京慈恵会医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 4,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京慈恵会医科大学 4名と掲載。"
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京慈恵会医科大学 医学部 合格者数（新卒・既卒合計）5人。"
+    },
+    {
+      "id": 38678,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東京慈恵会医科大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京慈恵会医科大学 医学部 進学者数（新卒・既卒合計）2人。"
     },
     {
       "id": 38631,
@@ -847,6 +925,32 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東京科学大学 5人。"
     },
     {
+      "id": 38660,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東京科学大学",
+      "faculty_name": "医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京科学大学 医学部 合格者数（新卒・既卒合計）2人。"
+    },
+    {
+      "id": 38661,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東京科学大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東京科学大学 医学部 進学者数（新卒・既卒合計）2人。"
+    },
+    {
       "id": 38627,
       "school_id": 528,
       "academic_year": 2026,
@@ -858,19 +962,6 @@
       "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
       "verified_at": "2026-11-13",
       "source_excerpt": "学校公式の2026年大学別合格者数（2026年7月31日時点、現役・既卒合計）: 東京経済大学 1人。"
-    },
-    {
-      "id": 28753,
-      "school_id": 528,
-      "academic_year": 2026,
-      "institution_name": "東京芸術大学",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京芸術大学 1名と掲載。"
     },
     {
       "id": 38582,
@@ -964,17 +1055,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東北医科薬科大学 1人。"
     },
     {
-      "id": 28777,
+      "id": 38666,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "東北医科薬科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東北医科薬科大学 1名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東北医科薬科大学 医学部 合格者数（新卒・既卒合計）1人。"
+    },
+    {
+      "id": 38667,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東北医科薬科大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東北医科薬科大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38567,
@@ -1003,17 +1107,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東北大学 3人。"
     },
     {
-      "id": 28762,
+      "id": 38650,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "東北大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東北大学 1名と掲載。"
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東北大学 医学部 合格者数（新卒・既卒合計）2人。"
+    },
+    {
+      "id": 38651,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東北大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東北大学 医学部 進学者数（新卒・既卒合計）2人。"
     },
     {
       "id": 38633,
@@ -1042,17 +1159,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 東邦大学 1人。"
     },
     {
-      "id": 28774,
+      "id": 38679,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "東邦大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東邦大学 3名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東邦大学 医学部 合格者数（新卒・既卒合計）3人。"
+    },
+    {
+      "id": 38680,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "東邦大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 東邦大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38641,
@@ -1107,17 +1237,17 @@
       "source_excerpt": "学校公式の2026年大学別合格者数（2026年7月31日時点、現役・既卒合計）: 獨協医科大学 1人。"
     },
     {
-      "id": 28775,
+      "id": 38668,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "獨協医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に獨協医科大学 1名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 獨協医科大学 医学部 合格者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38569,
@@ -1146,17 +1276,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 秋田大学 1人。"
     },
     {
-      "id": 28765,
+      "id": 38652,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "秋田大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 秋田大学 医学部 合格者数（新卒・既卒合計）2人。"
+    },
+    {
+      "id": 38653,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "秋田大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に秋田大学 1名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 秋田大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38644,
@@ -1198,17 +1341,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 筑波大学 4人。"
     },
     {
-      "id": 28764,
+      "id": 38656,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "筑波大学",
-      "faculty_name": "医学部",
+      "faculty_name": "医学群",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に筑波大学 2名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 筑波大学 医学群 合格者数（新卒・既卒合計）2人。"
+    },
+    {
+      "id": 38657,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "筑波大学",
+      "faculty_name": "医学群",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_01.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 筑波大学 医学群 進学者数（新卒・既卒合計）2人。"
     },
     {
       "id": 38615,
@@ -1315,17 +1471,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 防衛医科大学校 1人。"
     },
     {
-      "id": 28767,
+      "id": 38683,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "防衛医科大学校",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に防衛医科大学校 3名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 防衛医科大学校 医学部 合格者数（新卒・既卒合計）3人。"
+    },
+    {
+      "id": 38684,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "防衛医科大学校",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 防衛医科大学校 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38609,
@@ -1367,17 +1536,30 @@
       "source_excerpt": "学校公式の2026年大学別進学者数（2026年7月31日時点、現役・既卒合計）: 順天堂大学 1人。"
     },
     {
-      "id": 28770,
+      "id": 38672,
       "school_id": 528,
       "academic_year": 2026,
       "institution_name": "順天堂大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kanto/school/B13N003/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に順天堂大学 4名と掲載。"
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 順天堂大学 医学部 合格者数（新卒・既卒合計）4人。"
+    },
+    {
+      "id": 38673,
+      "school_id": 528,
+      "academic_year": 2026,
+      "institution_name": "順天堂大学",
+      "faculty_name": "医学部",
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.komaba-s.tsukuba.ac.jp/wp/wp-content/themes/tsukuba-komaba-202610/img/about/after_graduation_20260731_02.jpg",
+      "verified_at": "2026-11-13",
+      "source_excerpt": "公式2026年7月31日表: 順天堂大学 医学部 進学者数（新卒・既卒合計）1人。"
     },
     {
       "id": 38614,

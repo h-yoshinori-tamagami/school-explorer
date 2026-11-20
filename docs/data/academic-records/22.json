@@ -41,19 +41,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に中央大学 2名と掲載。"
     },
     {
-      "id": 1913,
-      "school_id": 22,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 154,
-      "source_url": "https://www.study1.jp/kanto/school/B13P122/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 154名と掲載。"
-    },
-    {
       "id": 1858,
       "school_id": 22,
       "academic_year": 2026,
@@ -338,19 +325,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B13P122/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に中央大学 5名と掲載。"
-    },
-    {
-      "id": 1914,
-      "school_id": 22,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 189,
-      "source_url": "https://www.study1.jp/kanto/school/B13P122/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 189名と掲載。"
     },
     {
       "id": 1859,
@@ -650,19 +624,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B13P122/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に北海道大学 1名と掲載。"
-    },
-    {
-      "id": 1915,
-      "school_id": 22,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 177,
-      "source_url": "https://www.study1.jp/kanto/school/B13P122/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 177名と掲載。"
     },
     {
       "id": 1922,

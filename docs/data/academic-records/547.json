@@ -769,6 +769,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に電気通信大学 1名と掲載。"
     },
     {
+      "id": 40432,
+      "school_id": 547,
+      "academic_year": 2026,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://jsh.shotoku.ed.jp/career_support/univ_results/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "2026年春大学入試結果の青山学院欄に合格者10名と掲載。"
+    },
+    {
       "id": 29553,
       "school_id": 547,
       "academic_year": 2026,
@@ -1510,6 +1523,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に群馬大学 1名と掲載。"
     },
     {
+      "id": 40425,
+      "school_id": 547,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 9,
+      "source_url": "https://www.study1.jp/kanto/school/B14P013/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2025年度大学合格実績表に青山学院大学 9名と掲載。"
+    },
+    {
       "id": 29554,
       "school_id": 547,
       "academic_year": 2025,
@@ -2004,6 +2030,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に防衛大学校 2名と掲載。"
     },
     {
+      "id": 40426,
+      "school_id": 547,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 9,
+      "source_url": "https://www.study1.jp/kanto/school/B14P013/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2024年度大学合格実績表に青山学院大学 9名と掲載。"
+    },
+    {
       "id": 29555,
       "school_id": 547,
       "academic_year": 2024,
@@ -2051,8 +2090,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B14P013/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式の2026年春大学入試結果で青山学院大学10名を照合。公式ページは2024・2025年を掲載しないため、Study1の学校別年度表を2024–2026年確認して補完。"
     },
     {
       "id": 1553,
@@ -2061,8 +2100,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B14P013/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式の2026年春大学入試結果で青山学院大学10名を照合。公式ページは2024・2025年を掲載しないため、Study1の学校別年度表を2024–2026年確認して補完。"
     },
     {
       "id": 1554,
@@ -2071,8 +2110,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B14P013/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式の2026年春大学入試結果で青山学院大学10名を照合。公式ページは2024・2025年を掲載しないため、Study1の学校別年度表を2024–2026年確認して補完。"
     }
   ]
 }

@@ -80,17 +80,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に九州大学 1名と掲載。"
     },
     {
-      "id": 2676,
+      "id": 39514,
       "school_id": 40,
       "academic_year": 2026,
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B13C001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に京都大学 1名と掲載。"
+      "source_url": "https://www.kudan.ed.jp/school/download/document/18400261?tm=20260616113040",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "令和8（2026）年3月大学等合格状況・国公立大学表。京都大学は合計1、現役0、既卒1。"
     },
     {
       "id": 2766,
@@ -184,17 +184,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に帯広畜産大学 1名と掲載。"
     },
     {
-      "id": 2711,
+      "id": 39515,
       "school_id": 40,
       "academic_year": 2026,
       "institution_name": "慶應義塾大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 13,
-      "source_url": "https://www.study1.jp/kanto/school/B13C001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 13名と掲載。"
+      "source_url": "https://www.kudan.ed.jp/school/download/document/18400261?tm=20260616113040",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "令和8（2026）年3月大学等合格状況・私立大学表。慶應義塾大学は合計13、現役11、既卒2。"
     },
     {
       "id": 2774,
@@ -210,17 +210,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に日本大学 2名と掲載。"
     },
     {
-      "id": 2755,
+      "id": 39516,
       "school_id": 40,
       "academic_year": 2026,
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 21,
-      "source_url": "https://www.study1.jp/kanto/school/B13C001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に早稲田大学 21名と掲載。"
+      "source_url": "https://www.kudan.ed.jp/school/download/document/18400261?tm=20260616113040",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "令和8（2026）年3月大学等合格状況・私立大学表。早稲田大学は合計21、現役21、既卒0。"
     },
     {
       "id": 2749,
@@ -249,17 +249,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に東京外国語大学 1名と掲載。"
     },
     {
-      "id": 2690,
+      "id": 39513,
       "school_id": 40,
       "academic_year": 2026,
       "institution_name": "東京大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B13C001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京大学 2名と掲載。"
+      "source_url": "https://www.kudan.ed.jp/school/download/document/18400261?tm=20260616113040",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "令和8（2026）年3月大学等合格状況・国公立大学表。東京大学は合計2、現役2、既卒0。"
     },
     {
       "id": 2776,
@@ -301,17 +301,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に東京理科大学 40名と掲載。"
     },
     {
-      "id": 2688,
+      "id": 39517,
       "school_id": 40,
       "academic_year": 2026,
       "institution_name": "東京科学大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B13C001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京科学大学 2名と掲載。"
+      "source_url": "https://www.kudan.ed.jp/school/download/document/18400261?tm=20260616113040",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "令和8（2026）年3月大学等合格状況・国公立大学表。東京科学大学は合計2、現役2、既卒0。"
     },
     {
       "id": 2763,

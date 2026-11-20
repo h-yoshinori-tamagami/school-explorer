@@ -15,19 +15,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に中央大学 2名と掲載。"
     },
     {
-      "id": 32275,
-      "school_id": 577,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 91,
-      "source_url": "https://www.study1.jp/kanto/school/B14P033/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 91名と掲載。"
-    },
-    {
       "id": 901,
       "school_id": 577,
       "academic_year": 2025,
@@ -169,19 +156,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B14P033/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に駒澤大学 2名と掲載。"
-    },
-    {
-      "id": 32276,
-      "school_id": 577,
-      "academic_year": 2023,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 139,
-      "source_url": "https://www.study1.jp/kanto/school/B14P033/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2023年度大学合格実績に卒業生数 139名と掲載。"
     },
     {
       "id": 32256,

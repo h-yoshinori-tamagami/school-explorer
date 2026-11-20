@@ -8,9 +8,9 @@
       "academic_year": 2024,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.seinan-jogakuin.jp/contents/wp-content/uploads/00554ba57639c3c5b759036d27dd055c-1.pdf",
+      "verified_at": "2026-11-19",
+      "reason": "西南女学院公式の2026年4月1日付「大学合格実績(2026)」記事からリンクされたPDFを確認。PDFは「過去2年分から抜粋」とする大学・学部名の列挙で、年度別人数・合格総数を示さない。公式進路ページの数値表は2019–2021年度のみ。Study1で学校名の大学合格実績ページを検索したが特定できず。対象年度の年度別大学別人数を確定できないため、数値は登録せず再確認待ち。"
     },
     {
       "id": 1646,
@@ -18,9 +18,9 @@
       "academic_year": 2025,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.seinan-jogakuin.jp/contents/wp-content/uploads/00554ba57639c3c5b759036d27dd055c-1.pdf",
+      "verified_at": "2026-11-19",
+      "reason": "西南女学院公式の2026年4月1日付「大学合格実績(2026)」記事からリンクされたPDFを確認。PDFは「過去2年分から抜粋」とする大学・学部名の列挙で、年度別人数・合格総数を示さない。公式進路ページの数値表は2019–2021年度のみ。Study1で学校名の大学合格実績ページを検索したが特定できず。対象年度の年度別大学別人数を確定できないため、数値は登録せず再確認待ち。"
     },
     {
       "id": 1647,
@@ -28,9 +28,9 @@
       "academic_year": 2026,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.seinan-jogakuin.jp/contents/wp-content/uploads/00554ba57639c3c5b759036d27dd055c-1.pdf",
+      "verified_at": "2026-11-19",
+      "reason": "西南女学院公式の2026年4月1日付「大学合格実績(2026)」記事からリンクされたPDFを確認。PDFは「過去2年分から抜粋」とする大学・学部名の列挙で、年度別人数・合格総数を示さない。公式進路ページの数値表は2019–2021年度のみ。Study1で学校名の大学合格実績ページを検索したが特定できず。対象年度の年度別大学別人数を確定できないため、数値は登録せず再確認待ち。"
     }
   ]
 }

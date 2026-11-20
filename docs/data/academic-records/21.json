@@ -54,17 +54,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に九州工業大学 1名と掲載。"
     },
     {
-      "id": 1703,
+      "id": 39496,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に京都大学 1名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E5%9B%BD%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の京都大学行「合計」（現役・既卒合計）1人。私立の実人数列は別集計。"
     },
     {
       "id": 1761,
@@ -184,17 +184,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に北海道大学 3名と掲載。"
     },
     {
-      "id": 1731,
+      "id": 39499,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 110,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に同志社大学 110名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E7%A7%81%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の同志社大学行「合計」（現役・既卒合計）110人。私立の実人数列は別集計。"
     },
     {
       "id": 1758,
@@ -236,17 +236,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に国際教養大学 1名と掲載。"
     },
     {
-      "id": 1697,
+      "id": 39497,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "大阪大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 12,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に大阪大学 12名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E5%9B%BD%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の大阪大学行「合計」（現役・既卒合計）12人。私立の実人数列は別集計。"
     },
     {
       "id": 1764,
@@ -418,17 +418,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に早稲田大学 3名と掲載。"
     },
     {
-      "id": 1710,
+      "id": 39495,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "東京大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京大学 2名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E5%9B%BD%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の東京大学行「合計」（現役・既卒合計）2人。私立の実人数列は別集計。"
     },
     {
       "id": 1734,
@@ -522,17 +522,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に甲南大学 31名と掲載。"
     },
     {
-      "id": 1706,
+      "id": 39498,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "神戸大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 22,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に神戸大学 22名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E5%9B%BD%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の神戸大学行「合計」（現役・既卒合計）22人。私立の実人数列は別集計。"
     },
     {
       "id": 1765,
@@ -561,17 +561,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に福知山公立大学 2名と掲載。"
     },
     {
-      "id": 1737,
+      "id": 39500,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 72,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に立命館大学 72名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E7%A7%81%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の立命館大学行「合計」（現役・既卒合計）72人。私立の実人数列は別集計。"
     },
     {
       "id": 1750,
@@ -587,17 +587,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に筑波大学 1名と掲載。"
     },
     {
-      "id": 66,
+      "id": 39501,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 160,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に近畿大学 160名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E7%A7%81%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の近畿大学行「合計」（現役・既卒合計）160人。私立の実人数列は別集計。"
     },
     {
       "id": 1784,
@@ -652,17 +652,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に金沢大学 1名と掲載。"
     },
     {
-      "id": 65,
+      "id": 39502,
       "school_id": 21,
       "academic_year": 2026,
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 154,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に関西学院大学 154名と掲載。"
+      "source_url": "https://www.sandagakuen.ed.jp/wp-content/uploads/2026/06/20260408%E5%90%88%E6%A0%BC%E5%AE%9F%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF-%E7%A7%81%E7%AB%8B%E5%A4%A7%E5%AD%A6.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "PDF p.1、2026年合格者数表の関西学院大学行「合計」（現役・既卒合計）154人。私立の実人数列は別集計。"
     },
     {
       "id": 1780,
@@ -884,19 +884,6 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 2名と掲載。"
-    },
-    {
-      "id": 1746,
-      "school_id": 21,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 269,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 269名と掲載。"
     },
     {
       "id": 1732,
@@ -1417,19 +1404,6 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に北海道大学 2名と掲載。"
-    },
-    {
-      "id": 1747,
-      "school_id": 21,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 279,
-      "source_url": "https://www.study1.jp/kansai/school/B29P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 279名と掲載。"
     },
     {
       "id": 1733,

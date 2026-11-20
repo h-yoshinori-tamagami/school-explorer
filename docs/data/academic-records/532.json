@@ -8,9 +8,9 @@
       "academic_year": 2024,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-11-18",
+      "reason": "公式の精道三川台中学校入試情報ページは2020–2024年の5年分を合算した進路先一覧で、2024–2026各年度の大学別人数なし。Study1首都圏学校検索も確認したが学校別年度実績ページ・確定値を特定できず、年度別人数を登録できないため再確認保留。"
     },
     {
       "id": 1511,
@@ -18,9 +18,9 @@
       "academic_year": 2025,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-11-18",
+      "reason": "公式の精道三川台中学校入試情報ページは2020–2024年の5年分を合算した進路先一覧で、2024–2026各年度の大学別人数なし。Study1首都圏学校検索も確認したが学校別年度実績ページ・確定値を特定できず、年度別人数を登録できないため再確認保留。"
     },
     {
       "id": 1512,
@@ -28,9 +28,9 @@
       "academic_year": 2026,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://study1.jp/kanto/list/search.html",
+      "verified_at": "2026-11-18",
+      "reason": "公式の精道三川台中学校入試情報ページは2020–2024年の5年分を合算した進路先一覧で、2024–2026各年度の大学別人数なし。Study1首都圏学校検索も確認したが学校別年度実績ページ・確定値を特定できず、年度別人数を登録できないため再確認保留。"
     }
   ]
 }

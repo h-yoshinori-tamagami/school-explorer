@@ -15,6 +15,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に三重大学 1名と掲載。"
     },
     {
+      "id": 39522,
+      "school_id": 47,
+      "academic_year": 2026,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 111,
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績。京都女子大学111名、現役110名、うち内部推薦85名を含む。"
+    },
+    {
       "id": 3171,
       "school_id": 47,
       "academic_year": 2026,
@@ -132,17 +145,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に千葉大学 1名と掲載。"
     },
     {
-      "id": 3146,
+      "id": 39518,
       "school_id": 47,
       "academic_year": 2026,
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 44,
-      "source_url": "https://www.study1.jp/kansai/school/B27P008/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に同志社大学 44名と掲載。"
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績、過年度卒業生を含む。同志社大学44名、現役29名。"
     },
     {
       "id": 3133,
@@ -288,30 +301,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に愛媛大学 1名と掲載。"
     },
     {
-      "id": 3155,
+      "id": 39523,
       "school_id": 47,
       "academic_year": 2026,
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B27P008/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に早稲田大学 3名と掲載。"
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績、過年度卒業生を含む。早稲田大学3名、現役1名。"
     },
     {
-      "id": 3149,
+      "id": 39524,
       "school_id": 47,
       "academic_year": 2026,
       "institution_name": "東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kansai/school/B27P008/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京理科大学 4名と掲載。"
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績、公式表記「東京理科大」。合計4名、現役0名。"
     },
     {
       "id": 3161,
@@ -379,17 +392,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に神戸大学 3名と掲載。"
     },
     {
-      "id": 83,
+      "id": 39519,
       "school_id": 47,
       "academic_year": 2026,
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 75,
-      "source_url": "https://www.study1.jp/kansai/school/B27P008/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に立命館大学 75名と掲載。"
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績、過年度卒業生を含む。立命館大学75名、現役53名。"
     },
     {
       "id": 3159,
@@ -444,17 +457,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に長崎大学 1名と掲載。"
     },
     {
-      "id": 3136,
+      "id": 39520,
+      "school_id": 47,
+      "academic_year": 2026,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 24,
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績、過年度卒業生を含む。関西大学24名、現役19名。"
+    },
+    {
+      "id": 39521,
       "school_id": 47,
       "academic_year": 2026,
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 29,
-      "source_url": "https://www.study1.jp/kansai/school/B27P008/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に関西学院大学 29名と掲載。"
+      "source_url": "https://kgs.ed.jp/career",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年大学合格実績、過年度卒業生を含む。関西学院大学29名、現役20名。"
     },
     {
       "id": 3185,

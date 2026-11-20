@@ -6,31 +6,31 @@
       "id": 1588,
       "school_id": 559,
       "academic_year": 2024,
-      "collection_status": "not_published",
-      "approval_status": "approved",
+      "collection_status": "recheck",
+      "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/school/B13P090/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式サイトで対象年度の大学別人数を確認できない。Study1学校別ページにも対象年度の数値がなく掲載待ちのため、未公表と断定せず、公式の進路実績公開後に再確認する。"
     },
     {
       "id": 1589,
       "school_id": 559,
       "academic_year": 2025,
-      "collection_status": "not_published",
-      "approval_status": "approved",
+      "collection_status": "recheck",
+      "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/school/B13P090/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式サイトで対象年度の大学別人数を確認できない。Study1学校別ページにも対象年度の数値がなく掲載待ちのため、未公表と断定せず、公式の進路実績公開後に再確認する。"
     },
     {
       "id": 1590,
       "school_id": 559,
       "academic_year": 2026,
-      "collection_status": "not_published",
-      "approval_status": "approved",
+      "collection_status": "recheck",
+      "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/school/B13P090/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式サイトで対象年度の大学別人数を確認できない。Study1学校別ページにも対象年度の数値がなく掲載待ちのため、未公表と断定せず、公式の進路実績公開後に再確認する。"
     }
   ]
 }

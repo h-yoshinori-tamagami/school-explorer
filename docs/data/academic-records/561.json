@@ -2,56 +2,56 @@
   "school_id": 561,
   "academic_records": [
     {
-      "id": 30567,
+      "id": 42019,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "お茶の水女子大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績にお茶の水女子大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。お茶の水女子大学 1名。"
     },
     {
-      "id": 30607,
+      "id": 42040,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "上智大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に上智大学 5名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。上智大学 5名。"
     },
     {
-      "id": 30617,
+      "id": 42055,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "中央大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 21,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に中央大学 21名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。中央大学 21名。"
     },
     {
-      "id": 30568,
+      "id": 42005,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に京都大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。京都大学 1名。"
     },
     {
       "id": 30669,
@@ -80,17 +80,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に公立諏訪東京理科大学 1名と掲載。"
     },
     {
-      "id": 30591,
+      "id": 42010,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "北海道大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に北海道大学 3名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。北海道大学 3名。"
     },
     {
       "id": 30648,
@@ -106,17 +106,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に北見工業大学 5名と掲載。"
     },
     {
-      "id": 30573,
+      "id": 42020,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "千葉大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に千葉大学 3名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。千葉大学 3名。"
     },
     {
       "id": 30672,
@@ -130,6 +130,19 @@
       "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2026年度大学合格実績に名古屋市立大学 1名と掲載。"
+    },
+    {
+      "id": 42037,
+      "school_id": 561,
+      "academic_year": 2026,
+      "institution_name": "国際基督教大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。国際基督教大学 3名。"
     },
     {
       "id": 30601,
@@ -158,17 +171,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に埼玉大学 2名と掲載。"
     },
     {
-      "id": 30595,
+      "id": 42013,
+      "school_id": 561,
+      "academic_year": 2026,
+      "institution_name": "大阪大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。大阪大学 1名。"
+    },
+    {
+      "id": 42046,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "学習院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 10,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に学習院大学 10名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。学習院大学 10名。"
     },
     {
       "id": 30659,
@@ -327,17 +353,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に帯広畜産大学 1名と掲載。"
     },
     {
-      "id": 30675,
+      "id": 42026,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "広島大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に広島大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。広島大学 1名。"
     },
     {
       "id": 30651,
@@ -366,17 +392,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に弘前大学 1名と掲載。"
     },
     {
-      "id": 30598,
+      "id": 42034,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "慶應義塾大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 11,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 11名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。慶應義塾大学 11名。"
     },
     {
       "id": 30610,
@@ -405,30 +431,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に日本大学 32名と掲載。"
     },
     {
-      "id": 30644,
+      "id": 42031,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 9,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に早稲田大学 9名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。早稲田大学 9名。"
     },
     {
-      "id": 892,
+      "id": 42052,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "明治大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 33,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に明治大学 33名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。明治大学 33名。"
     },
     {
       "id": 30686,
@@ -444,30 +470,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に昭和大学 1名と掲載。"
     },
     {
-      "id": 30579,
+      "id": 42017,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "東京外国語大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京外国語大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。東京外国語大学 1名。"
     },
     {
-      "id": 30583,
+      "id": 42002,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "東京大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。東京大学 1名。"
     },
     {
       "id": 30661,
@@ -496,30 +522,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に東京海洋大学 1名と掲載。"
     },
     {
-      "id": 30623,
+      "id": 42043,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 19,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京理科大学 19名と掲載。"
+      "source_kind": "official_site",
+      "count": 22,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。東京理科大学 22名。"
     },
     {
-      "id": 30581,
+      "id": 42015,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "東京科学大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京科学大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。東京科学大学 1名。"
     },
     {
       "id": 30662,
@@ -574,17 +600,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に東北医科薬科大学 1名と掲載。"
     },
     {
-      "id": 30588,
+      "id": 42007,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "東北大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 6,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東北大学 6名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。東北大学 6名。"
     },
     {
       "id": 30626,
@@ -613,17 +639,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に横浜市立大学 3名と掲載。"
     },
     {
-      "id": 30635,
+      "id": 42061,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "法政大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 24,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に法政大学 24名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。法政大学 24名。"
     },
     {
       "id": 30620,
@@ -756,30 +782,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に秋田大学 1名と掲載。"
     },
     {
-      "id": 30641,
+      "id": 42058,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "立教大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 14,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に立教大学 14名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。立教大学 14名。"
     },
     {
-      "id": 30576,
+      "id": 42023,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "筑波大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 9,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に筑波大学 9名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。筑波大学 9名。"
     },
     {
       "id": 30683,
@@ -808,17 +834,17 @@
       "source_excerpt": "Study1の2026年度大学合格実績に聖マリアンナ医科大学 1名と掲載。"
     },
     {
-      "id": 30657,
+      "id": 42028,
       "school_id": 561,
       "academic_year": 2026,
       "institution_name": "茨城大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 26,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に茨城大学 26名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2026列。数値は既卒生を含む。茨城大学 26名。"
     },
     {
       "id": 30658,
@@ -899,6 +925,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に防衛大学校 1名と掲載。"
     },
     {
+      "id": 42049,
+      "school_id": 561,
+      "academic_year": 2026,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 12,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2026列。数値は既卒生を含む。青山学院大学 12名。"
+    },
+    {
       "id": 30671,
       "school_id": 561,
       "academic_year": 2026,
@@ -964,30 +1003,30 @@
       "source_excerpt": "Study1の2025年度大学合格実績にMonash University 3名と掲載。"
     },
     {
-      "id": 30608,
+      "id": 42041,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "上智大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 6,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に上智大学 6名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。上智大学 6名。"
     },
     {
-      "id": 30618,
+      "id": 42056,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "中央大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 26,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に中央大学 26名と掲載。"
+      "source_kind": "official_site",
+      "count": 28,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。中央大学 28名。"
     },
     {
       "id": 30710,
@@ -1003,17 +1042,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に信州大学 8名と掲載。"
     },
     {
-      "id": 30592,
+      "id": 42011,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "北海道大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に北海道大学 2名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。北海道大学 2名。"
     },
     {
       "id": 30693,
@@ -1029,17 +1068,30 @@
       "source_excerpt": "Study1の2025年度大学合格実績に北海道教育大学 1名と掲載。"
     },
     {
-      "id": 30574,
+      "id": 42021,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "千葉大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 3名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。千葉大学 3名。"
+    },
+    {
+      "id": 42038,
+      "school_id": 561,
+      "academic_year": 2025,
+      "institution_name": "国際基督教大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。国際基督教大学 1名。"
     },
     {
       "id": 30602,
@@ -1094,17 +1146,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に大阪教育大学 1名と掲載。"
     },
     {
-      "id": 30596,
+      "id": 42047,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "学習院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 6,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に学習院大学 6名と掲載。"
+      "source_kind": "official_site",
+      "count": 7,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。学習院大学 7名。"
     },
     {
       "id": 30702,
@@ -1198,17 +1250,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に弘前大学 2名と掲載。"
     },
     {
-      "id": 30599,
+      "id": 42035,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "慶應義塾大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に慶應義塾大学 5名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。慶應義塾大学 5名。"
     },
     {
       "id": 30611,
@@ -1250,30 +1302,30 @@
       "source_excerpt": "Study1の2025年度大学合格実績に日本大学 1名と掲載。"
     },
     {
-      "id": 30645,
+      "id": 42032,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 6,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に早稲田大学 6名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。早稲田大学 6名。"
     },
     {
-      "id": 891,
+      "id": 42053,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "明治大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 32,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に明治大学 32名と掲載。"
+      "source_kind": "official_site",
+      "count": 33,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。明治大学 33名。"
     },
     {
       "id": 30638,
@@ -1289,30 +1341,30 @@
       "source_excerpt": "Study1の2025年度大学合格実績に明治学院大学 8名と掲載。"
     },
     {
-      "id": 30580,
+      "id": 42018,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "東京外国語大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に東京外国語大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。東京外国語大学 1名。"
     },
     {
-      "id": 30584,
+      "id": 42003,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "東京大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に東京大学 2名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。東京大学 2名。"
     },
     {
       "id": 30723,
@@ -1341,30 +1393,30 @@
       "source_excerpt": "Study1の2025年度大学合格実績に東京学芸大学 1名と掲載。"
     },
     {
-      "id": 30624,
+      "id": 42044,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 17,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に東京理科大学 17名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。東京理科大学 17名。"
     },
     {
-      "id": 30582,
+      "id": 42016,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "東京科学大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に東京科学大学 2名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。東京科学大学 2名。"
     },
     {
       "id": 30719,
@@ -1406,17 +1458,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に東京農工大学 1名と掲載。"
     },
     {
-      "id": 30589,
+      "id": 42008,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "東北大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に東北大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。東北大学 1名。"
     },
     {
       "id": 30627,
@@ -1471,17 +1523,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に水産大学校 1名と掲載。"
     },
     {
-      "id": 30636,
+      "id": 42062,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "法政大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 18,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に法政大学 18名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。法政大学 18名。"
     },
     {
       "id": 30724,
@@ -1549,43 +1601,43 @@
       "source_excerpt": "Study1の2025年度大学合格実績に福島県立医科大学 1名と掲載。"
     },
     {
-      "id": 30642,
+      "id": 42059,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "立教大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 23,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に立教大学 23名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。立教大学 23名。"
     },
     {
-      "id": 30577,
+      "id": 42024,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "筑波大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に筑波大学 3名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。筑波大学 3名。"
     },
     {
-      "id": 30700,
+      "id": 42029,
       "school_id": 561,
       "academic_year": 2025,
       "institution_name": "茨城大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 16,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に茨城大学 16名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2025列。数値は既卒生を含む。茨城大学 16名。"
     },
     {
       "id": 30701,
@@ -1638,6 +1690,19 @@
       "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に防衛医科大学校 1名と掲載。"
+    },
+    {
+      "id": 42050,
+      "school_id": 561,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 16,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2025列。数値は既卒生を含む。青山学院大学 16名。"
     },
     {
       "id": 30711,
@@ -1731,43 +1796,121 @@
       "source_excerpt": "Study1の2025年度大学合格実績に鹿児島大学 1名と掲載。"
     },
     {
-      "id": 30609,
+      "id": 41924,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "Delta State University",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/wp-content/uploads/2024/06/100syunen_kaiho_04.pdf",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "PDF p.7「進路実績」海外大学欄。Delta State University 1名。Study1は該当欄を2024年度実績として掲載。"
+    },
+    {
+      "id": 41921,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "Monash University",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/wp-content/uploads/2024/06/100syunen_kaiho_04.pdf",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "PDF p.7「進路実績」海外大学欄。Monash University 3名。Study1は該当欄を2024年度実績として掲載。"
+    },
+    {
+      "id": 41922,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "The University of Melbourne",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/wp-content/uploads/2024/06/100syunen_kaiho_04.pdf",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "PDF p.7「進路実績」海外大学欄。The University of Melbourne 1名。Study1は該当欄を2024年度実績として掲載。"
+    },
+    {
+      "id": 41920,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "The University of New South Wales",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/wp-content/uploads/2024/06/100syunen_kaiho_04.pdf",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "PDF p.7「進路実績」海外大学欄。The University of New South Wales 2名。Study1は該当欄を2024年度実績として掲載。"
+    },
+    {
+      "id": 41919,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "The University of Sydney",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/wp-content/uploads/2024/06/100syunen_kaiho_04.pdf",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "PDF p.7「進路実績」海外大学欄。The University of Sydney 2名。Study1は該当欄を2024年度実績として掲載。"
+    },
+    {
+      "id": 41923,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "University of North Alabama",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/wp-content/uploads/2024/06/100syunen_kaiho_04.pdf",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "PDF p.7「進路実績」海外大学欄。University of North Alabama 1名。Study1は該当欄を2024年度実績として掲載。"
+    },
+    {
+      "id": 42042,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "上智大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 11,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に上智大学 11名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。上智大学 11名。"
     },
     {
-      "id": 30619,
+      "id": 42057,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "中央大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 19,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に中央大学 19名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。中央大学 19名。"
     },
     {
-      "id": 30569,
+      "id": 42006,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に京都大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。京都大学 1名。"
     },
     {
       "id": 30734,
@@ -1809,17 +1952,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に前橋工科大学 1名と掲載。"
     },
     {
-      "id": 30593,
+      "id": 42012,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "北海道大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に北海道大学 2名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。北海道大学 2名。"
     },
     {
       "id": 30729,
@@ -1848,17 +1991,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に北見工業大学 1名と掲載。"
     },
     {
-      "id": 30575,
+      "id": 42022,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "千葉大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に千葉大学 4名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。千葉大学 4名。"
     },
     {
       "id": 30758,
@@ -1885,6 +2028,19 @@
       "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に国際医療福祉大学 1名と掲載。"
+    },
+    {
+      "id": 42039,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "国際基督教大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。国際基督教大学 4名。"
     },
     {
       "id": 30603,
@@ -1926,17 +2082,30 @@
       "source_excerpt": "Study1の2024年度大学合格実績に大分大学 1名と掲載。"
     },
     {
-      "id": 30597,
+      "id": 42014,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "大阪大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。大阪大学 1名。"
+    },
+    {
+      "id": 42048,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "学習院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に学習院大学 5名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。学習院大学 5名。"
     },
     {
       "id": 30732,
@@ -2030,17 +2199,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に岩手県立大学 1名と掲載。"
     },
     {
-      "id": 30767,
+      "id": 41925,
       "school_id": 561,
       "academic_year": 2024,
-      "institution_name": "川崎市立看護大学 1 The University of Sydney 2, The University of New South Wales 2, Monash University 3, The University of Melbourne 1, University of North Alabama 1, Delta State University",
+      "institution_name": "川崎市立看護大学",
       "faculty_name": null,
       "outcome_type": "admissions",
       "source_kind": "study1",
       "count": 1,
       "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に川崎市立看護大学 1 The University of Sydney 2, The University of New South Wales 2, Monash University 3, The University of Melbourne 1, University of North Alabama 1, Delta State University 1名と掲載。"
+      "verified_at": "2026-11-19",
+      "source_excerpt": "Study1の2024年度実績欄に川崎市立看護大学 1名。公式PDF p.7には同大学の個別人数の記載なし。"
     },
     {
       "id": 30763,
@@ -2069,30 +2238,30 @@
       "source_excerpt": "Study1の2024年度大学合格実績に帯広畜産大学 1名と掲載。"
     },
     {
-      "id": 30755,
+      "id": 42027,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "広島大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に広島大学 2名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。広島大学 2名。"
     },
     {
-      "id": 30600,
+      "id": 42036,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "慶應義塾大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 7,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に慶應義塾大学 7名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。慶應義塾大学 7名。"
     },
     {
       "id": 30613,
@@ -2173,30 +2342,30 @@
       "source_excerpt": "Study1の2024年度大学合格実績に日本女子大学 1名と掲載。"
     },
     {
-      "id": 30646,
+      "id": 42033,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 6,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に早稲田大学 6名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。早稲田大学 6名。"
     },
     {
-      "id": 30640,
+      "id": 42054,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "明治大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 19,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に明治大学 19名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。明治大学 19名。"
     },
     {
       "id": 30639,
@@ -2212,17 +2381,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に明治学院大学 8名と掲載。"
     },
     {
-      "id": 30585,
+      "id": 42004,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "東京大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に東京大学 1名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。東京大学 1名。"
     },
     {
       "id": 30622,
@@ -2264,17 +2433,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に東京海洋大学 1名と掲載。"
     },
     {
-      "id": 30625,
+      "id": 42045,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 8,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に東京理科大学 8名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。東京理科大学 8名。"
     },
     {
       "id": 30744,
@@ -2303,17 +2472,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に東京都立大学 3名と掲載。"
     },
     {
-      "id": 30590,
+      "id": 42009,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "東北大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に東北大学 4名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。東北大学 4名。"
     },
     {
       "id": 30628,
@@ -2342,17 +2511,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に横浜市立大学 1名と掲載。"
     },
     {
-      "id": 30637,
+      "id": 42063,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "法政大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 21,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に法政大学 21名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。法政大学 21名。"
     },
     {
       "id": 30621,
@@ -2446,30 +2615,30 @@
       "source_excerpt": "Study1の2024年度大学合格実績に福島県立医科大学 1名と掲載。"
     },
     {
-      "id": 30643,
+      "id": 42060,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "立教大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 20,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に立教大学 20名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。立教大学 20名。"
     },
     {
-      "id": 30578,
+      "id": 42025,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "筑波大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に筑波大学 2名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。筑波大学 2名。"
     },
     {
       "id": 30738,
@@ -2511,17 +2680,17 @@
       "source_excerpt": "Study1の2024年度大学合格実績に自治医科大学 1名と掲載。"
     },
     {
-      "id": 30737,
+      "id": 42030,
       "school_id": 561,
       "academic_year": 2024,
       "institution_name": "茨城大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 20,
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に茨城大学 20名と掲載。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「国公立大学合格実績」表、2024列。数値は既卒生を含む。茨城大学 20名。"
     },
     {
       "id": 30749,
@@ -2587,6 +2756,19 @@
       "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に電気通信大学 1名と掲載。"
+    },
+    {
+      "id": 42051,
+      "school_id": 561,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "公式「大学合格実績」ページの「私立大学合格実績」表、2024列。数値は既卒生を含む。青山学院大学 10名。"
     },
     {
       "id": 30752,
@@ -2661,9 +2843,9 @@
       "academic_year": 2024,
       "collection_status": "collected",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式「大学合格実績」ページの2024年度・国公立/私立大学表（既卒生を含む）を行列見出しとともに確認し、Study1全行とDBを比較。公式表に明記された大学は公式値を採用し、公式表にない個別大学はStudy1値を維持。大阪大1名、国際基督教大4名、青山学院大10名をDBへ補完。"
     },
     {
       "id": 1595,
@@ -2671,9 +2853,9 @@
       "academic_year": 2025,
       "collection_status": "collected",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式「大学合格実績」ページの2025年度・国公立/私立大学表（既卒生を含む）を確認し、Study1全行とDBを比較。学習院大はStudy1 6名に対し公式7名、明治大は32名に対し33名、中央大は26名に対し28名のため公式値を採用。国際基督教大1名、青山学院大16名をDBへ補完。公式表にない個別大学はStudy1値を維持。"
     },
     {
       "id": 1596,
@@ -2681,9 +2863,9 @@
       "academic_year": 2026,
       "collection_status": "collected",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kanto/school/B08P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://www.ibaraki-jsh.ed.jp/career/performance",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式「大学合格実績」ページの2026年度・国公立/私立大学表（既卒生を含む）を確認し、Study1全行とDBを比較。東京理科大はStudy1 19名に対し公式22名のため公式値を採用。大阪大1名、国際基督教大3名、青山学院大12名をDBへ補完。公式表にない個別大学はStudy1値を維持。"
     }
   ]
 }

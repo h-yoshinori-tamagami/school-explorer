@@ -496,6 +496,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に電気通信大学 1名と掲載。"
     },
     {
+      "id": 40431,
+      "school_id": 546,
+      "academic_year": 2026,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.seigakuin.ed.jp/course/result/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "26年3月卒業生合格状況の青山学院行は現役6名・既卒0名。合計6名。"
+    },
+    {
       "id": 29502,
       "school_id": 546,
       "academic_year": 2026,
@@ -782,19 +795,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に中央大学 5名と掲載。"
     },
     {
-      "id": 29483,
-      "school_id": 546,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 129,
-      "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 129名と掲載。"
-    },
-    {
       "id": 29442,
       "school_id": 546,
       "academic_year": 2025,
@@ -1042,6 +1042,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に電気通信大学 1名と掲載。"
     },
     {
+      "id": 40423,
+      "school_id": 546,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 8,
+      "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2025年度大学合格実績表に青山学院大学 8名と掲載。"
+    },
+    {
       "id": 29445,
       "school_id": 546,
       "academic_year": 2025,
@@ -1066,19 +1079,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に中央大学 6名と掲載。"
-    },
-    {
-      "id": 29484,
-      "school_id": 546,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 144,
-      "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 144名と掲載。"
     },
     {
       "id": 29528,
@@ -1315,6 +1315,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に立教大学 11名と掲載。"
     },
     {
+      "id": 40424,
+      "school_id": 546,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 10,
+      "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2024年度大学合格実績表に青山学院大学 10名と掲載。"
+    },
+    {
       "id": 29446,
       "school_id": 546,
       "academic_year": 2024,
@@ -1336,8 +1349,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページは2026年3月卒業生の現役・既卒別結果を掲載。青山学院大学の2026年計6名を公式で照合し、2024・2025年はStudy1年度表を確認して補完。"
     },
     {
       "id": 1550,
@@ -1346,8 +1359,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページは2026年3月卒業生の現役・既卒別結果を掲載。青山学院大学の2026年計6名を公式で照合し、2024・2025年はStudy1年度表を確認して補完。"
     },
     {
       "id": 1551,
@@ -1356,8 +1369,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B13P067/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページは2026年3月卒業生の現役・既卒別結果を掲載。青山学院大学の2026年計6名を公式で照合し、2024・2025年はStudy1年度表を確認して補完。"
     }
   ]
 }

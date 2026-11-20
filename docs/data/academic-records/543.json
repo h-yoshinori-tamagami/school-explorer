@@ -106,19 +106,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に千葉大学 2名と掲載。"
     },
     {
-      "id": 29338,
-      "school_id": 543,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 228,
-      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 228名と掲載。"
-    },
-    {
       "id": 29288,
       "school_id": 543,
       "academic_year": 2026,
@@ -143,6 +130,19 @@
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2026年度大学合格実績に国際基督教大学(ICU) 2名と掲載。"
+    },
+    {
+      "id": 40417,
+      "school_id": 543,
+      "academic_year": 2026,
+      "institution_name": "大阪大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 2,
+      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2026年度大学合格実績表に大阪大学 2名と掲載。"
     },
     {
       "id": 29300,
@@ -366,6 +366,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に防衛医科大学校 7名と掲載。"
     },
     {
+      "id": 40419,
+      "school_id": 543,
+      "academic_year": 2026,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 3,
+      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2026年度大学合格実績表に青山学院大学 3名と掲載。"
+    },
+    {
       "id": 29292,
       "school_id": 543,
       "academic_year": 2025,
@@ -444,19 +457,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 2名と掲載。"
     },
     {
-      "id": 29339,
-      "school_id": 543,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 230,
-      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 230名と掲載。"
-    },
-    {
       "id": 29289,
       "school_id": 543,
       "academic_year": 2025,
@@ -481,6 +481,19 @@
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に国際基督教大学(ICU) 1名と掲載。"
+    },
+    {
+      "id": 40418,
+      "school_id": 543,
+      "academic_year": 2025,
+      "institution_name": "大阪大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2025年度大学合格実績表に大阪大学 1名と掲載。"
     },
     {
       "id": 29301,
@@ -795,6 +808,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に電気通信大学 1名と掲載。"
     },
     {
+      "id": 40420,
+      "school_id": 543,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 11,
+      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2025年度大学合格実績表に青山学院大学 11名と掲載。"
+    },
+    {
       "id": 29309,
       "school_id": 543,
       "academic_year": 2025,
@@ -884,19 +910,6 @@
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に千葉大学 4名と掲載。"
-    },
-    {
-      "id": 29340,
-      "school_id": 543,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 229,
-      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 229名と掲載。"
     },
     {
       "id": 29290,
@@ -1274,6 +1287,19 @@
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に電気通信大学 2名と掲載。"
+    },
+    {
+      "id": 40421,
+      "school_id": 543,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 5,
+      "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2024年度大学合格実績表に青山学院大学 5名と掲載。"
     }
   ],
   "academic_collection_statuses": [
@@ -1284,8 +1310,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式進学実績ページは取得できたHTMLに年度別大学人数の表を含まないため、Study1の学校別年度表を2024–2026年すべて確認。大学別表と補足実績を分け、具体的な不足行を追加。"
     },
     {
       "id": 23,
@@ -1294,8 +1320,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式進学実績ページは取得できたHTMLに年度別大学人数の表を含まないため、Study1の学校別年度表を2024–2026年すべて確認。大学別表と補足実績を分け、具体的な不足行を追加。"
     },
     {
       "id": 24,
@@ -1304,8 +1330,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://study1.jp/kanto/school/B15P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式進学実績ページは取得できたHTMLに年度別大学人数の表を含まないため、Study1の学校別年度表を2024–2026年すべて確認。大学別表と補足実績を分け、具体的な不足行を追加。"
     }
   ]
 }

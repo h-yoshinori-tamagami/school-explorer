@@ -67,6 +67,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に京都教育大学 1名と掲載。"
     },
     {
+      "id": 39525,
+      "school_id": 53,
+      "academic_year": 2026,
+      "institution_name": "京都橘大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 86,
+      "source_url": "https://www.tachibana-hs.jp/jh/achievements-j/",
+      "verified_at": "2026-11-15",
+      "source_excerpt": "2026年度中学合格実績ページ掲載。京都橘大学（内部進学数）86名。合格者数と区別した内部進学者数。"
+    },
+    {
       "id": 3451,
       "school_id": 53,
       "academic_year": 2026,

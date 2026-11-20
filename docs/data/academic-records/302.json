@@ -82,11 +82,11 @@
       "id": 839,
       "school_id": 302,
       "academic_year": 2025,
-      "collection_status": "not_published",
+      "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B13P137/univ_pass/",
       "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "reason": "有効な承認済み進学実績レコード（ID 451）が存在するため、矛盾していたnot_published状態をcollectedへ修正。根拠の再確認日は従来の確認日を維持。"
     },
     {
       "id": 840,

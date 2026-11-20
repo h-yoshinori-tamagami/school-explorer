@@ -28,19 +28,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に北見工業大学 1名と掲載。"
     },
     {
-      "id": 32239,
-      "school_id": 576,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 193,
-      "source_url": "https://www.study1.jp/kanto/school/B15P041/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 193名と掲載。"
-    },
-    {
       "id": 32200,
       "school_id": 576,
       "academic_year": 2026,
@@ -286,19 +273,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B15P041/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に京都府立大学 1名と掲載。"
-    },
-    {
-      "id": 32240,
-      "school_id": 576,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 192,
-      "source_url": "https://www.study1.jp/kanto/school/B15P041/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 192名と掲載。"
     },
     {
       "id": 32214,
@@ -559,19 +533,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B15P041/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に北海道大学 1名と掲載。"
-    },
-    {
-      "id": 32241,
-      "school_id": 576,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 134,
-      "source_url": "https://www.study1.jp/kanto/school/B15P041/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 134名と掲載。"
     },
     {
       "id": 32201,

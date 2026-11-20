@@ -80,19 +80,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に千葉大学 3名と掲載。"
     },
     {
-      "id": 2014,
-      "school_id": 24,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 151,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 151名と掲載。"
-    },
-    {
       "id": 2025,
       "school_id": 24,
       "academic_year": 2026,
@@ -184,17 +171,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に山形大学 1名と掲載。"
     },
     {
-      "id": 1960,
+      "id": 39507,
       "school_id": 24,
       "academic_year": 2026,
       "institution_name": "慶應義塾大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 29,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に慶應義塾大学 29名と掲載。"
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 慶應義塾大学行の合計（現役・既卒） 29人。"
+    },
+    {
+      "id": 39508,
+      "school_id": 24,
+      "academic_year": 2026,
+      "institution_name": "慶應義塾大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 慶應義塾大学行の進学者 8人。"
     },
     {
       "id": 1973,
@@ -249,30 +249,56 @@
       "source_excerpt": "Study1の2026年度大学合格実績に日本女子大学 3名と掲載。"
     },
     {
-      "id": 2012,
+      "id": 39505,
       "school_id": 24,
       "academic_year": 2026,
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 60,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に早稲田大学 60名と掲載。"
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 早稲田大学行の合計（現役・既卒） 60人。"
     },
     {
-      "id": 2006,
+      "id": 39506,
+      "school_id": 24,
+      "academic_year": 2026,
+      "institution_name": "早稲田大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 16,
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 早稲田大学行の進学者 16人。"
+    },
+    {
+      "id": 39509,
       "school_id": 24,
       "academic_year": 2026,
       "institution_name": "明治大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 85,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に明治大学 85名と掲載。"
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 明治大学行の合計（現役・既卒） 85人。"
+    },
+    {
+      "id": 39510,
+      "school_id": 24,
+      "academic_year": 2026,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 7,
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 明治大学行の進学者 7人。"
     },
     {
       "id": 2003,
@@ -301,17 +327,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に東京外国語大学 3名と掲載。"
     },
     {
-      "id": 1939,
+      "id": 39503,
       "school_id": 24,
       "academic_year": 2026,
       "institution_name": "東京大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 8,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京大学 8名と掲載。"
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 東京大学行の合計（現役・既卒） 8人。"
+    },
+    {
+      "id": 39504,
+      "school_id": 24,
+      "academic_year": 2026,
+      "institution_name": "東京大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 東京大学行の進学者 8人。"
     },
     {
       "id": 1985,
@@ -340,17 +379,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に東京学芸大学 1名と掲載。"
     },
     {
-      "id": 1988,
+      "id": 39511,
       "school_id": 24,
       "academic_year": 2026,
       "institution_name": "東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 38,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に東京理科大学 38名と掲載。"
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 東京理科大学行の合計（現役・既卒） 38人。"
+    },
+    {
+      "id": 39512,
+      "school_id": 24,
+      "academic_year": 2026,
+      "institution_name": "東京理科大学",
+      "faculty_name": null,
+      "outcome_type": "enrollments",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.metro.ed.jp/mitaka-s/img_sub/filelink/filelink-pdffile-34865.pdf",
+      "verified_at": "2026-11-14",
+      "source_excerpt": "卒業生進路状況一覧 PDF p.1、2026年 東京理科大学行の進学者 3人。"
     },
     {
       "id": 1937,
@@ -637,19 +689,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 2名と掲載。"
-    },
-    {
-      "id": 2015,
-      "school_id": 24,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 149,
-      "source_url": "https://www.study1.jp/kanto/school/B14C002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 149名と掲載。"
     },
     {
       "id": 1963,

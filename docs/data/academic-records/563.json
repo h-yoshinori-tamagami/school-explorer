@@ -8,9 +8,9 @@
       "academic_year": 2024,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.study1.jp/kanto/school/B08N001/univ_pass/",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式附属中サイト（https://www.edu.ibaraki.ac.jp/fuzoku/jhs/）および進路情報で2024年度の大学別合格者数を確認できず。Study1学校別実績（https://www.study1.jp/kanto/school/B08N001/univ_pass/）は「ただいま準備中です」。数値なしのため再確認保留。"
     },
     {
       "id": 1601,
@@ -18,9 +18,9 @@
       "academic_year": 2025,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.study1.jp/kanto/school/B08N001/univ_pass/",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式附属中サイト（https://www.edu.ibaraki.ac.jp/fuzoku/jhs/）および進路情報で2025年度の大学別合格者数を確認できず。Study1学校別実績（https://www.study1.jp/kanto/school/B08N001/univ_pass/）は「ただいま準備中です」。数値なしのため再確認保留。"
     },
     {
       "id": 1602,
@@ -28,9 +28,9 @@
       "academic_year": 2026,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.study1.jp/kanto/school/B08N001/univ_pass/",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式附属中サイト（https://www.edu.ibaraki.ac.jp/fuzoku/jhs/）および進路情報で2026年度の大学別合格者数を確認できず。Study1学校別実績（https://www.study1.jp/kanto/school/B08N001/univ_pass/）は「ただいま準備中です」。数値なしのため再確認保留。"
     }
   ]
 }

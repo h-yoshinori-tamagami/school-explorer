@@ -6,21 +6,21 @@
       "id": 1612,
       "school_id": 567,
       "academic_year": 2024,
-      "collection_status": "recheck",
-      "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/list/sepa_list/list_c_ibaraki.html",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式校ページ（https://www.katsuta-cs.ibk.ed.jp/announcements/announcements/view/172/36fc54c815def2c4770cef31edcab7bf?frame_id=176&from_topics=true）で令和8年度が完成年度・1～6年次在籍と確認。2024年度は中高一貫の卒業 cohort がなく、旧勝田高校卒業実績と区別できない。Study1茨城県公立中高一貫校一覧（https://www.study1.jp/kanto/list/sepa_list/list_c_ibaraki.html）も学校一覧のみで年度別実績なし。対象校の比較可能な値は未公表。"
     },
     {
       "id": 1613,
       "school_id": 567,
       "academic_year": 2025,
-      "collection_status": "recheck",
-      "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "collection_status": "not_published",
+      "approval_status": "approved",
+      "source_url": "https://www.study1.jp/kanto/list/sepa_list/list_c_ibaraki.html",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式校ページ（https://www.katsuta-cs.ibk.ed.jp/announcements/announcements/view/172/36fc54c815def2c4770cef31edcab7bf?frame_id=176&from_topics=true）で令和8年度が完成年度・1～6年次在籍と確認。2025年度は中高一貫の卒業 cohort がなく、旧勝田高校卒業実績と区別できない。Study1茨城県公立中高一貫校一覧（https://www.study1.jp/kanto/list/sepa_list/list_c_ibaraki.html）も学校一覧のみで年度別実績なし。対象校の比較可能な値は未公表。"
     },
     {
       "id": 1614,
@@ -28,9 +28,9 @@
       "academic_year": 2026,
       "collection_status": "recheck",
       "approval_status": "pending",
-      "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "source_url": "https://www.study1.jp/kanto/list/sepa_list/list_c_ibaraki.html",
+      "verified_at": "2026-11-19",
+      "reason": "2026-11-19確認: 公式校ページ（https://www.katsuta-cs.ibk.ed.jp/announcements/announcements/view/172/36fc54c815def2c4770cef31edcab7bf?frame_id=176&from_topics=true）で令和8年度が完成年度・1～6年次在籍と確認。公式の年度別大学実績は未確認。Study1茨城県公立中高一貫校一覧（https://www.study1.jp/kanto/list/sepa_list/list_c_ibaraki.html）に学校掲載はあるが、大学実績ページ・人数なし。初回卒業 cohort の公表待ちとして再確認保留。"
     }
   ]
 }

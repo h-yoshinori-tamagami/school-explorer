@@ -197,6 +197,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に和歌山大学 3名と掲載。"
     },
     {
+      "id": 39977,
+      "school_id": 531,
+      "academic_year": 2026,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 7,
+      "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2026年度欄に大阪公立大学 7名と掲載。"
+    },
+    {
       "id": 28828,
       "school_id": 531,
       "academic_year": 2026,
@@ -652,6 +665,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に長崎県立大学 1名と掲載。"
     },
     {
+      "id": 39980,
+      "school_id": 531,
+      "academic_year": 2026,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 45,
+      "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2026年度欄に関西大学 45名と掲載。"
+    },
+    {
       "id": 28845,
       "school_id": 531,
       "academic_year": 2026,
@@ -910,6 +936,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に国際教養大学 1名と掲載。"
+    },
+    {
+      "id": 39978,
+      "school_id": 531,
+      "academic_year": 2025,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 18,
+      "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2025年度欄に大阪公立大学 18名と掲載。"
     },
     {
       "id": 28941,
@@ -1237,6 +1276,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に長崎大学 3名と掲載。"
     },
     {
+      "id": 39981,
+      "school_id": 531,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 121,
+      "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2025年度欄に関西大学 121名と掲載。"
+    },
+    {
       "id": 28846,
       "school_id": 531,
       "academic_year": 2025,
@@ -1521,6 +1573,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に和歌山大学 6名と掲載。"
+    },
+    {
+      "id": 39979,
+      "school_id": 531,
+      "academic_year": 2024,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 9,
+      "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2024年度欄に大阪公立大学 9名と掲載。"
     },
     {
       "id": 28830,
@@ -2069,6 +2134,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に長崎大学 1名と掲載。"
     },
     {
+      "id": 39982,
+      "school_id": 531,
+      "academic_year": 2024,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 143,
+      "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2024年度欄に関西大学 143名と掲載。"
+    },
+    {
       "id": 28847,
       "school_id": 531,
       "academic_year": 2024,
@@ -2259,8 +2337,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式中学校サイトはrobots制約で本文確認不可。Study1学校別2026/2025/2024大学合格表を照合し、大学名・各年人数を確認。 2024年度の学校別表を再確認し、根拠と年度別値を承認。"
     },
     {
       "id": 1508,
@@ -2269,8 +2347,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式中学校サイトはrobots制約で本文確認不可。Study1学校別2026/2025/2024大学合格表を照合し、大学名・各年人数を確認。 2025年度の学校別表を再確認し、根拠と年度別値を承認。"
     },
     {
       "id": 1509,
@@ -2279,8 +2357,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kansai/school/B28P060/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式中学校サイトはrobots制約で本文確認不可。Study1学校別2026/2025/2024大学合格表を照合し、大学名・各年人数を確認。 2026年度の学校別表を再確認し、根拠と年度別値を承認。"
     }
   ]
 }

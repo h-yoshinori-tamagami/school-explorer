@@ -15,19 +15,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に中央大学 3名と掲載。"
     },
     {
-      "id": 29773,
-      "school_id": 549,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 38,
-      "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 38名と掲載。"
-    },
-    {
       "id": 29744,
       "school_id": 549,
       "academic_year": 2026,
@@ -197,19 +184,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 1名と掲載。"
     },
     {
-      "id": 29774,
-      "school_id": 549,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 29,
-      "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 29名と掲載。"
-    },
-    {
       "id": 29746,
       "school_id": 549,
       "academic_year": 2025,
@@ -364,19 +338,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に中央大学 3名と掲載。"
-    },
-    {
-      "id": 29775,
-      "school_id": 549,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 33,
-      "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 33名と掲載。"
     },
     {
       "id": 29780,
@@ -548,6 +509,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に防衛医科大学校 1名と掲載。"
     },
     {
+      "id": 40427,
+      "school_id": 549,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 1,
+      "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2024年度大学合格実績表に青山学院大学 1名と掲載。"
+    },
+    {
       "id": 29779,
       "school_id": 549,
       "academic_year": 2024,
@@ -582,8 +556,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページで確認できるのは主に2026年度で、2024年度の青山学院大学数はStudy1学校別表で確認。Study1の「中高一貫生」補足行は母集団を明示した別記録として既存分を維持し、大学別表の不足1行を追加。"
     },
     {
       "id": 1559,
@@ -592,8 +566,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページで確認できるのは主に2026年度で、2024年度の青山学院大学数はStudy1学校別表で確認。Study1の「中高一貫生」補足行は母集団を明示した別記録として既存分を維持し、大学別表の不足1行を追加。"
     },
     {
       "id": 1560,
@@ -602,8 +576,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B11P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページで確認できるのは主に2026年度で、2024年度の青山学院大学数はStudy1学校別表で確認。Study1の「中高一貫生」補足行は母集団を明示した別記録として既存分を維持し、大学別表の不足1行を追加。"
     }
   ]
 }

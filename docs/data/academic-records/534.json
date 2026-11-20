@@ -431,6 +431,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に立教大学 38名と掲載。"
     },
     {
+      "id": 40026,
+      "school_id": 534,
+      "academic_year": 2026,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 9,
+      "source_url": "https://www.study1.jp/kanto/school/B11P030/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2026年度欄に青山学院大学 9名と掲載。"
+    },
+    {
       "id": 29022,
       "school_id": 534,
       "academic_year": 2026,
@@ -834,6 +847,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に防衛大学校 1名と掲載。"
     },
     {
+      "id": 40027,
+      "school_id": 534,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 11,
+      "source_url": "https://www.study1.jp/kanto/school/B11P030/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2025年度欄に青山学院大学 11名と掲載。"
+    },
+    {
       "id": 29083,
       "school_id": 534,
       "academic_year": 2025,
@@ -1211,6 +1237,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に筑波大学 1名と掲載。"
     },
     {
+      "id": 40028,
+      "school_id": 534,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "study1",
+      "count": 4,
+      "source_url": "https://www.study1.jp/kanto/school/B11P030/univ_pass/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1「大学合格実績」表の2024年度欄に青山学院大学 4名と掲載。"
+    },
+    {
       "id": 29024,
       "school_id": 534,
       "academic_year": 2024,
@@ -1232,8 +1271,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B11P030/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式資料は2026年度の中高一貫部卒業生39名分のみ。Study1の学校別プロフィール表は集計範囲が異なるため、同一母集団として混合せずStudy1表の値だけを既存Study1記録として確認。 2024年度の学校別表を再確認し、根拠と年度別値を承認。"
     },
     {
       "id": 1517,
@@ -1242,8 +1281,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B11P030/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式資料は2026年度の中高一貫部卒業生39名分のみ。Study1の学校別プロフィール表は集計範囲が異なるため、同一母集団として混合せずStudy1表の値だけを既存Study1記録として確認。 2025年度の学校別表を再確認し、根拠と年度別値を承認。"
     },
     {
       "id": 1518,
@@ -1252,8 +1291,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B11P030/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式資料は2026年度の中高一貫部卒業生39名分のみ。Study1の学校別プロフィール表は集計範囲が異なるため、同一母集団として混合せずStudy1表の値だけを既存Study1記録として確認。 2026年度の学校別表を再確認し、根拠と年度別値を承認。"
     }
   ]
 }

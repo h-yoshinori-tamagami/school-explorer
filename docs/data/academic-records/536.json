@@ -8,9 +8,9 @@
       "academic_year": 2024,
       "collection_status": "not_published",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kanto/school/B13P141/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://study1.jp/kanto/school/B13P141/univ_pass/",
+      "verified_at": "2026-11-18",
+      "reason": "公式サイトで中学校開校は2026-04と確認し、2024–2026年度に中学校卒業生の大学実績なし。Study1学校別ページも「ただいま準備中」。該当年度の結果未公表として登録。"
     },
     {
       "id": 1523,
@@ -18,9 +18,9 @@
       "academic_year": 2025,
       "collection_status": "not_published",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kanto/school/B13P141/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://study1.jp/kanto/school/B13P141/univ_pass/",
+      "verified_at": "2026-11-18",
+      "reason": "公式サイトで中学校開校は2026-04と確認し、2024–2026年度に中学校卒業生の大学実績なし。Study1学校別ページも「ただいま準備中」。該当年度の結果未公表として登録。"
     },
     {
       "id": 1524,
@@ -28,9 +28,9 @@
       "academic_year": 2026,
       "collection_status": "not_published",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kanto/school/B13P141/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://study1.jp/kanto/school/B13P141/univ_pass/",
+      "verified_at": "2026-11-18",
+      "reason": "公式サイトで中学校開校は2026-04と確認し、2024–2026年度に中学校卒業生の大学実績なし。Study1学校別ページも「ただいま準備中」。該当年度の結果未公表として登録。"
     }
   ]
 }

@@ -236,19 +236,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に中央大学 3名と掲載。"
     },
     {
-      "id": 4027,
-      "school_id": 75,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 151,
-      "source_url": "https://www.study1.jp/kanto/school/B13P130/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 151名と掲載。"
-    },
-    {
       "id": 4030,
       "school_id": 75,
       "academic_year": 2026,
@@ -535,19 +522,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に中央大学 3名と掲載。"
     },
     {
-      "id": 4028,
-      "school_id": 75,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 137,
-      "source_url": "https://www.study1.jp/kanto/school/B13P130/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 137名と掲載。"
-    },
-    {
       "id": 3978,
       "school_id": 75,
       "academic_year": 2025,
@@ -780,19 +754,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B13P130/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に中央大学 2名と掲載。"
-    },
-    {
-      "id": 4029,
-      "school_id": 75,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 112,
-      "source_url": "https://www.study1.jp/kanto/school/B13P130/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 112名と掲載。"
     },
     {
       "id": 3977,

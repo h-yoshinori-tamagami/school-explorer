@@ -28,19 +28,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に中央大学 1名と掲載。"
     },
     {
-      "id": 29377,
-      "school_id": 544,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 28,
-      "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 28名と掲載。"
-    },
-    {
       "id": 1108,
       "school_id": 544,
       "academic_year": 2026,
@@ -132,17 +119,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に上智大学 1名と掲載。"
     },
     {
-      "id": 29378,
+      "id": 40422,
       "school_id": 544,
       "academic_year": 2025,
-      "institution_name": "卒業生数",
+      "institution_name": "大阪大学",
       "faculty_name": null,
       "outcome_type": "admissions",
       "source_kind": "study1",
-      "count": 16,
+      "count": 1,
       "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 16名と掲載。"
+      "verified_at": "2026-11-18",
+      "source_excerpt": "Study1の2025年度大学合格実績表に大阪大学 1名と掲載。"
     },
     {
       "id": 856,
@@ -221,19 +208,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に駒澤大学 1名と掲載。"
-    },
-    {
-      "id": 29379,
-      "school_id": 544,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 22,
-      "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 22名と掲載。"
     },
     {
       "id": 29365,
@@ -322,8 +296,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページの現役合格状況は年度別に掲載されるが、Study1の大学合格表と集計範囲を同一と確認できないため混在させず、Study1学校別表の2024–2026年を確認して記録。"
     },
     {
       "id": 1544,
@@ -332,8 +306,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページの現役合格状況は年度別に掲載されるが、Study1の大学合格表と集計範囲を同一と確認できないため混在させず、Study1学校別表の2024–2026年を確認して記録。"
     },
     {
       "id": 1545,
@@ -342,8 +316,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B15P028/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式ページの現役合格状況は年度別に掲載されるが、Study1の大学合格表と集計範囲を同一と確認できないため混在させず、Study1学校別表の2024–2026年を確認して記録。"
     }
   ]
 }

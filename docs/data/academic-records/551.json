@@ -2,6 +2,32 @@
   "school_id": 551,
   "academic_records": [
     {
+      "id": 40510,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "Sunway College",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」海外大学、Sunway College 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40511,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 11,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、京都女子大学 11名。大学別の延べ合格数。"
+    },
+    {
       "id": 29800,
       "school_id": 551,
       "academic_year": 2026,
@@ -13,6 +39,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2026年度大学合格実績に京都府立大学 1名と掲載。"
+    },
+    {
+      "id": 40512,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "京都府立大学",
+      "faculty_name": "環境科学",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、京都府立大学(環境科学) 1名。大学別の延べ合格数。"
     },
     {
       "id": 29799,
@@ -28,17 +67,30 @@
       "source_excerpt": "Study1の2026年度大学合格実績に京都教育大学 1名と掲載。"
     },
     {
-      "id": 29786,
+      "id": 40513,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "京都教育大学",
+      "faculty_name": "教育",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、京都教育大学(教育) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40514,
       "school_id": 551,
       "academic_year": 2026,
       "institution_name": "京都産業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に京都産業大学 5名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、京都産業大学 5名。大学別の延べ合格数。"
     },
     {
       "id": 29802,
@@ -54,17 +106,43 @@
       "source_excerpt": "Study1の2026年度大学合格実績に兵庫県立大学 1名と掲載。"
     },
     {
-      "id": 29792,
+      "id": 40515,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "兵庫県立大学",
+      "faculty_name": "理",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、兵庫県立大学（理） 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40516,
       "school_id": 551,
       "academic_year": 2026,
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に同志社大学 4名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、同志社大学 4名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40517,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、同志社女子大学 9名。大学別の延べ合格数。"
     },
     {
       "id": 29797,
@@ -80,6 +158,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に名古屋市立大学 1名と掲載。"
     },
     {
+      "id": 40518,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "名古屋市立大学",
+      "faculty_name": "人文社会",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、名古屋市立大学(人文社会) 1名。大学別の延べ合格数。"
+    },
+    {
       "id": 29801,
       "school_id": 551,
       "academic_year": 2026,
@@ -91,6 +182,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2026年度大学合格実績に大阪教育大学 1名と掲載。"
+    },
+    {
+      "id": 40519,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "大阪教育大学",
+      "faculty_name": "教育",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、大阪教育大学(教育) 1名。大学別の延べ合格数。"
     },
     {
       "id": 29804,
@@ -106,6 +210,32 @@
       "source_excerpt": "Study1の2026年度大学合格実績に奈良女子大学 2名と掲載。"
     },
     {
+      "id": 40520,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "奈良女子大学",
+      "faculty_name": "工",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、奈良女子大学(工) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40521,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "奈良女子大学",
+      "faculty_name": "生活環境",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、奈良女子大学(生活環境) 1名。大学別の延べ合格数。"
+    },
+    {
       "id": 29803,
       "school_id": 551,
       "academic_year": 2026,
@@ -117,6 +247,32 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2026年度大学合格実績に奈良県立大学 1名と掲載。"
+    },
+    {
+      "id": 40522,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "奈良県立大学",
+      "faculty_name": "地域創造",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、奈良県立大学（地域創造） 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40523,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 26,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、武庫川女子大学 26名。大学別の延べ合格数。"
     },
     {
       "id": 29798,
@@ -132,56 +288,108 @@
       "source_excerpt": "Study1の2026年度大学合格実績に滋賀県立大学 1名と掲載。"
     },
     {
-      "id": 874,
+      "id": 40524,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "滋賀県立大学",
+      "faculty_name": "人間文化",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、滋賀県立大学(人間文化) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40525,
       "school_id": 551,
       "academic_year": 2026,
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 53,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に立命館大学 53名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、立命館大学 53名。大学別の延べ合格数。"
     },
     {
-      "id": 29789,
+      "id": 40526,
       "school_id": 551,
       "academic_year": 2026,
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 26,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に近畿大学 26名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、近畿大学 26名。大学別の延べ合格数。"
     },
     {
-      "id": 29784,
+      "id": 40527,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 13,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、関西大学 13名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40528,
       "school_id": 551,
       "academic_year": 2026,
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に関西学院大学 5名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、関西学院大学 5名。大学別の延べ合格数。"
     },
     {
-      "id": 29794,
+      "id": 40529,
+      "school_id": 551,
+      "academic_year": 2026,
+      "institution_name": "鹿児島大学",
+      "faculty_name": "水産",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」国公立大学、鹿児島大学(水産) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40530,
       "school_id": 551,
       "academic_year": 2026,
       "institution_name": "龍谷大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に龍谷大学 4名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2026年度入試結果延べ合格数」4年制私立大学、龍谷大学 4名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40491,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 21,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、京都女子大学 21名。大学別の延べ合格数。"
     },
     {
       "id": 29806,
@@ -197,17 +405,56 @@
       "source_excerpt": "Study1の2025年度大学合格実績に京都工芸繊維大学 2名と掲載。"
     },
     {
-      "id": 29787,
+      "id": 40492,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "京都工芸繊維大学",
+      "faculty_name": "工芸科学",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、京都工芸繊維大学(工芸科学) 2名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40493,
       "school_id": 551,
       "academic_year": 2025,
       "institution_name": "京都産業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に京都産業大学 1名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、京都産業大学 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40494,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "同志社大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、同志社大学 2名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40495,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、同志社女子大学 9名。大学別の延べ合格数。"
     },
     {
       "id": 29810,
@@ -223,6 +470,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に奈良女子大学 1名と掲載。"
     },
     {
+      "id": 40496,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "奈良女子大学",
+      "faculty_name": "工",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、奈良女子大学(工) 1名。大学別の延べ合格数。"
+    },
+    {
       "id": 29807,
       "school_id": 551,
       "academic_year": 2025,
@@ -234,6 +494,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に奈良教育大学 1名と掲載。"
+    },
+    {
+      "id": 40497,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "奈良教育大学",
+      "faculty_name": "教育",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、奈良教育大学(教育) 1名。大学別の延べ合格数。"
     },
     {
       "id": 29809,
@@ -249,6 +522,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に奈良県立医科大学 2名と掲載。"
     },
     {
+      "id": 40498,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "奈良県立医科大学",
+      "faculty_name": "医・看護",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、奈良県立医科大学(医・看護) 2名。大学別の延べ合格数。"
+    },
+    {
       "id": 29808,
       "school_id": 551,
       "academic_year": 2025,
@@ -262,17 +548,43 @@
       "source_excerpt": "Study1の2025年度大学合格実績に奈良県立大学 1名と掲載。"
     },
     {
-      "id": 29791,
+      "id": 40499,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "奈良県立大学",
+      "faculty_name": "地域創造",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、奈良県立大学(地域創造) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40500,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 23,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、武庫川女子大学 23名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40501,
       "school_id": 551,
       "academic_year": 2025,
       "institution_name": "甲南大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に甲南大学 1名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、甲南大学 1名。大学別の延べ合格数。"
     },
     {
       "id": 29805,
@@ -288,17 +600,69 @@
       "source_excerpt": "Study1の2025年度大学合格実績に福井県立大学 1名と掲載。"
     },
     {
-      "id": 873,
+      "id": 40502,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "福井県立大学",
+      "faculty_name": "生物資源",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、福井県立大学(生物資源) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40503,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "立命館大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 72,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、立命館大学 72名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40504,
       "school_id": 551,
       "academic_year": 2025,
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 27,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に近畿大学 27名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、近畿大学 27名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40505,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 13,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、関西大学 13名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40506,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "関西学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、関西学院大学 6名。大学別の延べ合格数。"
     },
     {
       "id": 29812,
@@ -314,6 +678,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に高知大学 1名と掲載。"
     },
     {
+      "id": 40507,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "高知大学",
+      "faculty_name": "農林海洋科学",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、高知大学(農林海洋科学) 1名。大学別の延べ合格数。"
+    },
+    {
       "id": 29811,
       "school_id": 551,
       "academic_year": 2025,
@@ -327,43 +704,108 @@
       "source_excerpt": "Study1の2025年度大学合格実績に鳥取大学 1名と掲載。"
     },
     {
-      "id": 29795,
+      "id": 40508,
+      "school_id": 551,
+      "academic_year": 2025,
+      "institution_name": "鳥取大学",
+      "faculty_name": "農",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」国公立大学、鳥取大学(農) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40509,
       "school_id": 551,
       "academic_year": 2025,
       "institution_name": "龍谷大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 16,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に龍谷大学 16名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2025年度入試結果延べ合格数」4年制私立大学、龍谷大学 16名。大学別の延べ合格数。"
     },
     {
-      "id": 29788,
+      "id": 40476,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 12,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、京都女子大学 12名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40477,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "京都工芸繊維大学",
+      "faculty_name": "工芸科学",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」国公立大学、京都工芸繊維大学(工芸科学) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40478,
       "school_id": 551,
       "academic_year": 2024,
       "institution_name": "京都産業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に京都産業大学 2名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、京都産業大学 2名。大学別の延べ合格数。"
     },
     {
-      "id": 29793,
+      "id": 40479,
       "school_id": 551,
       "academic_year": 2024,
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に同志社大学 1名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、同志社大学 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40480,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 16,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、同志社女子大学 16名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40481,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "大阪公立大学",
+      "faculty_name": "生活科学",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」国公立大学、大阪公立大学(生活科学) 1名。大学別の延べ合格数。"
     },
     {
       "id": 29815,
@@ -379,6 +821,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に奈良県立医科大学 1名と掲載。"
     },
     {
+      "id": 40482,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "奈良県立医科大学",
+      "faculty_name": "医・看護",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」国公立大学、奈良県立医科大学(医・看護) 1名。大学別の延べ合格数。"
+    },
+    {
       "id": 29814,
       "school_id": 551,
       "academic_year": 2024,
@@ -390,6 +845,32 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に奈良県立大学 1名と掲載。"
+    },
+    {
+      "id": 40483,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "奈良県立大学",
+      "faculty_name": "地域創造",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」国公立大学、奈良県立大学(地域創造) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40484,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 21,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、武庫川女子大学 21名。大学別の延べ合格数。"
     },
     {
       "id": 29813,
@@ -405,56 +886,82 @@
       "source_excerpt": "Study1の2024年度大学合格実績に滋賀大学 1名と掲載。"
     },
     {
-      "id": 872,
+      "id": 40485,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "滋賀大学",
+      "faculty_name": "経済",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」国公立大学、滋賀大学(経済) 1名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40486,
       "school_id": 551,
       "academic_year": 2024,
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 55,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に立命館大学 55名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、立命館大学 55名。大学別の延べ合格数。"
     },
     {
-      "id": 29790,
+      "id": 40487,
       "school_id": 551,
       "academic_year": 2024,
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 14,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に近畿大学 14名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、近畿大学 14名。大学別の延べ合格数。"
     },
     {
-      "id": 29785,
+      "id": 40488,
+      "school_id": 551,
+      "academic_year": 2024,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 11,
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、関西大学 11名。大学別の延べ合格数。"
+    },
+    {
+      "id": 40489,
       "school_id": 551,
       "academic_year": 2024,
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に関西学院大学 3名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、関西学院大学 3名。大学別の延べ合格数。"
     },
     {
-      "id": 29796,
+      "id": 40490,
       "school_id": 551,
       "academic_year": 2024,
       "institution_name": "龍谷大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 16,
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に龍谷大学 16名と掲載。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "公式進路状況「2024年度入試結果延べ合格数」4年制私立大学、龍谷大学 16名。大学別の延べ合格数。"
     }
   ],
   "academic_collection_statuses": [
@@ -464,9 +971,9 @@
       "academic_year": 2024,
       "collection_status": "collected",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "reason": "公式年度別進路表とStudy1を照合。公式で大学別数値のない大学はStudy1個別値を補完として保持し、「その他」等の集計値を大学別行に加えない。"
     },
     {
       "id": 1565,
@@ -474,9 +981,9 @@
       "academic_year": 2025,
       "collection_status": "collected",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/situation-child/",
+      "verified_at": "2026-11-18",
+      "reason": "公式年度別進路表とStudy1を照合。公式で大学別数値のない大学はStudy1個別値を補完として保持し、「その他」等の集計値を大学別行に加えない。"
     },
     {
       "id": 1566,
@@ -484,9 +991,9 @@
       "academic_year": 2026,
       "collection_status": "collected",
       "approval_status": "approved",
-      "source_url": "https://www.study1.jp/kansai/school/B30P001/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "source_url": "https://www.ikuei.ed.jp/ikunishi/education/situation/",
+      "verified_at": "2026-11-18",
+      "reason": "公式年度別進路表とStudy1を照合。公式で大学別数値のない大学はStudy1個別値を補完として保持し、「その他」等の集計値を大学別行に加えない。"
     }
   ]
 }

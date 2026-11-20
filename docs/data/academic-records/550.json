@@ -9,8 +9,8 @@
       "collection_status": "recheck",
       "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "verified_at": "2026-11-18",
+      "reason": "公式進路実績は過去3年合計のみで年度別人数へ分解できない。Study1の学校検索・学校別実績も確認したが、年度と学校を同定できる年度別大学合格表を確認できないため、推測で配分せずrecheckを維持。"
     },
     {
       "id": 1562,
@@ -19,8 +19,8 @@
       "collection_status": "recheck",
       "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "verified_at": "2026-11-18",
+      "reason": "公式進路実績は過去3年合計のみで年度別人数へ分解できない。Study1の学校検索・学校別実績も確認したが、年度と学校を同定できる年度別大学合格表を確認できないため、推測で配分せずrecheckを維持。"
     },
     {
       "id": 1563,
@@ -29,8 +29,8 @@
       "collection_status": "recheck",
       "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/list/search.html",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "verified_at": "2026-11-18",
+      "reason": "公式進路実績は過去3年合計のみで年度別人数へ分解できない。Study1の学校検索・学校別実績も確認したが、年度と学校を同定できる年度別大学合格表を確認できないため、推測で配分せずrecheckを維持。"
     }
   ]
 }

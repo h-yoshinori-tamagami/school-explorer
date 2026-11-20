@@ -54,19 +54,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に兵庫県立大学 1名と掲載。"
     },
     {
-      "id": 29704,
-      "school_id": 548,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 47,
-      "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 47名と掲載。"
-    },
-    {
       "id": 29694,
       "school_id": 548,
       "academic_year": 2026,
@@ -104,6 +91,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2026年度大学合格実績に和歌山大学 1名と掲載。"
+    },
+    {
+      "id": 40433,
+      "school_id": 548,
+      "academic_year": 2026,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.seishingakuenchuto.ed.jp/proceed/university/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "大学合格実績表のR8年度（2026年度）列に、大阪公立大学 1名と掲載。"
     },
     {
       "id": 29683,
@@ -353,6 +353,19 @@
       "source_excerpt": "Study1の2026年度大学合格実績に関西医科大学 1名と掲載。"
     },
     {
+      "id": 40436,
+      "school_id": 548,
+      "academic_year": 2026,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 15,
+      "source_url": "https://www.seishingakuenchuto.ed.jp/proceed/university/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "大学合格実績表のR8年度（2026年度）列に、関西大学 15名と掲載。"
+    },
+    {
       "id": 29685,
       "school_id": 548,
       "academic_year": 2026,
@@ -418,19 +431,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に京都産業大学 3名と掲載。"
     },
     {
-      "id": 29705,
-      "school_id": 548,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 27,
-      "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 27名と掲載。"
-    },
-    {
       "id": 29695,
       "school_id": 548,
       "academic_year": 2025,
@@ -442,6 +442,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に同志社大学 1名と掲載。"
+    },
+    {
+      "id": 40434,
+      "school_id": 548,
+      "academic_year": 2025,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.seishingakuenchuto.ed.jp/proceed/university/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "大学合格実績表のR7年度（2025年度）列に、大阪公立大学 1名と掲載。"
     },
     {
       "id": 29727,
@@ -507,6 +520,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に近畿大学 3名と掲載。"
+    },
+    {
+      "id": 40437,
+      "school_id": 548,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.seishingakuenchuto.ed.jp/proceed/university/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "大学合格実績表のR7年度（2025年度）列に、関西大学 3名と掲載。"
     },
     {
       "id": 867,
@@ -624,6 +650,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に和歌山大学 2名と掲載。"
+    },
+    {
+      "id": 40435,
+      "school_id": 548,
+      "academic_year": 2024,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.seishingakuenchuto.ed.jp/proceed/university/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "大学合格実績表のR6年度（2024年度）列に、大阪公立大学 1名と掲載。"
     },
     {
       "id": 29738,
@@ -769,6 +808,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に近畿大学 3名と掲載。"
     },
     {
+      "id": 40438,
+      "school_id": 548,
+      "academic_year": 2024,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.seishingakuenchuto.ed.jp/proceed/university/",
+      "verified_at": "2026-11-18",
+      "source_excerpt": "大学合格実績表のR6年度（2024年度）列に、関西大学 8名と掲載。"
+    },
+    {
       "id": 29686,
       "school_id": 548,
       "academic_year": 2024,
@@ -816,8 +868,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式の大学合格実績表のR6/R7/R8年度を2024/2025/2026年として確認。既卒生数は角括弧で内数表示されるため、表の先頭にある総合格数を使用。大阪公立大学・関西大学の未収載行を追加。"
     },
     {
       "id": 1556,
@@ -826,8 +878,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式の大学合格実績表のR6/R7/R8年度を2024/2025/2026年として確認。既卒生数は角括弧で内数表示されるため、表の先頭にある総合格数を使用。大阪公立大学・関西大学の未収載行を追加。"
     },
     {
       "id": 1557,
@@ -836,8 +888,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kansai/school/B30P002/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-18",
+      "reason": "公式の大学合格実績表のR6/R7/R8年度を2024/2025/2026年として確認。既卒生数は角括弧で内数表示されるため、表の先頭にある総合格数を使用。大阪公立大学・関西大学の未収載行を追加。"
     }
   ]
 }
