@@ -409618,6 +409618,1741 @@
           "priority": null
         }
       ]
+    },
+    {
+      "school_code": "SCH_0681",
+      "name": "稲毛国際",
+      "official_name": "千葉市立稲毛国際中等教育学校",
+      "gender_type": "共学",
+      "establishment_type": "国公立",
+      "address": "千葉県千葉市美浜区高浜3-1-1",
+      "nearest_station_1": null,
+      "nearest_station_2": null,
+      "nearest_station_3": null,
+      "latitude": null,
+      "longitude": null,
+      "website_url": "https://www.city.chiba.jp/school/hs/001/nyushijoho/secondary_exam.html",
+      "history": null,
+      "education_philosophy": null,
+      "academic_record": null,
+      "facilities": null,
+      "feature_summary": "国際社会で発信し行動する力を育てる",
+      "feature_description": "千葉市立稲毛国際中等教育学校は、国際社会の一員として考えを発信し、自ら行動できる人を育てることを教育目標に掲げています。確かな学力、他者を尊重する心、調和のとれた体力を養い、一人ひとりが自分のあり方を見つけることも支えます。授業では主体的に学ぶ姿勢と対話を重視し、知的好奇心を引き出しながら、身に付けた知識を生活や社会に生かす力につなげます。",
+      "lunch_type": "前期課程のみ給食あり（教室で提供）",
+      "uniform_policy": null,
+      "dormitory_available": null,
+      "affiliation_type": null,
+      "affiliation_name": null,
+      "scholarship_system": null,
+      "learning_support": null,
+      "high_school_progression": null,
+      "religious_background": null,
+      "international_programs": null,
+      "id": 682,
+      "exam_schedules": [
+        {
+          "exam_year": 2027,
+          "exam_date": "12-05",
+          "exam_time_period": "AM",
+          "exam_type": "一次検査",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2026-12-05T10:15:00",
+          "exam_end_at": "2026-12-05T12:15:00",
+          "result_announced_at": "2026-12-11T09:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2026-12-05",
+          "official_exam_key": "selection-stage-1",
+          "application_start_at": null,
+          "application_deadline_at": null,
+          "assembly_at": "2026-12-05T09:30:00",
+          "exam_subjects": "適性検査I・II",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              },
+              "exam_end_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.2 第3 検査日・時間割・発表（画像確認）"
+              }
+            }
+          },
+          "id": 3429,
+          "school_id": 682
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "01-24",
+          "exam_time_period": "AM",
+          "exam_type": "二次検査",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-01-24T10:45:00",
+          "exam_end_at": null,
+          "result_announced_at": "2027-02-01T09:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-24",
+          "official_exam_key": "selection-stage-2",
+          "application_start_at": null,
+          "application_deadline_at": null,
+          "assembly_at": "2027-01-24T10:00:00",
+          "exam_subjects": "適性検査III・グループ面接（12:35開始）",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.city.chiba.jp/kyoiku/gakkokyoiku/kyoikukaikaku/documents/r9bosyuyoko.pdf",
+                "locator": "PDF p.3 第4 検査日・時間割・発表（画像確認）"
+              }
+            }
+          },
+          "id": 3430,
+          "school_id": 682
+        }
+      ],
+      "commute_time": null,
+      "clubs": [
+        {
+          "id": 15327,
+          "name": "剣道部",
+          "category": "運動部",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/documents/documents/kenndoubu.pdf",
+          "verified_at": "2026-11-20"
+        },
+        {
+          "id": 15328,
+          "name": "卓球部",
+          "category": "運動部",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/documents/documents/r7tabletennis-jhh.pdf",
+          "verified_at": "2026-11-20"
+        },
+        {
+          "id": 15329,
+          "name": "陸上競技部",
+          "category": "運動部",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/documents/documents/rikuzyoukyougi_zenki.pdf",
+          "verified_at": "2026-11-20"
+        },
+        {
+          "id": 15330,
+          "name": "オーケストラ部",
+          "category": "文化部",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/documents/documents/okesutorabu.pdf",
+          "verified_at": "2026-11-20"
+        }
+      ],
+      "profile_sources": [
+        {
+          "id": 3809,
+          "attribute_key": "feature_summary",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/kyoikumokuhyo.html",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3810,
+          "attribute_key": "feature_description",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/kyoikumokuhyo.html",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3819,
+          "attribute_key": "lunch_type",
+          "source_url": "https://www.city.chiba.jp/school/hs/001/gakkoshokai/faq.html",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        }
+      ]
+    },
+    {
+      "school_code": "SCH_0682",
+      "name": "大谷（大阪）",
+      "official_name": "大谷中学校",
+      "gender_type": "女子校",
+      "establishment_type": "私立",
+      "address": "大阪府大阪市阿倍野区共立通2-8-4",
+      "nearest_station_1": null,
+      "nearest_station_2": null,
+      "nearest_station_3": null,
+      "latitude": null,
+      "longitude": null,
+      "website_url": "https://www.osk-ohtani.ed.jp/",
+      "history": null,
+      "education_philosophy": null,
+      "academic_record": null,
+      "facilities": null,
+      "feature_summary": "情操教育と進学指導を柱にする女子教育",
+      "feature_description": "大阪の大谷中学校は、宗教教育を中心とする情操教育、進学指導、生徒指導を教育の柱としています。人を思いやる心を育てるとともに、ICTを活用しながら、授業で考えを交わして理解を深める学びを重視します。中学募集では医進、特進、凛花グローバル探究の三つのコースを設けています。医療系や理科系の学びに特色があり、希望する進路に向けて学ぶ環境を整えています。",
+      "lunch_type": null,
+      "uniform_policy": null,
+      "dormitory_available": null,
+      "affiliation_type": null,
+      "affiliation_name": null,
+      "scholarship_system": null,
+      "learning_support": null,
+      "high_school_progression": null,
+      "religious_background": null,
+      "international_programs": null,
+      "id": 683,
+      "exam_schedules": [
+        {
+          "exam_year": 2027,
+          "exam_date": "01-16",
+          "exam_time_period": "AM",
+          "exam_type": "一次A",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-01-16T08:40:00",
+          "exam_end_at": null,
+          "result_announced_at": "2027-01-17T11:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-16",
+          "official_exam_key": "primary-a",
+          "application_start_at": "2026-11-10T09:00:00",
+          "application_deadline_at": "2027-01-15T12:00:00",
+          "assembly_at": "2027-01-16T08:20:00",
+          "exam_subjects": "医進・特進・凛花は3科または4科。凛花特別専願は国語・算数・面接",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次A列の試験日・出願期間・合格発表・受験区分"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次A・二次の列"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次A・二次の列"
+              }
+            },
+            "milestones": [
+              {
+                "kind": "interview_start",
+                "date": "2027-01-16",
+                "at": "2027-01-16T11:20:00+09:00",
+                "condition": "凛花特別専願のみ",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 注記"
+              },
+              {
+                "kind": "enrollment_deadline",
+                "date": "2027-01-17",
+                "at": "2027-01-17T16:00:00+09:00",
+                "condition": "凛花特別専願のみ",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 募集要項 入学手続き"
+              },
+              {
+                "kind": "enrollment_deadline",
+                "date": "2027-01-18",
+                "at": null,
+                "condition": "一次Aの特別専願以外",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 募集要項 入学手続き"
+              }
+            ],
+            "identity_match_note": "大阪の大谷中学校の新規候補。午後は当日時間選択であり、各回の時間選択肢を保持。"
+          },
+          "id": 3431,
+          "school_id": 683
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "01-16",
+          "exam_time_period": "PM",
+          "exam_type": "一次B",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": null,
+          "exam_end_at": null,
+          "result_announced_at": "2027-01-17T11:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-16",
+          "official_exam_key": "primary-b",
+          "application_start_at": "2026-11-10T09:00:00",
+          "application_deadline_at": "2027-01-15T12:00:00",
+          "assembly_at": null,
+          "exam_subjects": "国語・算数（2科型）",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次B列の試験日・出願期間・合格発表・受験区分"
+              }
+            },
+            "milestones": [
+              {
+                "kind": "assembly",
+                "date": "2027-01-16",
+                "at": "2027-01-16T15:10:00+09:00",
+                "condition": "当日1回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_start",
+                "date": "2027-01-16",
+                "at": "2027-01-16T15:30:00+09:00",
+                "condition": "当日1回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_end",
+                "date": "2027-01-16",
+                "at": "2027-01-16T17:50:00+09:00",
+                "condition": "当日1回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "assembly",
+                "date": "2027-01-16",
+                "at": "2027-01-16T16:00:00+09:00",
+                "condition": "当日2回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_start",
+                "date": "2027-01-16",
+                "at": "2027-01-16T16:20:00+09:00",
+                "condition": "当日2回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_end",
+                "date": "2027-01-16",
+                "at": "2027-01-16T18:40:00+09:00",
+                "condition": "当日2回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "enrollment_deadline",
+                "date": "2027-01-20",
+                "at": null,
+                "condition": "全コース。Web決済の時刻は明記なし",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 募集要項 入学手続き"
+              }
+            ],
+            "identity_match_note": "大阪の大谷中学校の新規候補。午後は当日時間選択であり、各回の時間選択肢を保持。"
+          },
+          "id": 3432,
+          "school_id": 683
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "01-17",
+          "exam_time_period": "PM",
+          "exam_type": "一次C",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": null,
+          "exam_end_at": null,
+          "result_announced_at": "2027-01-18T14:30:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-17",
+          "official_exam_key": "primary-c",
+          "application_start_at": "2026-11-10T09:00:00",
+          "application_deadline_at": "2027-01-15T12:00:00",
+          "assembly_at": null,
+          "exam_subjects": "国語・算数（2科型）",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 一次C列の試験日・出願期間・合格発表・受験区分"
+              }
+            },
+            "milestones": [
+              {
+                "kind": "assembly",
+                "date": "2027-01-17",
+                "at": "2027-01-17T15:10:00+09:00",
+                "condition": "当日1回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_start",
+                "date": "2027-01-17",
+                "at": "2027-01-17T15:30:00+09:00",
+                "condition": "当日1回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_end",
+                "date": "2027-01-17",
+                "at": "2027-01-17T17:50:00+09:00",
+                "condition": "当日1回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "assembly",
+                "date": "2027-01-17",
+                "at": "2027-01-17T16:00:00+09:00",
+                "condition": "当日2回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_start",
+                "date": "2027-01-17",
+                "at": "2027-01-17T16:20:00+09:00",
+                "condition": "当日2回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "exam_end",
+                "date": "2027-01-17",
+                "at": "2027-01-17T18:40:00+09:00",
+                "condition": "当日2回目選択",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次B・一次Cおよび注意事項"
+              },
+              {
+                "kind": "enrollment_deadline",
+                "date": "2027-01-20",
+                "at": null,
+                "condition": "全コース。Web決済の時刻は明記なし",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 募集要項 入学手続き"
+              }
+            ],
+            "identity_match_note": "大阪の大谷中学校の新規候補。午後は当日時間選択であり、各回の時間選択肢を保持。"
+          },
+          "id": 3433,
+          "school_id": 683
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "01-18",
+          "exam_time_period": "AM",
+          "exam_type": "二次",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-01-18T08:40:00",
+          "exam_end_at": null,
+          "result_announced_at": "2027-01-19T11:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-18",
+          "official_exam_key": "secondary",
+          "application_start_at": "2026-11-10T09:00:00",
+          "application_deadline_at": "2027-01-17T17:00:00",
+          "assembly_at": "2027-01-18T08:20:00",
+          "exam_subjects": "医進・特進は3科または4科。凛花は2科",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 2027年度募集要項 二次列の試験日・出願期間・合格発表・受験区分"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次A・二次の列"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 入試時間割 一次A・二次の列"
+              }
+            },
+            "milestones": [
+              {
+                "kind": "enrollment_deadline",
+                "date": "2027-01-20",
+                "at": null,
+                "condition": "全コース。Web決済の時刻は明記なし",
+                "source_url": "https://www.osk-ohtani.ed.jp/guidance/point/",
+                "locator": "HTML 募集要項 入学手続き"
+              }
+            ],
+            "identity_match_note": "大阪の大谷中学校の新規候補。午後は当日時間選択であり、各回の時間選択肢を保持。"
+          },
+          "id": 3434,
+          "school_id": 683
+        }
+      ],
+      "commute_time": null,
+      "clubs": [],
+      "profile_sources": [
+        {
+          "id": 3811,
+          "attribute_key": "feature_summary",
+          "source_url": "https://www.osk-ohtani.ed.jp/education/",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3812,
+          "attribute_key": "feature_description",
+          "source_url": "https://www.osk-ohtani.ed.jp/education/",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        }
+      ]
+    },
+    {
+      "school_code": "SCH_0683",
+      "name": "県立千葉",
+      "official_name": "千葉県立千葉中学校",
+      "gender_type": "共学",
+      "establishment_type": "国公立",
+      "address": "千葉県千葉市中央区葛城1-5-2",
+      "nearest_station_1": null,
+      "nearest_station_2": null,
+      "nearest_station_3": null,
+      "latitude": null,
+      "longitude": null,
+      "website_url": "https://cms1.chiba-c.ed.jp/chiba-j/",
+      "history": null,
+      "education_philosophy": null,
+      "academic_record": null,
+      "facilities": null,
+      "feature_summary": "六年間を通じて知性と社会への関心を育てる",
+      "feature_description": "千葉県立千葉中学校は県立千葉高等学校に併設され、六年間を見通した教育を行います。教育目標には、自ら学び続けて知性を高めること、他者と協力しながら豊かな人間性を養うこと、社会に貢献する志を育てることを掲げています。学力を土台に幅広い教養を深め、日本の伝統や文化、実社会への理解を重ねます。校地は本千葉駅から徒歩圏にあり、周辺には県立中央図書館などの文化施設があります。",
+      "lunch_type": "給食あり（ランチルーム）",
+      "uniform_policy": null,
+      "dormitory_available": null,
+      "affiliation_type": null,
+      "affiliation_name": null,
+      "scholarship_system": null,
+      "learning_support": null,
+      "high_school_progression": null,
+      "religious_background": null,
+      "international_programs": null,
+      "id": 684,
+      "exam_schedules": [
+        {
+          "exam_year": 2027,
+          "exam_date": "12-05",
+          "exam_time_period": "PM",
+          "exam_type": "一次検査",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2026-12-05T13:40:00",
+          "exam_end_at": "2026-12-05T15:40:00",
+          "result_announced_at": "2026-12-16T09:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2026-12-05",
+          "official_exam_key": "selection-stage-1",
+          "application_start_at": null,
+          "application_deadline_at": null,
+          "assembly_at": "2026-12-05T13:00:00",
+          "exam_subjects": "適性検査1-1・1-2",
+          "venues": "千葉県立千葉中学校・千葉県立千葉高等学校（指定会場は受検票で確認）",
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "学校マスタ追加候補のため既存日程なし。県公式要項で志願校別の会場と二段階選抜を確認。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "venues": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_end_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              }
+            }
+          },
+          "id": 3435,
+          "school_id": 684
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "01-24",
+          "exam_time_period": "AM",
+          "exam_type": "二次検査",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-01-24T10:00:00",
+          "exam_end_at": null,
+          "result_announced_at": null,
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-24",
+          "official_exam_key": "selection-stage-2",
+          "application_start_at": null,
+          "application_deadline_at": null,
+          "assembly_at": "2027-01-24T09:30:00",
+          "exam_subjects": "適性検査2-1・2-2、集団面接（13:00開始）",
+          "venues": "千葉県立千葉中学校・千葉県立千葉高等学校（指定会場は受検票で確認）",
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "学校マスタ追加候補のため既存日程なし。県公式要項で志願校別の会場と二段階選抜を確認。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "venues": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              }
+            }
+          },
+          "id": 3436,
+          "school_id": 684
+        }
+      ],
+      "commute_time": null,
+      "clubs": [],
+      "profile_sources": [
+        {
+          "id": 3813,
+          "attribute_key": "feature_summary",
+          "source_url": "https://cms1.chiba-c.ed.jp/chiba-j/school-overview/SchoolOutline",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3814,
+          "attribute_key": "feature_description",
+          "source_url": "https://cms1.chiba-c.ed.jp/chiba-j/school-overview/SchoolOutline",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3820,
+          "attribute_key": "lunch_type",
+          "source_url": "https://cms1.chiba-c.ed.jp/chiba-j/wysiwyg/file/download/1/10900",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        }
+      ]
+    },
+    {
+      "school_code": "SCH_0684",
+      "name": "東葛飾",
+      "official_name": "千葉県立東葛飾中学校",
+      "gender_type": "共学",
+      "establishment_type": "国公立",
+      "address": "千葉県柏市旭町3-2-1",
+      "nearest_station_1": null,
+      "nearest_station_2": null,
+      "nearest_station_3": null,
+      "latitude": null,
+      "longitude": null,
+      "website_url": "https://cms1.chiba-c.ed.jp/tohkatsu-jh/",
+      "history": null,
+      "education_philosophy": null,
+      "academic_record": null,
+      "facilities": null,
+      "feature_summary": "中高一貫で探究と教養を重視する学び",
+      "feature_description": "千葉県立東葛飾中学校は県立東葛飾高等学校に併設され、六年間の中高一貫教育を行います。学校の教育方針では、授業と探究活動に加え、幅広い分野の教養にふれるリベラルアーツ講座などを活用しています。学校生活では中学のクラブ活動と、中学・高校が連携する部活動を進めています。学習と活動の両方を通して、生徒が興味を深め、他者と関わりながら学ぶ機会を設けています。",
+      "lunch_type": "給食あり",
+      "uniform_policy": null,
+      "dormitory_available": null,
+      "affiliation_type": null,
+      "affiliation_name": null,
+      "scholarship_system": null,
+      "learning_support": null,
+      "high_school_progression": null,
+      "religious_background": null,
+      "international_programs": null,
+      "id": 685,
+      "exam_schedules": [
+        {
+          "exam_year": 2027,
+          "exam_date": "12-05",
+          "exam_time_period": "PM",
+          "exam_type": "一次検査",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2026-12-05T13:40:00",
+          "exam_end_at": "2026-12-05T15:40:00",
+          "result_announced_at": "2026-12-16T09:00:00",
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2026-12-05",
+          "official_exam_key": "selection-stage-1",
+          "application_start_at": null,
+          "application_deadline_at": null,
+          "assembly_at": "2026-12-05T13:00:00",
+          "exam_subjects": "適性検査1-1・1-2",
+          "venues": "千葉県立東葛飾中学校・千葉県立東葛飾高等学校（指定会場は受検票で確認）",
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "学校マスタ追加候補のため既存日程なし。県公式要項で志願校別の会場と二段階選抜を確認。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "venues": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "exam_end_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第3 一次検査の実施及び二次検査受検候補者の決定"
+              }
+            }
+          },
+          "id": 3437,
+          "school_id": 685
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "01-24",
+          "exam_time_period": "AM",
+          "exam_type": "二次検査",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-01-24T10:00:00",
+          "exam_end_at": null,
+          "result_announced_at": null,
+          "enrollment_deadline_at": null,
+          "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-01-24",
+          "official_exam_key": "selection-stage-2",
+          "application_start_at": null,
+          "application_deadline_at": null,
+          "assembly_at": "2027-01-24T09:30:00",
+          "exam_subjects": "適性検査2-1・2-2、集団面接（13:00開始）。面接に発表を含む",
+          "venues": "千葉県立東葛飾中学校・千葉県立東葛飾高等学校（指定会場は受検票で確認）",
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "学校マスタ追加候補のため既存日程なし。県公式要項で志願校別の会場と二段階選抜を確認。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "venues": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.pref.chiba.lg.jp/kyouiku/shidou/kenchuu/r9bosyuuyoukou.html",
+                "locator": "HTML 第5 二次検査の実施及び入学許可候補者の内定"
+              }
+            }
+          },
+          "id": 3438,
+          "school_id": 685
+        }
+      ],
+      "commute_time": null,
+      "clubs": [],
+      "profile_sources": [
+        {
+          "id": 3815,
+          "attribute_key": "feature_summary",
+          "source_url": "https://cms1.chiba-c.ed.jp/tohkatsu-jh/1502fae0f18f8eccdb9eff3e5db7f60c/%E6%95%99%E8%82%B2%E6%96%B9%E9%87%9D",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3816,
+          "attribute_key": "feature_description",
+          "source_url": "https://cms1.chiba-c.ed.jp/tohkatsu-jh/1502fae0f18f8eccdb9eff3e5db7f60c/%E6%95%99%E8%82%B2%E6%96%B9%E9%87%9D",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3821,
+          "attribute_key": "lunch_type",
+          "source_url": "https://cms1.chiba-c.ed.jp/tohkatsu-jh/faqs/faq_questions/index/155/limit%3A100?frame_id=327",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        }
+      ]
+    },
+    {
+      "school_code": "SCH_0685",
+      "name": "明星（府中）",
+      "official_name": "明星中学校",
+      "gender_type": "共学",
+      "establishment_type": "私立",
+      "address": "東京都府中市栄町1-1",
+      "nearest_station_1": null,
+      "nearest_station_2": null,
+      "nearest_station_3": null,
+      "latitude": null,
+      "longitude": null,
+      "website_url": "https://www.meisei.ac.jp/hs/j/",
+      "history": null,
+      "education_philosophy": null,
+      "academic_record": null,
+      "facilities": null,
+      "feature_summary": "国際・理数・ICTを含む中学校の学び",
+      "feature_description": "府中の明星中学校は、教科学習で身に付ける学力と、日々の活動で培う力をともに重視しています。中学校の教育プログラムには国際教育、理数教育、ICT教育、キャリア教育があり、複数の分野から学びを広げる機会を設けています。特別選抜クラスでは教科書の学習に加えて、自分で学ぶ力を伸ばすことを重視し、長い見通しを持って希望する大学への進学に向けた学習を進めます。",
+      "lunch_type": null,
+      "uniform_policy": null,
+      "dormitory_available": null,
+      "affiliation_type": null,
+      "affiliation_name": null,
+      "scholarship_system": null,
+      "learning_support": null,
+      "high_school_progression": null,
+      "religious_background": null,
+      "international_programs": null,
+      "id": 686,
+      "exam_schedules": [
+        {
+          "exam_year": 2027,
+          "exam_date": "02-01",
+          "exam_time_period": "AM",
+          "exam_type": "一般入試 第1回",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-02-01T08:45:00",
+          "exam_end_at": null,
+          "result_announced_at": "2027-02-01T21:00:00",
+          "enrollment_deadline_at": "2027-02-06T12:00:00",
+          "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-02-01",
+          "official_exam_key": "general-round-1",
+          "application_start_at": "2027-01-10T10:00:00",
+          "application_deadline_at": "2027-01-30T23:00:00",
+          "assembly_at": "2027-02-01T08:30:00",
+          "exam_subjects": "2科または4科（最終科目終了は2科10:40・4科11:40）",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "enrollment_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第1回／p.2 選考方法・試験時間（画像確認）"
+              }
+            }
+          },
+          "id": 3439,
+          "school_id": 686
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "02-01",
+          "exam_time_period": "PM",
+          "exam_type": "一般入試 第2回（特待生選抜）",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-02-01T14:45:00",
+          "exam_end_at": "2027-02-01T16:40:00",
+          "result_announced_at": "2027-02-01T21:00:00",
+          "enrollment_deadline_at": "2027-02-06T12:00:00",
+          "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-02-01",
+          "official_exam_key": "general-round-2",
+          "application_start_at": "2027-01-10T10:00:00",
+          "application_deadline_at": "2027-01-30T23:00:00",
+          "assembly_at": "2027-02-01T14:30:00",
+          "exam_subjects": "国語・算数",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_end_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "enrollment_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第2回／p.2 選考方法・試験時間（画像確認）"
+              }
+            }
+          },
+          "id": 3440,
+          "school_id": 686
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "02-02",
+          "exam_time_period": "AM",
+          "exam_type": "一般入試 第3回",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-02-02T08:45:00",
+          "exam_end_at": null,
+          "result_announced_at": "2027-02-02T21:00:00",
+          "enrollment_deadline_at": "2027-02-06T12:00:00",
+          "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-02-02",
+          "official_exam_key": "general-round-3",
+          "application_start_at": "2027-01-10T10:00:00",
+          "application_deadline_at": "2027-02-01T23:00:00",
+          "assembly_at": "2027-02-02T08:30:00",
+          "exam_subjects": "2科または4科（最終科目終了は2科10:40・4科11:40）",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "enrollment_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第3回／p.2 選考方法・試験時間（画像確認）"
+              }
+            }
+          },
+          "id": 3441,
+          "school_id": 686
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "02-02",
+          "exam_time_period": "PM",
+          "exam_type": "一般入試 第4回",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-02-02T14:45:00",
+          "exam_end_at": "2027-02-02T16:40:00",
+          "result_announced_at": "2027-02-02T21:00:00",
+          "enrollment_deadline_at": "2027-02-06T12:00:00",
+          "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-02-02",
+          "official_exam_key": "general-round-4",
+          "application_start_at": "2027-01-10T10:00:00",
+          "application_deadline_at": "2027-02-01T23:00:00",
+          "assembly_at": "2027-02-02T14:30:00",
+          "exam_subjects": "国語・算数",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_end_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "enrollment_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第4回／p.2 選考方法・試験時間（画像確認）"
+              }
+            }
+          },
+          "id": 3442,
+          "school_id": 686
+        },
+        {
+          "exam_year": 2027,
+          "exam_date": "02-03",
+          "exam_time_period": "PM",
+          "exam_type": "一般入試 第5回",
+          "target_gender": null,
+          "capacity": null,
+          "sapix_score": null,
+          "yotsuya_score": null,
+          "nichinoken_score": null,
+          "exam_start_at": "2027-02-03T14:45:00",
+          "exam_end_at": "2027-02-03T16:40:00",
+          "result_announced_at": "2027-02-03T21:00:00",
+          "enrollment_deadline_at": "2027-02-06T12:00:00",
+          "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+          "verified_at": "2026-11-20",
+          "exam_time_note": null,
+          "result_announcement_note": null,
+          "enrollment_deadline_note": null,
+          "actual_exam_date": "2027-02-03",
+          "official_exam_key": "general-round-5",
+          "application_start_at": "2027-01-10T10:00:00",
+          "application_deadline_at": "2027-02-02T23:00:00",
+          "assembly_at": "2027-02-03T14:30:00",
+          "exam_subjects": "国語・算数",
+          "venues": null,
+          "eligibility_note": null,
+          "application_note": null,
+          "official_details": {
+            "identity_match_note": "指定PDF掲載の同校。新規学校マスタ候補に既存日程なし。公式の独立した回次を登録候補とする。",
+            "field_evidence": {
+              "exam_type": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "actual_exam_date": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_time_period": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "assembly_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "result_announced_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_subjects": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "exam_end_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_start_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "application_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              },
+              "enrollment_deadline_at": {
+                "status": "verified",
+                "source_url": "https://www.meisei.ac.jp/hs/j/admission/bth0d900000000av-att/junior.pdf",
+                "locator": "PDF 印刷p.1 募集人数・日程 第5回／p.2 選考方法・試験時間（画像確認）"
+              }
+            }
+          },
+          "id": 3443,
+          "school_id": 686
+        }
+      ],
+      "commute_time": null,
+      "clubs": [],
+      "profile_sources": [
+        {
+          "id": 3817,
+          "attribute_key": "feature_summary",
+          "source_url": "https://www.meisei.ac.jp/hs/j/education/index.html",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        },
+        {
+          "id": 3818,
+          "attribute_key": "feature_description",
+          "source_url": "https://www.meisei.ac.jp/hs/j/education/index.html",
+          "source_kind": "official_site",
+          "external_school_code": null,
+          "verified_at": "2026-11-20",
+          "source_excerpt": null,
+          "fetched_at": null,
+          "content_hash": null,
+          "invalidated_at": null,
+          "priority": null
+        }
+      ]
     }
   ],
   "commute_data": {
