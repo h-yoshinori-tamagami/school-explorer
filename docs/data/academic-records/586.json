@@ -15,6 +15,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に上智大学 4名と掲載。"
     },
     {
+      "id": 45319,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・京都女子大4名"
+    },
+    {
       "id": 32950,
       "school_id": 586,
       "academic_year": 2025,
@@ -54,17 +67,43 @@
       "source_excerpt": "Study1の2025年度大学合格実績に京都産業大学 1名と掲載。"
     },
     {
-      "id": 32963,
+      "id": 45320,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "京都薬科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・京都薬科大1名"
+    },
+    {
+      "id": 45328,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "兵庫医科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・兵庫医科大5名（うち医学部医学科1名）"
+    },
+    {
+      "id": 45332,
       "school_id": 586,
       "academic_year": 2025,
       "institution_name": "兵庫医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に兵庫医科大学 1名と掲載。"
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025の私立大表で兵庫医科大5(*1)。公式脚注「* 医学部医学科」。兵庫医科大学合計5名の医学部医学科内数。"
     },
     {
       "id": 32953,
@@ -93,19 +132,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に兵庫県立大学 2名と掲載。"
     },
     {
-      "id": 32947,
-      "school_id": 586,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 99,
-      "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 99名と掲載。"
-    },
-    {
       "id": 32938,
       "school_id": 586,
       "academic_year": 2025,
@@ -117,6 +143,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に同志社大学 10名と掲載。"
+    },
+    {
+      "id": 45321,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・同志社女子大6名"
     },
     {
       "id": 32956,
@@ -132,17 +171,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に和歌山県立医科大学 1名と掲載。"
     },
     {
-      "id": 32961,
+      "id": 45331,
       "school_id": 586,
       "academic_year": 2025,
       "institution_name": "和歌山県立医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に和歌山県立医科大学 1名と掲載。"
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025の国公立大表で和歌山県立医科大は*1。公式脚注「* 医学部医学科」。大学合計1名の医学部医学科内数。"
     },
     {
       "id": 32955,
@@ -197,6 +236,45 @@
       "source_excerpt": "Study1の2025年度大学合格実績に早稲田大学 2名と掲載。"
     },
     {
+      "id": 45315,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "明治大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・明治大2名"
+    },
+    {
+      "id": 45329,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 23,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・武庫川女子大23名"
+    },
+    {
+      "id": 45318,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "津田塾大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・津田塾大1名"
+    },
+    {
       "id": 32932,
       "school_id": 586,
       "academic_year": 2025,
@@ -208,6 +286,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に甲南大学 12名と掲載。"
+    },
+    {
+      "id": 45324,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "甲南女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・甲南女子大10名"
     },
     {
       "id": 32922,
@@ -223,6 +314,32 @@
       "source_excerpt": "Study1の2025年度大学合格実績に神戸大学 1名と掲載。"
     },
     {
+      "id": 45326,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "神戸女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・神戸女子大10名"
+    },
+    {
+      "id": 45325,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "神戸学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 30,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・神戸学院大30名"
+    },
+    {
       "id": 32952,
       "school_id": 586,
       "academic_year": 2025,
@@ -234,6 +351,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に神戸市看護大学 1名と掲載。"
+    },
+    {
+      "id": 45327,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "神戸薬科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・神戸薬科大1名"
     },
     {
       "id": 32941,
@@ -249,6 +379,19 @@
       "source_excerpt": "Study1の2025年度大学合格実績に立命館大学 7名と掲載。"
     },
     {
+      "id": 45317,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "立教大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・立教大5名"
+    },
+    {
       "id": 913,
       "school_id": 586,
       "academic_year": 2025,
@@ -262,6 +405,32 @@
       "source_excerpt": "Study1の2025年度大学合格実績に近畿大学 39名と掲載。"
     },
     {
+      "id": 45323,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "関西外国語大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 11,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・関西外国語大11名"
+    },
+    {
+      "id": 45322,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・関西大5名"
+    },
+    {
       "id": 32925,
       "school_id": 586,
       "academic_year": 2025,
@@ -273,6 +442,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に関西学院大学 21名と掲載。"
+    },
+    {
+      "id": 45316,
+      "school_id": 586,
+      "academic_year": 2025,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025・青山学院大4名"
     },
     {
       "id": 32959,
@@ -301,17 +483,17 @@
       "source_excerpt": "Study1の2025年度大学合格実績に高知大学 1名と掲載。"
     },
     {
-      "id": 32962,
+      "id": 45330,
       "school_id": 586,
       "academic_year": 2025,
       "institution_name": "高知大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に高知大学 1名と掲載。"
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2025の国公立大表で高知大は*1。公式脚注「* 医学部医学科」。高知大学合計1名の医学部医学科内数。"
     },
     {
       "id": 32944,
@@ -340,6 +522,19 @@
       "source_excerpt": "Study1の2024年度大学合格実績に上智大学 1名と掲載。"
     },
     {
+      "id": 45305,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・京都女子大3名"
+    },
+    {
       "id": 32964,
       "school_id": 586,
       "academic_year": 2024,
@@ -364,6 +559,32 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に京都産業大学 5名と掲載。"
+    },
+    {
+      "id": 45306,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "京都薬科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・京都薬科大1名"
+    },
+    {
+      "id": 45313,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "兵庫医科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・兵庫医科大4名"
     },
     {
       "id": 32967,
@@ -392,19 +613,6 @@
       "source_excerpt": "Study1の2024年度大学合格実績に兵庫県立大学 2名と掲載。"
     },
     {
-      "id": 32948,
-      "school_id": 586,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 85,
-      "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 85名と掲載。"
-    },
-    {
       "id": 32939,
       "school_id": 586,
       "academic_year": 2024,
@@ -416,6 +624,32 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に同志社大学 4名と掲載。"
+    },
+    {
+      "id": 45307,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・同志社女子大2名"
+    },
+    {
+      "id": 45303,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・大阪公立大1名"
     },
     {
       "id": 32965,
@@ -444,6 +678,32 @@
       "source_excerpt": "Study1の2024年度大学合格実績に岡山大学 1名と掲載。"
     },
     {
+      "id": 45304,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "東京農業大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・東京農業大1名"
+    },
+    {
+      "id": 45314,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 18,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・武庫川女子大18名"
+    },
+    {
       "id": 32933,
       "school_id": 586,
       "academic_year": 2024,
@@ -455,6 +715,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に甲南大学 19名と掲載。"
+    },
+    {
+      "id": 45309,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "甲南女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・甲南女子大10名"
     },
     {
       "id": 32923,
@@ -470,6 +743,32 @@
       "source_excerpt": "Study1の2024年度大学合格実績に神戸大学 1名と掲載。"
     },
     {
+      "id": 45311,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "神戸女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 26,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・神戸女子大26名"
+    },
+    {
+      "id": 45310,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "神戸学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 29,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・神戸学院大29名"
+    },
+    {
       "id": 32966,
       "school_id": 586,
       "academic_year": 2024,
@@ -481,6 +780,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に神戸市外国語大学 1名と掲載。"
+    },
+    {
+      "id": 45312,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "神戸薬科大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・神戸薬科大3名"
     },
     {
       "id": 32942,
@@ -507,6 +819,19 @@
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に近畿大学 11名と掲載。"
+    },
+    {
+      "id": 45308,
+      "school_id": 586,
+      "academic_year": 2024,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.himejikenmei.ac.jp/info/sinro.html",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "卒業年度2024・関西大5名"
     },
     {
       "id": 912,
@@ -693,8 +1018,8 @@
       "collection_status": "recheck",
       "approval_status": "pending",
       "source_url": "https://www.study1.jp/kansai/school/B29P007/univ_pass/",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "verified_at": "2026-11-19",
+      "reason": "公式進路実績の最新掲載は卒業年度2025までで、2026年度大学別人数を確認できない。Study1学校別大学合格実績の最新表示も2025年度で、2026年度の値がないため登録しない。"
     },
     {
       "id": 2045,

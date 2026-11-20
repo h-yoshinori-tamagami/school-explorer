@@ -8,11 +8,37 @@
       "institution_name": "下関市立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に下関市立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「下関市立」、学部欄「経済1」、合計1名。"
+    },
+    {
+      "id": 45622,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "中央大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度主要私立大学。公式表記「中央」、学部欄「商2」、合計2名。過年度卒の内数2名（公式脚注）。"
+    },
+    {
+      "id": 45695,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "久留米大学",
+      "faculty_name": "医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「久留米」「医-医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33143,
@@ -21,11 +47,11 @@
       "institution_name": "九州大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に九州大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「九州」、学部欄「経済1」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33145,
@@ -34,11 +60,24 @@
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に京都大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「京都」、学部欄「工1」、合計1名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45703,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "京都橘大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「京都橘」「看護」2名。大学行の[ ]は過年度卒内数2名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33152,
@@ -47,11 +86,37 @@
       "institution_name": "京都産業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に京都産業大学 5名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度他私立大学。公式表記「京都産業」、学部欄「経済3、外国語2」、合計5名。"
+    },
+    {
+      "id": 45699,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "京都薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「京都薬科」「薬」1名。"
+    },
+    {
+      "id": 45702,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "兵庫医科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「兵庫医科」「薬」1名。"
     },
     {
       "id": 33183,
@@ -60,11 +125,11 @@
       "institution_name": "兵庫県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に兵庫県立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「兵庫県立」、学部欄「国際商経1」、合計1名。"
     },
     {
       "id": 33173,
@@ -73,11 +138,11 @@
       "institution_name": "北見工業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に北見工業大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「北見工業」、学部欄「工1」、合計1名。"
     },
     {
       "id": 33175,
@@ -86,24 +151,11 @@
       "institution_name": "千葉大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に千葉大学 1名と掲載。"
-    },
-    {
-      "id": 33171,
-      "school_id": 590,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 232,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 232名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「千葉」、学部欄「教育1」、合計1名。"
     },
     {
       "id": 33160,
@@ -112,11 +164,37 @@
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 6,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に同志社大学 6名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度主要私立大学。公式表記「同志社」、学部欄「商2、文2、理工2」、合計6名。過年度卒の内数4名（公式脚注）。"
+    },
+    {
+      "id": 45623,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度他私立大学。公式表記「同志社女子」、学部欄「現代社会1、看護1、生活科6」、合計8名。"
+    },
+    {
+      "id": 45704,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "同志社女子大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「同志社女子」「看護」1名。"
     },
     {
       "id": 33187,
@@ -125,11 +203,63 @@
       "institution_name": "和歌山県立医科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に和歌山県立医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「和歌山県立医科」、学部欄「薬1」、合計1名。"
+    },
+    {
+      "id": 45688,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "和歌山県立医科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「和歌山県立医科」「薬」1名。"
+    },
+    {
+      "id": 45707,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "四天王寺大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「四天王寺」「看護」1名。"
+    },
+    {
+      "id": 45620,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「大阪公立」、学部欄「医-医1、工2、農2、生活科1」、合計6名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45687,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪公立大学",
+      "faculty_name": "医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪公立」「医-医」1名。"
     },
     {
       "id": 33195,
@@ -138,11 +268,37 @@
       "institution_name": "大阪医科薬科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に大阪医科薬科大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪医科薬科」「医-医」2名。大学行の[ ]は過年度卒内数4名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45693,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪医科薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪医科薬科」「薬」5名。大学行の[ ]は過年度卒内数4名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45705,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪成蹊大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪成蹊」「看護」2名。"
     },
     {
       "id": 33181,
@@ -151,11 +307,63 @@
       "institution_name": "大阪教育大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に大阪教育大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「大阪教育」、学部欄「教育2」、合計2名。"
+    },
+    {
+      "id": 45698,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪歯科大学",
+      "faculty_name": "医療保健",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪歯科」「医療保健」2名。"
+    },
+    {
+      "id": 45696,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪歯科大学",
+      "faculty_name": "歯学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪歯科」「歯」1名。"
+    },
+    {
+      "id": 45697,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "大阪歯科大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「大阪歯科」「看護」1名。"
+    },
+    {
+      "id": 45712,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "奈良学園大学",
+      "faculty_name": "保健医療",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「奈良学園」「保健医療」1名。"
     },
     {
       "id": 33184,
@@ -164,11 +372,11 @@
       "institution_name": "奈良教育大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に奈良教育大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「奈良教育」、学部欄「教育1」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33186,
@@ -177,11 +385,11 @@
       "institution_name": "奈良県立医科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に奈良県立医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「奈良県立医科」、学部欄「医-医1」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33194,
@@ -190,11 +398,11 @@
       "institution_name": "奈良県立医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に奈良県立医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「奈良県立医科」「医-医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33185,
@@ -203,11 +411,11 @@
       "institution_name": "奈良県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に奈良県立大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「奈良県立」、学部欄「地域創造2」、合計2名。"
     },
     {
       "id": 33174,
@@ -216,11 +424,11 @@
       "institution_name": "室蘭工業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に室蘭工業大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「室蘭工業」、学部欄「理工1」、合計1名。"
     },
     {
       "id": 33177,
@@ -229,11 +437,24 @@
       "institution_name": "富山大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に富山大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「富山」、学部欄「医-看護1」、合計1名。"
+    },
+    {
+      "id": 45686,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "富山大学",
+      "faculty_name": "医-看護",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「富山」「医-看護」1名。"
     },
     {
       "id": 33178,
@@ -242,11 +463,24 @@
       "institution_name": "富山県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に富山県立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「富山県立」、学部欄「看護1」、合計1名。"
+    },
+    {
+      "id": 45690,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "富山県立大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「富山県立」「看護」1名。"
     },
     {
       "id": 33191,
@@ -255,11 +489,11 @@
       "institution_name": "山口大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に山口大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「山口」、学部欄「理1」、合計1名。"
     },
     {
       "id": 33192,
@@ -268,11 +502,24 @@
       "institution_name": "山陽小野田市立山口東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に山陽小野田市立山口東京理科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「山陽小野田市立山口東京理科」、学部欄「薬1」、合計1名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45689,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "山陽小野田市立山口東京理科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「山陽小野田市立山口東京理科」「薬」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33189,
@@ -281,11 +528,11 @@
       "institution_name": "岡山大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に岡山大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「岡山」、学部欄「農1」、合計1名。"
     },
     {
       "id": 33199,
@@ -294,11 +541,11 @@
       "institution_name": "岩手医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に岩手医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「岩手医科」「医-医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33193,
@@ -307,11 +554,63 @@
       "institution_name": "徳島大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 7,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に徳島大学 7名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「徳島」、学部欄「医-保健1、薬1、理工4、理工(夜)1」、合計7名。"
+    },
+    {
+      "id": 45685,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "徳島大学",
+      "faculty_name": "医-保健",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「徳島」「医-保健」1名。"
+    },
+    {
+      "id": 45684,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "徳島大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「徳島」「薬」1名。"
+    },
+    {
+      "id": 45701,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "摂南大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「摂南」「看護」1名。"
+    },
+    {
+      "id": 45700,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "摂南大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「摂南」「薬」3名。"
     },
     {
       "id": 33176,
@@ -320,11 +619,37 @@
       "institution_name": "新潟大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に新潟大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「新潟」、学部欄「工1」、合計1名。"
+    },
+    {
+      "id": 45624,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度他私立大学。公式表記「武庫川女子」、学部欄「経営1、看護1、食物栄養科1」、合計3名。"
+    },
+    {
+      "id": 45710,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「武庫川女子」「看護」1名。"
     },
     {
       "id": 33180,
@@ -333,11 +658,37 @@
       "institution_name": "滋賀県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に滋賀県立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「滋賀県立」、学部欄「環境科1」、合計1名。"
+    },
+    {
+      "id": 45708,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "甲南女子大学",
+      "faculty_name": "看護リハビリテーション",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「甲南女子」「看護リハビリテーション」2名。"
+    },
+    {
+      "id": 45711,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "畿央大学",
+      "faculty_name": "健康科",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「畿央」「健康科」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33182,
@@ -346,11 +697,24 @@
       "institution_name": "神戸市外国語大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に神戸市外国語大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「神戸市外国語」、学部欄「外国語1」、合計1名。"
+    },
+    {
+      "id": 45709,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "神戸常盤大学",
+      "faculty_name": "保健科",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「神戸常盤」「保健科」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33179,
@@ -359,11 +723,11 @@
       "institution_name": "福井大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に福井大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「福井」、学部欄「工1」、合計1名。"
     },
     {
       "id": 33164,
@@ -372,11 +736,11 @@
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に立命館大学 5名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度主要私立大学。公式表記「立命館」、学部欄「文2、食マネジメント2、生命科1」、合計5名。"
     },
     {
       "id": 33198,
@@ -385,11 +749,11 @@
       "institution_name": "藤田医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に藤田医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「藤田医科」「医-医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 924,
@@ -398,11 +762,11 @@
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 186,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に近畿大学 186名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度近畿大学学部別表の小計186名。過年度卒の内数14名（公式脚注）。"
     },
     {
       "id": 33197,
@@ -411,11 +775,63 @@
       "institution_name": "近畿大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に近畿大学 4名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「近畿」「医-医」4名。大学行の[ ]は過年度卒内数5名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45692,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "近畿大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「近畿」「看護」2名。大学行の[ ]は過年度卒内数5名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45691,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "近畿大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 10,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「近畿」「薬」10名。大学行の[ ]は過年度卒内数5名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45706,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "関西医療大学",
+      "faculty_name": "保健看護",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「関西医療」「保健看護」1名。"
+    },
+    {
+      "id": 45694,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "関西医科大学",
+      "faculty_name": "リハビリテーション",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「関西医科」「リハビリテーション」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33196,
@@ -424,11 +840,24 @@
       "institution_name": "関西医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に関西医科大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度医・歯・薬・保健系内数の内数。公式表記「関西医科」「医-医」2名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45621,
+      "school_id": 590,
+      "academic_year": 2026,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 26,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度主要私立大学。公式表記「関西」、学部欄「法6、外国語1、文6、社会安全4、人間健康1、システム理工4、環境都市工1、化学生命工3」、合計26名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33149,
@@ -437,11 +866,11 @@
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に関西学院大学 3名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度主要私立大学。公式表記「関西学院」、学部欄「国際1、人間福祉1、教育1」、合計3名。"
     },
     {
       "id": 33188,
@@ -450,11 +879,11 @@
       "institution_name": "鳥取大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に鳥取大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度国公立大学。公式表記「鳥取」、学部欄「農1」、合計1名。"
     },
     {
       "id": 33167,
@@ -463,11 +892,11 @@
       "institution_name": "龍谷大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 24,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に龍谷大学 24名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2026.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2026年度他私立大学。公式表記「龍谷」、学部欄「経済1、経営1、先端理工20、農2」、合計24名。過年度卒の内数5名（公式脚注）。"
     },
     {
       "id": 33158,
@@ -476,11 +905,24 @@
       "institution_name": "上智大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に上智大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度主要他私立大学。公式表記「上智」、学部欄「外国語1」、合計1名。"
+    },
+    {
+      "id": 45614,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "京都外国語大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「京都外国語」、学部欄「外国語4」、合計4名。"
     },
     {
       "id": 33146,
@@ -489,11 +931,11 @@
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に京都大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「京都」、学部欄「経済1、農1」、合計2名。"
     },
     {
       "id": 33211,
@@ -502,11 +944,24 @@
       "institution_name": "京都工芸繊維大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に京都工芸繊維大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「京都工芸繊維」、学部欄「工芸科2」、合計2名。"
+    },
+    {
+      "id": 45669,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "京都橘大学",
+      "faculty_name": "健康科",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「京都橘」「健康科」5名。"
     },
     {
       "id": 33153,
@@ -515,11 +970,24 @@
       "institution_name": "京都産業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に京都産業大学 3名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「京都産業」、学部欄「経営1、文化2(2)」、合計3名。過年度卒の内数2名（公式脚注）。"
+    },
+    {
+      "id": 45667,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "兵庫医科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「兵庫医科」「薬」1名。学部欄の括弧内1は原表記で保持し、現役/既卒とは解釈しない。"
     },
     {
       "id": 33213,
@@ -528,11 +996,11 @@
       "institution_name": "兵庫県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に兵庫県立大学 4名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「兵庫県立」、学部欄「理2、工1、環境人間1」、合計4名。"
     },
     {
       "id": 33200,
@@ -541,11 +1009,11 @@
       "institution_name": "北見工業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に北見工業大学 3名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「北見工業」、学部欄「工3」、合計3名。"
     },
     {
       "id": 33161,
@@ -554,11 +1022,37 @@
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に同志社大学 3名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度主要他私立大学。公式表記「同志社」、学部欄「理工3」、合計3名。"
+    },
+    {
+      "id": 45616,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「同志社女子」、学部欄「学芸2、看護1」、合計3名。"
+    },
+    {
+      "id": 45670,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "同志社女子大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「同志社女子」「看護」1名。"
     },
     {
       "id": 33217,
@@ -567,11 +1061,63 @@
       "institution_name": "和歌山大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 4,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に和歌山大学 4名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「和歌山」、学部欄「システム工4」、合計4名。"
+    },
+    {
+      "id": 45612,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「大阪公立」、学部欄「法1、理2、工1、農1、看護1」、合計6名。"
+    },
+    {
+      "id": 45658,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪公立大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「大阪公立」「看護」1名。"
+    },
+    {
+      "id": 45672,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪医科薬科大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「大阪医科薬科」「看護」2名。"
+    },
+    {
+      "id": 45671,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪医科薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「大阪医科薬科」「薬」3名。学部欄の括弧内3は原表記で保持し、現役/既卒とは解釈しない。"
     },
     {
       "id": 33141,
@@ -580,11 +1126,24 @@
       "institution_name": "大阪大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に大阪大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「大阪」、学部欄「外国語1、基礎工1」、合計2名。"
+    },
+    {
+      "id": 45679,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪成蹊大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「大阪成蹊」「看護」1名。"
     },
     {
       "id": 33212,
@@ -593,11 +1152,37 @@
       "institution_name": "大阪教育大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に大阪教育大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「大阪教育」、学部欄「教育1」、合計1名。"
+    },
+    {
+      "id": 45675,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪歯科大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「大阪歯科」「看護」4名。"
+    },
+    {
+      "id": 45678,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "大阪青山大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「大阪青山」「看護」1名。"
     },
     {
       "id": 33214,
@@ -606,11 +1191,11 @@
       "institution_name": "奈良教育大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に奈良教育大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「奈良教育」、学部欄「教育1」、合計1名。"
     },
     {
       "id": 33216,
@@ -619,11 +1204,24 @@
       "institution_name": "奈良県立医科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に奈良県立医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「奈良県立医科」、学部欄「医-看護1」、合計1名。"
+    },
+    {
+      "id": 45659,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "奈良県立医科大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「奈良県立医科」「看護」1名。"
     },
     {
       "id": 33215,
@@ -632,11 +1230,11 @@
       "institution_name": "奈良県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に奈良県立大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「奈良県立」、学部欄「地域創造2」、合計2名。"
     },
     {
       "id": 33205,
@@ -645,11 +1243,11 @@
       "institution_name": "富山大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に富山大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「富山」、学部欄「医-医1」、合計1名。"
     },
     {
       "id": 33222,
@@ -658,11 +1256,11 @@
       "institution_name": "富山大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に富山大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「富山」「医-医」1名。"
     },
     {
       "id": 33202,
@@ -671,11 +1269,11 @@
       "institution_name": "山形大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に山形大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「山形」、学部欄「工1、農1」、合計2名。"
     },
     {
       "id": 33218,
@@ -684,11 +1282,37 @@
       "institution_name": "岡山大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に岡山大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「岡山」、学部欄「経済夜1」、合計1名。"
+    },
+    {
+      "id": 45683,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "岡山理科大学",
+      "faculty_name": "獣医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「岡山理科」「獣医」4名。学部欄の括弧内1は原表記で保持し、現役/既卒とは解釈しない。"
+    },
+    {
+      "id": 45681,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "帝京大学",
+      "faculty_name": "医療技術",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「帝京」「医療技術」1名。学部欄の括弧内1は原表記で保持し、現役/既卒とは解釈しない。"
     },
     {
       "id": 33219,
@@ -697,11 +1321,37 @@
       "institution_name": "徳島大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に徳島大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「徳島」、学部欄「医-医科栄養1」、合計1名。"
+    },
+    {
+      "id": 45657,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "徳島大学",
+      "faculty_name": "医科栄養",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「徳島」「医科栄養」1名。"
+    },
+    {
+      "id": 45661,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "愛知学院大学",
+      "faculty_name": "歯学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「愛知学院」「歯」4名。"
     },
     {
       "id": 33209,
@@ -710,11 +1360,50 @@
       "institution_name": "愛知県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に愛知県立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「愛知県立」、学部欄「外国語1」、合計1名。"
+    },
+    {
+      "id": 45666,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "摂南大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「摂南」「薬」4名。"
+    },
+    {
+      "id": 45618,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "明治学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「明治学院」、学部欄「社会1」、合計1名。"
+    },
+    {
+      "id": 45662,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "朝日大学",
+      "faculty_name": "歯学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「朝日」「歯」1名。"
     },
     {
       "id": 33163,
@@ -723,11 +1412,50 @@
       "institution_name": "東京理科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に東京理科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度主要他私立大学。公式表記「東京理科」、学部欄「理1」、合計1名。"
+    },
+    {
+      "id": 45663,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "松本歯科大学",
+      "faculty_name": "歯学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「松本歯科」「歯」1名。"
+    },
+    {
+      "id": 45676,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "森ノ宮医療大学",
+      "faculty_name": "医療技術",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「森ノ宮医療」「医療技術」3名。"
+    },
+    {
+      "id": 45677,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "森ノ宮医療大学",
+      "faculty_name": "総合リハビリテーション",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「森ノ宮医療」「総合リハビリテーション」1名。"
     },
     {
       "id": 33204,
@@ -736,11 +1464,50 @@
       "institution_name": "横浜国立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に横浜国立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「横浜国立」、学部欄「理工1」、合計1名。"
+    },
+    {
+      "id": 45617,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「武庫川女子」、学部欄「薬2、看護1、食物栄養科1」、合計4名。"
+    },
+    {
+      "id": 45680,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「武庫川女子」「看護」1名。"
+    },
+    {
+      "id": 45668,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「武庫川女子」「薬」2名。"
     },
     {
       "id": 33210,
@@ -749,11 +1516,11 @@
       "institution_name": "滋賀大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に滋賀大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「滋賀」、学部欄「経済1」、合計1名。"
     },
     {
       "id": 33156,
@@ -762,11 +1529,24 @@
       "institution_name": "甲南大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に甲南大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「甲南」、学部欄「理工1」、合計1名。"
+    },
+    {
+      "id": 45665,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "神戸薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「神戸薬科」「薬」2名。"
     },
     {
       "id": 33207,
@@ -775,11 +1555,11 @@
       "institution_name": "福井大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に福井大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「福井」、学部欄「工1」、合計1名。"
     },
     {
       "id": 33165,
@@ -788,11 +1568,24 @@
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 12,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に立命館大学 12名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度主要他私立大学。公式表記「立命館」、学部欄「法1、経済2、経営2、政策科1、映像4、生命科1、薬1」、合計12名。"
+    },
+    {
+      "id": 45664,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "立命館大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「立命館」「薬」1名。"
     },
     {
       "id": 923,
@@ -801,11 +1594,11 @@
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 179,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に近畿大学 179名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度近畿大学学部別表の小計179名。公式表の過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33223,
@@ -814,11 +1607,24 @@
       "institution_name": "近畿大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に近畿大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「近畿」「医-医」2名。"
+    },
+    {
+      "id": 45660,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "近畿大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「近畿」「薬」6名。学部欄の括弧内1は原表記で保持し、現役/既卒とは解釈しない。"
     },
     {
       "id": 33208,
@@ -827,11 +1633,11 @@
       "institution_name": "都留文科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に都留文科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「都留文科」、学部欄「教養1」、合計1名。"
     },
     {
       "id": 33206,
@@ -840,11 +1646,24 @@
       "institution_name": "金沢大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に金沢大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「金沢」、学部欄「医薬保健-保健1」、合計1名。"
+    },
+    {
+      "id": 45656,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "金沢大学",
+      "faculty_name": "医薬保健-保健",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「金沢」「医薬保健-保健」1名。"
     },
     {
       "id": 33201,
@@ -853,11 +1672,63 @@
       "institution_name": "釧路公立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に釧路公立大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「釧路公立」、学部欄「経済2」、合計2名。"
+    },
+    {
+      "id": 45674,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "関西医科大学",
+      "faculty_name": "リハビリテーション",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「関西医科」「リハビリテーション」1名。"
+    },
+    {
+      "id": 45673,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "関西医科大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「関西医科」「看護」5名。"
+    },
+    {
+      "id": 45615,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "関西外国語大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「関西外国語」、学部欄「外国語5」、合計5名。"
+    },
+    {
+      "id": 45613,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 28,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度主要他私立大学。公式表記「関西」、学部欄「法4、経済1、文1、社会安全2、人間健康1、システム理工12、環境都市工3、化学生命工4」、合計28名。"
     },
     {
       "id": 33150,
@@ -866,11 +1737,11 @@
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 12,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に関西学院大学 12名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度主要他私立大学。公式表記「関西学院」、学部欄「法1、経済1、商1、文2、工5、生命環境2」、合計12名。"
     },
     {
       "id": 33203,
@@ -879,11 +1750,24 @@
       "institution_name": "電気通信大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に電気通信大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「電気通信」、学部欄「情報理工1」、合計1名。"
+    },
+    {
+      "id": 45619,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "順天堂大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「順天堂」、学部欄「スポーツ健康科1」、合計1名。"
     },
     {
       "id": 33220,
@@ -892,11 +1776,11 @@
       "institution_name": "香川大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に香川大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「香川」、学部欄「教育1」、合計1名。"
     },
     {
       "id": 33221,
@@ -905,11 +1789,24 @@
       "institution_name": "高知工科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に高知工科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度国公立大学。公式表記「高知工科」、学部欄「システム工1(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45682,
+      "school_id": 590,
+      "academic_year": 2025,
+      "institution_name": "麻布大学",
+      "faculty_name": "獣医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度医・歯・薬・保健・獣医系内数の内数。公式表記「麻布」「獣医」1名。学部欄の括弧内1は原表記で保持し、現役/既卒とは解釈しない。"
     },
     {
       "id": 33168,
@@ -918,11 +1815,11 @@
       "institution_name": "龍谷大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 12,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に龍谷大学 12名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2025.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2025年度他私立大学。公式表記「龍谷」、学部欄「国際5、先端理工3、農4」、合計12名。"
     },
     {
       "id": 33159,
@@ -944,11 +1841,24 @@
       "institution_name": "下関市立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に下関市立大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「下関市立」、学部欄「経済(2)」、合計2名。"
+    },
+    {
+      "id": 45605,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "中央大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「中央」、学部欄「文(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33144,
@@ -957,11 +1867,11 @@
       "institution_name": "九州大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に九州大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「九州」、学部欄「工(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33147,
@@ -970,11 +1880,24 @@
       "institution_name": "京都大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に京都大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「京都」、学部欄「医-人間健康(1)」、合計1名。"
+    },
+    {
+      "id": 45609,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "京都女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「京都女子」、学部欄「法(1) 文(1) 発達教育(3)」、合計5名。"
     },
     {
       "id": 33229,
@@ -983,11 +1906,11 @@
       "institution_name": "京都工芸繊維大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に京都工芸繊維大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「京都工芸繊維」、学部欄「工芸科(1)」、合計1名。"
     },
     {
       "id": 33230,
@@ -996,11 +1919,24 @@
       "institution_name": "京都府立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に京都府立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「京都府立」、学部欄「生命理工情報(1)」、合計1名。"
+    },
+    {
+      "id": 45642,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "京都橘大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 4,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「京都橘」「看護」4名。"
     },
     {
       "id": 33154,
@@ -1009,11 +1945,24 @@
       "institution_name": "京都産業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 9,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に京都産業大学 9名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「京都産業」、学部欄「経済(2) 文化(2) 生命科(5)」、合計9名。"
+    },
+    {
+      "id": 45631,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "京都薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「京都薬科」「薬」3名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33227,
@@ -1022,11 +1971,24 @@
       "institution_name": "信州大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に信州大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「信州」、学部欄「農(1)」、合計1名。"
+    },
+    {
+      "id": 45639,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "兵庫医科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「兵庫医科」「薬」2名。"
     },
     {
       "id": 33233,
@@ -1035,11 +1997,24 @@
       "institution_name": "兵庫県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に兵庫県立大学 3名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「兵庫県立」、学部欄「社会情報科(1) 理(1) 工(1)」、合計3名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45654,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "創価大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「創価」「看護」1名。"
     },
     {
       "id": 33224,
@@ -1048,24 +2023,11 @@
       "institution_name": "北見工業大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に北見工業大学 3名と掲載。"
-    },
-    {
-      "id": 33172,
-      "school_id": 590,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 248,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 248名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「北見工業」、学部欄「工(3)」、合計3名。"
     },
     {
       "id": 33162,
@@ -1074,11 +2036,141 @@
       "institution_name": "同志社大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 19,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に同志社大学 19名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度関関同立。公式表記「同志社」、学部欄「法(1) 経済(1) 社会(2) 心理(1) グローバル・コミュニケーション(2) グローバル地域文化(1) スポーツ健康科(1) 理工(9) 生命医科(1)」、合計19名。過年度卒の内数6名（公式脚注）。"
+    },
+    {
+      "id": 45608,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "同志社女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「同志社女子」、学部欄「学芸(1) 生活科(1)」、合計2名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45635,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "同志社女子大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「同志社女子」「看護」2名。"
+    },
+    {
+      "id": 45634,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "同志社女子大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「同志社女子」「薬」2名。"
+    },
+    {
+      "id": 45600,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "和歌山大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「和歌山」、学部欄「システム工(1)」、合計1名。"
+    },
+    {
+      "id": 45602,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "国際教養大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「国際教養」、学部欄「国際教養(1)」、合計1名。"
+    },
+    {
+      "id": 45648,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大和大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「大和」「看護」8名。"
+    },
+    {
+      "id": 45651,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大手前大学",
+      "faculty_name": "国際看護",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「大手前」「国際看護」1名。"
+    },
+    {
+      "id": 45650,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大阪信愛学院大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「大阪信愛学院」「看護」1名。"
+    },
+    {
+      "id": 45601,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大阪公立大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「大阪公立」、学部欄「経済(1) 法(1) 現代システム科(3) 理(1) 工(2)」、合計8名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45632,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大阪医科薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「大阪医科薬科」「薬」2名。"
     },
     {
       "id": 33142,
@@ -1087,11 +2179,24 @@
       "institution_name": "大阪大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に大阪大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「大阪」、学部欄「外国語(2)」、合計2名。"
+    },
+    {
+      "id": 45640,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大阪大谷大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 8,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「大阪大谷」「薬」8名。"
     },
     {
       "id": 33231,
@@ -1100,11 +2205,24 @@
       "institution_name": "大阪教育大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に大阪教育大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「大阪教育」、学部欄「教育(2)」、合計2名。"
+    },
+    {
+      "id": 45627,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "大阪歯科大学",
+      "faculty_name": "口腔保健",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「大阪歯科」「口腔保健」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33236,
@@ -1113,11 +2231,11 @@
       "institution_name": "奈良女子大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に奈良女子大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「奈良女子」、学部欄「理(1)」、合計1名。"
     },
     {
       "id": 33234,
@@ -1139,11 +2257,24 @@
       "institution_name": "奈良県立医科大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に奈良県立医科大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「奈良県立医科」、学部欄「医-看護(2)」、合計2名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45649,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "宝塚大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「宝塚」「看護」1名。"
     },
     {
       "id": 33247,
@@ -1152,11 +2283,24 @@
       "institution_name": "宮崎公立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に宮崎公立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「宮崎公立」、学部欄「人文(1)」、合計1名。"
+    },
+    {
+      "id": 45629,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "岡山理科大学",
+      "faculty_name": "獣医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「岡山理科」「獣医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33239,
@@ -1165,11 +2309,11 @@
       "institution_name": "岡山県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に岡山県立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「岡山県立」、学部欄「情報工(1)」、合計1名。"
     },
     {
       "id": 33225,
@@ -1178,11 +2322,11 @@
       "institution_name": "岩手大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に岩手大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「岩手」、学部欄「農(1)」、合計1名。"
     },
     {
       "id": 33238,
@@ -1191,11 +2335,11 @@
       "institution_name": "島根大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に島根大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「島根」、学部欄「生物資源(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33240,
@@ -1204,11 +2348,11 @@
       "institution_name": "広島市立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に広島市立大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「広島市立」、学部欄「情報科(1)」、合計1名。"
     },
     {
       "id": 33242,
@@ -1217,11 +2361,24 @@
       "institution_name": "徳島大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に徳島大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「徳島」、学部欄「理工(1)」、合計1名。"
+    },
+    {
+      "id": 45641,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "徳島文理大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「徳島文理」「薬」2名。大学行の[ ]は過年度卒内数2名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33243,
@@ -1230,11 +2387,11 @@
       "institution_name": "愛媛大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に愛媛大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「愛媛」、学部欄「医-医(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33249,
@@ -1243,11 +2400,11 @@
       "institution_name": "愛媛大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に愛媛大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立の医・歯・薬・保健系学部内数の内数。公式表記「愛媛」「医-医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33252,
@@ -1256,11 +2413,11 @@
       "institution_name": "愛知医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に愛知医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「愛知医科」「医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33155,
@@ -1269,11 +2426,37 @@
       "institution_name": "慶應義塾大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に慶應義塾大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「慶應義塾」、学部欄「理工(1)」、合計1名。"
+    },
+    {
+      "id": 45637,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "摂南大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「摂南」「看護」6名。大学行の[ ]は過年度卒内数2名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45636,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "摂南大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「摂南」「薬」6名。大学行の[ ]は過年度卒内数2名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33170,
@@ -1282,11 +2465,89 @@
       "institution_name": "早稲田大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に早稲田大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「早稲田」、学部欄「国際教養(1)」、合計1名。"
+    },
+    {
+      "id": 45606,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "東洋大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「東洋」、学部欄「文(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45645,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "森ノ宮医療大学",
+      "faculty_name": "保健医療",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「森ノ宮医療」「保健医療」3名。"
+    },
+    {
+      "id": 45647,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "森ノ宮医療大学",
+      "faculty_name": "医療技術",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「森ノ宮医療」「医療技術」1名。"
+    },
+    {
+      "id": 45646,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "森ノ宮医療大学",
+      "faculty_name": "総合リハビリテーション",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 3,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「森ノ宮医療」「総合リハビリテーション」3名。"
+    },
+    {
+      "id": 45610,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 6,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「武庫川女子」、学部欄「文(4) 食物栄養科(2)」、合計6名。"
+    },
+    {
+      "id": 45638,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "武庫川女子大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「武庫川女子」「薬」2名。"
     },
     {
       "id": 33248,
@@ -1295,11 +2556,11 @@
       "institution_name": "海上保安大学校",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に海上保安大学校 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度文科省管轄外。公式表記「海上保安大学校」、学部欄「(1)」、合計1名。"
     },
     {
       "id": 33228,
@@ -1308,11 +2569,11 @@
       "institution_name": "滋賀県立大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に滋賀県立大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「滋賀県立」、学部欄「人間文化科(1) 環境科(1)」、合計2名。"
     },
     {
       "id": 33246,
@@ -1321,11 +2582,11 @@
       "institution_name": "熊本大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に熊本大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「熊本」、学部欄「理(1)」、合計1名。"
     },
     {
       "id": 33157,
@@ -1334,11 +2595,37 @@
       "institution_name": "甲南大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に甲南大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「甲南」、学部欄「経営(2)」、合計2名。"
+    },
+    {
+      "id": 45653,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "甲南女子大学",
+      "faculty_name": "医療栄養",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「甲南女子」「医療栄養」1名。"
+    },
+    {
+      "id": 45643,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "畿央大学",
+      "faculty_name": "健康科",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 9,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「畿央」「健康科」9名。"
     },
     {
       "id": 33148,
@@ -1347,11 +2634,11 @@
       "institution_name": "神戸大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 3,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に神戸大学 3名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「神戸」、学部欄「国際人間科(2) 海洋政策科(1)」、合計3名。"
     },
     {
       "id": 33232,
@@ -1360,11 +2647,50 @@
       "institution_name": "神戸市看護大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に神戸市看護大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「神戸市看護」、学部欄「看護(1)」、合計1名。"
+    },
+    {
+      "id": 45652,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "神戸常盤大学",
+      "faculty_name": "保健科",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「神戸常盤」「保健科」1名。"
+    },
+    {
+      "id": 45633,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "神戸薬科大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「神戸薬科」「薬」1名。"
+    },
+    {
+      "id": 45607,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "立命館アジア太平洋大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「立命館アジア太平洋」、学部欄「アジア太平洋(1) 国際経営(1)」、合計2名。"
     },
     {
       "id": 33166,
@@ -1373,11 +2699,24 @@
       "institution_name": "立命館大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 21,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に立命館大学 21名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度関関同立。公式表記「立命館」、学部欄「経済(1) 経営(6) 政策科(1) 文(1) 総合心理(1) 国際関係(1) 理工(4) 情報理工(4) 薬(2)」、合計21名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45630,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "立命館大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「立命館」「薬」2名。"
     },
     {
       "id": 33253,
@@ -1386,11 +2725,11 @@
       "institution_name": "藤田医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に藤田医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「藤田医科」「医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 922,
@@ -1399,11 +2738,11 @@
       "institution_name": "近畿大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 188,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に近畿大学 188名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度近畿大学学部別表の小計188名。公式表の過年度卒の内数12名（公式脚注）。"
     },
     {
       "id": 33251,
@@ -1412,11 +2751,37 @@
       "institution_name": "近畿大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に近畿大学 5名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「近畿」「医」5名。"
+    },
+    {
+      "id": 45625,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "近畿大学",
+      "faculty_name": "薬学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 5,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「近畿」「薬」5名。"
+    },
+    {
+      "id": 45628,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "酪農学園大学",
+      "faculty_name": "獣医学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 2,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「酪農学園」「獣医」2名。"
     },
     {
       "id": 33254,
@@ -1425,11 +2790,11 @@
       "institution_name": "金沢医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に金沢医科大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「金沢医科」「医」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
     },
     {
       "id": 33226,
@@ -1438,11 +2803,24 @@
       "institution_name": "金沢大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に金沢大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「金沢」、学部欄「文系一括(1)」、合計1名。"
+    },
+    {
+      "id": 45655,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "鈴鹿医療科学大学",
+      "faculty_name": "保健衛生",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「鈴鹿医療科学」「保健衛生」1名。"
     },
     {
       "id": 33245,
@@ -1451,11 +2829,24 @@
       "institution_name": "長崎大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に長崎大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「長崎」、学部欄「経済(1)」、合計1名。過年度卒の内数1名（公式脚注）。"
+    },
+    {
+      "id": 45644,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "関西医療大学",
+      "faculty_name": "保健看護",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「関西医療」「保健看護」1名。"
     },
     {
       "id": 33250,
@@ -1464,11 +2855,50 @@
       "institution_name": "関西医科大学",
       "faculty_name": "医学部",
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に関西医科大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「関西医科」「医」2名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45626,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "関西医科大学",
+      "faculty_name": "看護学部",
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度公式「医・歯・薬・保健系学部（私立大学）」系統別表。大学全体の人数へ加算しない。公式表記「関西医科」「看護」1名。大学行の[ ]は過年度卒内数1名（公式脚注）で、学部・系統別には配分されていない。"
+    },
+    {
+      "id": 45611,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "関西外国語大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 13,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「関西外国語」、学部欄「外国語(9) 英語国際(4)」、合計13名。"
+    },
+    {
+      "id": 45603,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "関西大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 35,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度関関同立。公式表記「関西」、学部欄「法(3) 経済(3) 文(3) 政策創造(1) 外国語(3) 社会安全(1) 総合情報(1) システム理工(9) 環境都市工(6) 化学生命工(5)」、合計35名。過年度卒の内数1名（公式脚注）。"
     },
     {
       "id": 33151,
@@ -1477,11 +2907,24 @@
       "institution_name": "関西学院大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 19,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に関西学院大学 19名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度関関同立。公式表記「関西学院」、学部欄「法(1) 経済(3) 商(2) 社会(1) 文(3) 人間福祉(1) 工(5) 建築(2) 生命環境(1)」、合計19名。過年度卒の内数3名（公式脚注）。"
+    },
+    {
+      "id": 45604,
+      "school_id": 590,
+      "academic_year": 2024,
+      "institution_name": "青山学院大学",
+      "faculty_name": null,
+      "outcome_type": "admissions",
+      "source_kind": "official_site",
+      "count": 1,
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「青山学院」、学部欄「理工(1)」、合計1名。"
     },
     {
       "id": 33244,
@@ -1490,11 +2933,11 @@
       "institution_name": "高知大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 1,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に高知大学 1名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「高知」、学部欄「教育(1)」、合計1名。"
     },
     {
       "id": 33237,
@@ -1503,11 +2946,11 @@
       "institution_name": "鳥取大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 2,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に鳥取大学 2名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度国公立大学。公式表記「鳥取」、学部欄「医-保健(1) 農(1)」、合計2名。"
     },
     {
       "id": 33169,
@@ -1516,11 +2959,11 @@
       "institution_name": "龍谷大学",
       "faculty_name": null,
       "outcome_type": "admissions",
-      "source_kind": "study1",
+      "source_kind": "official_site",
       "count": 5,
-      "source_url": "https://www.study1.jp/kansai/school/B28P024/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に龍谷大学 5名と掲載。"
+      "source_url": "https://www.jsh.kindai.ac.jp/jhs/course-results/results/2024.php",
+      "verified_at": "2026-11-19",
+      "source_excerpt": "2024年度他私立大学。公式表記「龍谷」、学部欄「法(2) 社会(1) 文(1) 心理(1)」、合計5名。"
     }
   ],
   "academic_collection_statuses": [
