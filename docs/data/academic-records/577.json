@@ -283,8 +283,8 @@
       "collection_status": "not_published",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B14P033/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-19",
+      "reason": "公式の旧進路情報URLは現行の吉祥寺湧水公式サイトへリダイレクトし、年度別大学実績を表示しない。Study1の年度別表は2024列が全て空欄。確認可能な公式資料およびStudy1上で2024年度の大学別人数を確認できないため、数値行を追加しない。"
     },
     {
       "id": 1643,
@@ -293,8 +293,8 @@
       "collection_status": "collected",
       "approval_status": "approved",
       "source_url": "https://www.study1.jp/kanto/school/B14P033/univ_pass/",
-      "verified_at": "2026-08-27",
-      "reason": "Study1学校別大学合格実績ページを全行再監査し、個別大学の年度別人数を構造化して登録。"
+      "verified_at": "2026-11-19",
+      "reason": "Study1の2025年度大学合格実績表を再確認し、大学名付き12行の現行DB値を維持。学校公式の旧進路情報URLは現行サイトへリダイレクトし、過年度の大学別表は確認できない。合格者数を実進学者数とは扱わない。"
     },
     {
       "id": 1644,
@@ -303,8 +303,8 @@
       "collection_status": "recheck",
       "approval_status": "pending",
       "source_url": "https://www.study1.jp/kanto/school/B14P033/univ_pass/",
-      "verified_at": "2026-08-21",
-      "reason": "公式サイトの進路情報では対象年度の大学別人数を特定できず、Study1の大学合格実績ページまたは学校検索でも対象年度の確定値を確認できなかった。"
+      "verified_at": "2026-11-19",
+      "reason": "Study1の年度表は2025年度が最新で2026年度の大学別人数を掲載していない。学校公式の旧進路情報URLは現行の吉祥寺湧水公式トップへリダイレクトし、2026年度の大学別実績ページを確認できない。未公表と断定できる根拠がないため保留し、数値行は追加しない。"
     },
     {
       "id": 2040,
