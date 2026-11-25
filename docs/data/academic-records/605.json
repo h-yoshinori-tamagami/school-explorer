@@ -119,19 +119,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に北里大学 1名と掲載。"
     },
     {
-      "id": 34127,
-      "school_id": 605,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 153,
-      "source_url": "https://www.study1.jp/kansai/school/B28P026/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 153名と掲載。"
-    },
-    {
       "id": 34112,
       "school_id": 605,
       "academic_year": 2026,
@@ -806,19 +793,6 @@
       "source_url": "https://www.study1.jp/kansai/school/B28P026/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に兵庫県立大学 5名と掲載。"
-    },
-    {
-      "id": 34128,
-      "school_id": 605,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 171,
-      "source_url": "https://www.study1.jp/kansai/school/B28P026/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 171名と掲載。"
     },
     {
       "id": 34113,
@@ -1612,19 +1586,6 @@
       "source_url": "https://www.study1.jp/kansai/school/B28P026/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に兵庫県立大学 9名と掲載。"
-    },
-    {
-      "id": 34129,
-      "school_id": 605,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 192,
-      "source_url": "https://www.study1.jp/kansai/school/B28P026/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 192名と掲載。"
     },
     {
       "id": 34114,

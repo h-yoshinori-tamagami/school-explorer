@@ -366,19 +366,6 @@
       "source_excerpt": "Study1の2023年度大学合格実績に京都産業大学 8名と掲載。"
     },
     {
-      "id": 36067,
-      "school_id": 630,
-      "academic_year": 2023,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 297,
-      "source_url": "https://www.study1.jp/kansai/school/B28P022/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2023年度大学合格実績に卒業生数 297名と掲載。"
-    },
-    {
       "id": 36060,
       "school_id": 630,
       "academic_year": 2023,

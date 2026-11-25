@@ -119,19 +119,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に千葉県立保健医療大学 1名と掲載。"
     },
     {
-      "id": 35064,
-      "school_id": 620,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 387,
-      "source_url": "https://www.study1.jp/kanto/school/B11P006/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 387名と掲載。"
-    },
-    {
       "id": 35109,
       "school_id": 620,
       "academic_year": 2026,
@@ -1081,19 +1068,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 7名と掲載。"
     },
     {
-      "id": 35065,
-      "school_id": 620,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 312,
-      "source_url": "https://www.study1.jp/kanto/school/B11P006/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 312名と掲載。"
-    },
-    {
       "id": 35147,
       "school_id": 620,
       "academic_year": 2025,
@@ -1898,19 +1872,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B11P006/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に千葉大学 5名と掲載。"
-    },
-    {
-      "id": 35066,
-      "school_id": 620,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 306,
-      "source_url": "https://www.study1.jp/kanto/school/B11P006/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 306名と掲載。"
     },
     {
       "id": 35192,

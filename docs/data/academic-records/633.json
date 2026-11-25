@@ -28,19 +28,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に京都大学 1名と掲載。"
     },
     {
-      "id": 36104,
-      "school_id": 633,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 101,
-      "source_url": "https://www.study1.jp/kansai/school/B28P023/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 101名と掲載。"
-    },
-    {
       "id": 36094,
       "school_id": 633,
       "academic_year": 2026,
@@ -169,19 +156,6 @@
       "source_url": "https://www.study1.jp/kansai/school/B28P023/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2025年度大学合格実績に京都教育大学 1名と掲載。"
-    },
-    {
-      "id": 36105,
-      "school_id": 633,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 100,
-      "source_url": "https://www.study1.jp/kansai/school/B28P023/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 100名と掲載。"
     },
     {
       "id": 36095,

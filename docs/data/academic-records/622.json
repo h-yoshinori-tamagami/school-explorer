@@ -106,19 +106,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に千葉大学 6名と掲載。"
     },
     {
-      "id": 35278,
-      "school_id": 622,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 143,
-      "source_url": "https://www.study1.jp/kanto/school/B13P016/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 143名と掲載。"
-    },
-    {
       "id": 35227,
       "school_id": 622,
       "academic_year": 2026,
@@ -1068,19 +1055,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に千葉大学 4名と掲載。"
     },
     {
-      "id": 35279,
-      "school_id": 622,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 138,
-      "source_url": "https://www.study1.jp/kanto/school/B13P016/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 138名と掲載。"
-    },
-    {
       "id": 35324,
       "school_id": 622,
       "academic_year": 2025,
@@ -1885,19 +1859,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B13P016/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に千葉大学 5名と掲載。"
-    },
-    {
-      "id": 35280,
-      "school_id": 622,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 132,
-      "source_url": "https://www.study1.jp/kanto/school/B13P016/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 132名と掲載。"
     },
     {
       "id": 35374,

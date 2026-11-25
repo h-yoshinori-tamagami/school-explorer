@@ -1107,19 +1107,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に北海道大学 2名と掲載。"
     },
     {
-      "id": 34822,
-      "school_id": 619,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 235,
-      "source_url": "https://www.study1.jp/kansai/school/B28P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 235名と掲載。"
-    },
-    {
       "id": 34808,
       "school_id": 619,
       "academic_year": 2025,
@@ -2249,19 +2236,6 @@
       "source_url": "https://www.study1.jp/kansai/school/B28P017/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に千葉大学 1名と掲載。"
-    },
-    {
-      "id": 34823,
-      "school_id": 619,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 239,
-      "source_url": "https://www.study1.jp/kansai/school/B28P017/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 239名と掲載。"
     },
     {
       "id": 34809,

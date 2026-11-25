@@ -80,19 +80,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に信州大学 1名と掲載。"
     },
     {
-      "id": 35663,
-      "school_id": 626,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 225,
-      "source_url": "https://www.study1.jp/kanto/school/B15P012/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 225名と掲載。"
-    },
-    {
       "id": 35623,
       "school_id": 626,
       "academic_year": 2026,
@@ -444,19 +431,6 @@
       "source_excerpt": "Study1の2025年度大学合格実績に中央大学 1名と掲載。"
     },
     {
-      "id": 35664,
-      "school_id": 626,
-      "academic_year": 2025,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 196,
-      "source_url": "https://www.study1.jp/kanto/school/B15P012/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2025年度大学合格実績に卒業生数 196名と掲載。"
-    },
-    {
       "id": 35624,
       "school_id": 626,
       "academic_year": 2025,
@@ -689,19 +663,6 @@
       "source_url": "https://www.study1.jp/kanto/school/B15P012/univ_pass/",
       "verified_at": "2026-08-27",
       "source_excerpt": "Study1の2024年度大学合格実績に中央大学 1名と掲載。"
-    },
-    {
-      "id": 35665,
-      "school_id": 626,
-      "academic_year": 2024,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 164,
-      "source_url": "https://www.study1.jp/kanto/school/B15P012/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2024年度大学合格実績に卒業生数 164名と掲載。"
     },
     {
       "id": 35625,

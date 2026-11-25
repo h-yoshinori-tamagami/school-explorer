@@ -28,19 +28,6 @@
       "source_excerpt": "Study1の2026年度大学合格実績に中央大学 2名と掲載。"
     },
     {
-      "id": 38198,
-      "school_id": 675,
-      "academic_year": 2026,
-      "institution_name": "卒業生数",
-      "faculty_name": null,
-      "outcome_type": "admissions",
-      "source_kind": "study1",
-      "count": 69,
-      "source_url": "https://www.study1.jp/kanto/school/B13P034/univ_pass/",
-      "verified_at": "2026-08-27",
-      "source_excerpt": "Study1の2026年度大学合格実績に卒業生数 69名と掲載。"
-    },
-    {
       "id": 38181,
       "school_id": 675,
       "academic_year": 2026,
