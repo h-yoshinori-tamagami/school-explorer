@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[5799,["6831","static/chunks/6831-99d0df76fc2e141a.js","1773","static/chunks/app/learning/dice-rolling/page-8347b216a389a70f.js"],"ArticleHeader"]
+3:I[9659,["6831","static/chunks/6831-99d0df76fc2e141a.js","1773","static/chunks/app/learning/dice-rolling/page-8347b216a389a70f.js"],"DiceRollingLesson"]
+4:I[6831,["6831","static/chunks/6831-99d0df76fc2e141a.js","1773","static/chunks/app/learning/dice-rolling/page-8347b216a389a70f.js"],""]
+5:I[1091,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-[var(--color-page)]","children":[["$","$L2",null,{}],["$","p",null,{"className":"mx-auto max-w-6xl px-4 pt-4 text-sm font-bold text-indigo-700","children":"プレビュー教材"}],["$","$L3",null,{}],["$","nav",null,{"aria-label":"関連するサイコロ教材","className":"mx-auto max-w-6xl px-4 pb-12","children":["$","div",null,{"className":"rounded-xl border border-indigo-100 bg-white p-5","children":[["$","h2",null,{"className":"text-sm font-bold text-slate-700","children":"関連するサイコロ教材"}],["$","$L4",null,{"href":"/learning/cube-rotation","className":"mt-2 inline-block font-bold text-indigo-700 underline underline-offset-4","children":"動かしてわかる、サイコロの回転 →"}],["$","p",null,{"className":"mt-2 text-sm text-slate-600","children":"その場でサイコロを回して、面がどこへ移るか確かめよう。"}]]}]}]]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"llvFLDLsZOMUYY-KjSAue"}
+7:null
